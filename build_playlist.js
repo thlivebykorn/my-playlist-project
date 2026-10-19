@@ -27,11 +27,33 @@ async function main() {
 
       innerStreams.forEach(item => {
         const tag = item.tag || item.category_name || categoryName;
-        const name = item.name || "";
+
+        // ❌ เงื่อนไข: ไม่ดึงกลุ่มหรือแท็กที่เป็น "24/7 channel"
+        if (tag.toLowerCase() === "24/7 channel") return;
+
+        let rawName = item.name || "";
+
+        // จัดการปรับแต่งคำว่า "vs." หรืออักษรพิเศษตามต้องการ (เช่น เปลี่ยน vs. เป็น -)
+        rawName = rawName.replace(/\bvs\.?\b/gi, "-");
+
+        // 🕒 แปลงเวลา starts_at (Unix Timestamp) เป็นเวลาไทย (HH:mm) แล้วใส่ไว้ข้างหน้า
+        let displayName = rawName;
+        if (item.starts_at && item.starts_at > 0) {
+          const date = new Date(item.starts_at * 1000);
+          // ปรับเป็นเวลาประเทศไทย (UTC+7)
+          const timeString = date.toLocaleTimeString('th-TH', {
+            timeZone: 'Asia/Bangkok',
+            hour: '2-digit',
+            minute: '2-digit',
+            hour12: false
+          });
+          displayName = `${timeString} ${rawName}`;
+        }
+
         const poster = item.poster || "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png";
         const uriName = item.uri_name || "";
 
-        if (!uriName && !name) return;
+        if (!uriName && !rawName) return;
 
         if (!groupsMap[tag]) {
           groupsMap[tag] = {
@@ -44,7 +66,7 @@ async function main() {
         const streamUrl = `https://ppv.st/live/${uriName}`;
 
         groupsMap[tag].stations.push({
-          name: name,
+          name: displayName, // ชื่อที่มีเวลาแปะด้านหน้าเรียบร้อย
           image: poster,
           url: streamUrl,
           referer: streamUrl,

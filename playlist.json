@@ -7,14 +7,6 @@
       "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
       "stations": [
         {
-          "name": "07:20 Dallas Cowboys at Green Bay Packers",
-          "image": "https://static.ppvservices.st/assets/thumb/2466229e73cc9ab004efe064032813a5-thumbnail.jpg",
-          "url": "https://ppv.st/live/nfl/2026-10-18/dal-gb",
-          "referer": "https://ppv.st/live/nfl/2026-10-18/dal-gb",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
           "name": "07:15 Washington Commanders at San Francisco 49ers",
           "image": "https://static.ppvservices.st/assets/thumb/7b6910fc8f96bc176e6dd35f2adf06c8-thumbnail.jpg",
           "url": "https://ppv.st/live/nfl/2026-10-19/wsh-sf",

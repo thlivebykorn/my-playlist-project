@@ -1,0 +1,29 @@
+name: Auto Update Playlist
+
+on:
+  schedule:
+    - cron: '0 */2 * * *' # รันอัปเดตทุกๆ 2 ชั่วโมง
+  workflow_dispatch: # กดสั่งรันเองได้ตลอดเวลา
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Run Build Script
+        run: node build_playlist.js
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add playlist.json
+          git commit -m "Auto update playlist.json" || exit 0
+          git push

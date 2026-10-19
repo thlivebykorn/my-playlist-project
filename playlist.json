@@ -1,0 +1,224 @@
+{
+  "name": "ทีวีแจกฟรีห้ามขาย",
+  "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
+  "groups": [
+    {
+      "name": "24/7 channel",
+      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
+      "stations": [
+        {
+          "name": "NFL Network",
+          "image": "https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg",
+          "url": "https://ppv.st/live/nfl-network",
+          "referer": "https://ppv.st/live/nfl-network",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "Fox Footy",
+          "image": "https://static.ppvservices.st/assets/thumb/514cf8272ec290889a5ce6fd299fb9c8-thumbnail.jpg",
+          "url": "https://ppv.st/live/247-fox-footy",
+          "referer": "https://ppv.st/live/247-fox-footy",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "Willow",
+          "image": "https://static.ppvservices.st/assets/thumb/2e3cba2a94ae6af4b958675e73fe91e9-thumbnail.jpg",
+          "url": "https://ppv.st/live/247-willow",
+          "referer": "https://ppv.st/live/247-willow",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "Fox Cricket",
+          "image": "https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg",
+          "url": "https://ppv.st/live/247-fox-cricket",
+          "referer": "https://ppv.st/live/247-fox-cricket",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "Sky Sports Golf",
+          "image": "https://static.ppvservices.st/assets/thumb/9950e3e6c1a19cad6a216ec1c6b50d71-thumbnail.jpg",
+          "url": "https://ppv.st/live/sky-sports-golf-29059",
+          "referer": "https://ppv.st/live/sky-sports-golf-29059",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "NHL Network",
+          "image": "https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg",
+          "url": "https://ppv.st/live/nhl-network-29780",
+          "referer": "https://ppv.st/live/nhl-network-29780",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "Fox League",
+          "image": "https://static.ppvservices.st/assets/thumb/5ec4933f4ae6363e151dfe5c75ad24e3-thumbnail.jpg",
+          "url": "https://ppv.st/live/247-fox-league",
+          "referer": "https://ppv.st/live/247-fox-league",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "24/7 South Park",
+          "image": "https://thumbs.poocloud.in/southpark/preview.jpg",
+          "url": "https://ppv.st/live/247-south-park",
+          "referer": "https://ppv.st/live/247-south-park",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "24/7 COWS",
+          "image": "https://static.ppvservices.st/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg",
+          "url": "https://ppv.st/live/247-cows",
+          "referer": "https://ppv.st/live/247-cows",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "24/7 Family Guy",
+          "image": "https://thumbs.poocloud.in/familyguy/preview.jpg",
+          "url": "https://ppv.st/live/247-family-guy",
+          "referer": "https://ppv.st/live/247-family-guy",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "24/7 The Simpsons",
+          "image": "https://thumbs.poocloud.in/thesimpsons/preview.jpg",
+          "url": "https://ppv.st/live/247-the-simpsons",
+          "referer": "https://ppv.st/live/247-the-simpsons",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "24/7 SpongeBob Squarepants",
+          "image": "https://static.ppvservices.st/assets/thumb/f8e24d78314ed44b137c90cbf50b1c1d-thumbnail.jpg",
+          "url": "https://ppv.st/live/247-spongebob-squarepants",
+          "referer": "https://ppv.st/live/247-spongebob-squarepants",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "Rally TV",
+          "image": "https://static.ppvservices.st/assets/thumb/0b5137de6f5809a3c652fad1b9c1bd57-thumbnail.jpg",
+          "url": "https://ppv.st/live/rally-tv",
+          "referer": "https://ppv.st/live/rally-tv",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "Sky Sports Racing",
+          "image": "https://static.ppvservices.st/assets/thumb/43030017ee0ab21769b49bffe20f76d1-thumbnail.jpg",
+          "url": "https://ppv.st/live/sky-sports-racing",
+          "referer": "https://ppv.st/live/sky-sports-racing",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "NFL",
+      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
+      "stations": [
+        {
+          "name": "Dallas Cowboys at Green Bay Packers",
+          "image": "https://static.ppvservices.st/assets/thumb/2466229e73cc9ab004efe064032813a5-thumbnail.jpg",
+          "url": "https://ppv.st/live/nfl/2026-10-18/dal-gb",
+          "referer": "https://ppv.st/live/nfl/2026-10-18/dal-gb",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "Washington Commanders at San Francisco 49ers",
+          "image": "https://static.ppvservices.st/assets/thumb/7b6910fc8f96bc176e6dd35f2adf06c8-thumbnail.jpg",
+          "url": "https://ppv.st/live/nfl/2026-10-19/wsh-sf",
+          "referer": "https://ppv.st/live/nfl/2026-10-19/wsh-sf",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "Liga MX",
+      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
+      "stations": [
+        {
+          "name": "Monterrey vs. Pachuca",
+          "image": "https://static.ppvservices.st/assets/thumb/dfe7e27bd589804f349d4ac5e450fad3-thumbnail.jpg",
+          "url": "https://ppv.st/live/liga-mx/2026-10-18/mty-pac",
+          "referer": "https://ppv.st/live/liga-mx/2026-10-18/mty-pac",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "Serie A",
+      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
+      "stations": [
+        {
+          "name": "Monza vs. Cagliari",
+          "image": "https://static.ppvservices.st/assets/thumb/c9ea95e3aca9279c294b1dae607379f6-thumbnail.jpg",
+          "url": "https://ppv.st/live/seriea/2026-10-19/mon-cag",
+          "referer": "https://ppv.st/live/seriea/2026-10-19/mon-cag",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "Parma vs. Torino",
+          "image": "https://static.ppvservices.st/assets/thumb/1821d2e2694c899ddabcb06e9339ef4b-thumbnail.jpg",
+          "url": "https://ppv.st/live/seriea/2026-10-19/par-tor",
+          "referer": "https://ppv.st/live/seriea/2026-10-19/par-tor",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "Allsvenskan",
+      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
+      "stations": [
+        {
+          "name": "Degerfors IF vs. Kalmar FF",
+          "image": "https://static.ppvservices.st/assets/thumb/201c25c939ce9448f2bbcbb84ddbd6f3-thumbnail.jpg",
+          "url": "https://ppv.st/live/allsvenskan/2026-10-19/deg-kff",
+          "referer": "https://ppv.st/live/allsvenskan/2026-10-19/deg-kff",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "LaLiga",
+      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
+      "stations": [
+        {
+          "name": "Getafe vs. Rayo Vallecano",
+          "image": "https://static.ppvservices.st/assets/thumb/033d192e08de47c1679e2cb4cd411937-thumbnail.jpg",
+          "url": "https://ppv.st/live/laliga/2026-10-19/get-ray",
+          "referer": "https://ppv.st/live/laliga/2026-10-19/get-ray",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "Premier League",
+      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
+      "stations": [
+        {
+          "name": "Tottenham Hotspur vs. Coventry City",
+          "image": "https://static.ppvservices.st/assets/thumb/31fc2b37d1dda2e026502ae7977dcbed-thumbnail.jpg",
+          "url": "https://ppv.st/live/pl/2026-10-19/tot-cov",
+          "referer": "https://ppv.st/live/pl/2026-10-19/tot-cov",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    }
+  ]
+}

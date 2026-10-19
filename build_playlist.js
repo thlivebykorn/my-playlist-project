@@ -6,7 +6,7 @@ async function main() {
   try {
     const res = await fetch(apiUrl, {
       headers: {
-        "User-Agent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
         "Accept": "application/json",
         "Referer": "https://ppv.st/"
       }
@@ -28,19 +28,18 @@ async function main() {
       innerStreams.forEach(item => {
         const tag = item.tag || item.category_name || categoryName;
 
-        // ❌ เงื่อนไข: ไม่ดึงกลุ่มหรือแท็กที่เป็น "24/7 channel"
-        if (tag.toLowerCase() === "24/7 channel") return;
+        // ❌ ยกเว้นเฉพาะ "24/7 channel" (ไม่สนใจตัวพิมพ์เล็ก/ใหญ่)
+        if (tag.trim().toLowerCase() === "24/7 channel") return;
 
         let rawName = item.name || "";
 
-        // จัดการปรับแต่งคำว่า "vs." หรืออักษรพิเศษตามต้องการ (เช่น เปลี่ยน vs. เป็น -)
+        // จัดการปรับแต่ง/แทนที่คำว่า "vs." เป็น "-"
         rawName = rawName.replace(/\bvs\.?\b/gi, "-");
 
-        // 🕒 แปลงเวลา starts_at (Unix Timestamp) เป็นเวลาไทย (HH:mm) แล้วใส่ไว้ข้างหน้า
+        // 🕒 แปลงเวลา starts_at (Unix Timestamp) เป็นเวลาไทย (HH:mm) แล้ววางไว้หน้าชื่อรายการ
         let displayName = rawName;
         if (item.starts_at && item.starts_at > 0) {
           const date = new Date(item.starts_at * 1000);
-          // ปรับเป็นเวลาประเทศไทย (UTC+7)
           const timeString = date.toLocaleTimeString('th-TH', {
             timeZone: 'Asia/Bangkok',
             hour: '2-digit',
@@ -66,11 +65,11 @@ async function main() {
         const streamUrl = `https://ppv.st/live/${uriName}`;
 
         groupsMap[tag].stations.push({
-          name: displayName, // ชื่อที่มีเวลาแปะด้านหน้าเรียบร้อย
+          name: displayName,
           image: poster,
           url: streamUrl,
           referer: streamUrl,
-          userAgent: "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          userAgent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
           playInNatPlayer: "true"
         });
       });

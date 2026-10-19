@@ -25,20 +25,6 @@
       ]
     },
     {
-      "name": "Liga MX",
-      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
-      "stations": [
-        {
-          "name": "08:00 Monterrey -. Pachuca",
-          "image": "https://static.ppvservices.st/assets/thumb/dfe7e27bd589804f349d4ac5e450fad3-thumbnail.jpg",
-          "url": "https://ppv.st/live/liga-mx/2026-10-18/mty-pac",
-          "referer": "https://ppv.st/live/liga-mx/2026-10-18/mty-pac",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
       "name": "Serie A",
       "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
       "stations": [

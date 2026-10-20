@@ -7,14 +7,6 @@
       "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
       "stations": [
         {
-          "name": "07:15 Washington Commanders at San Francisco 49ers",
-          "image": "https://static.ppvservices.st/assets/thumb/7b6910fc8f96bc176e6dd35f2adf06c8-thumbnail.jpg",
-          "url": "https://ppv.st/live/nfl/2026-10-19/wsh-sf",
-          "referer": "https://ppv.st/live/nfl/2026-10-19/wsh-sf",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
           "name": "07:15 New England Patriots at Chicago Bears",
           "image": "https://static.ppvservices.st/assets/thumb/4a38efa61a2afa2211d946524e32f994-thumbnail.jpg",
           "url": "https://ppv.st/live/nfl/2026-10-22/ne-chi",

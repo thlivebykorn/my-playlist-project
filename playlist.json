@@ -453,6 +453,14 @@
           "playInNatPlayer": "true"
         },
         {
+          "name": "01:00 The Golazo Show",
+          "image": "https://static.ppvservices.st/assets/thumb/101ad164ae332c52a02f84d5994156c9-thumbnail.jpg",
+          "url": "https://ppv.st/live/the-golazo-show-30801",
+          "referer": "https://ppv.st/live/the-golazo-show-30801",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
           "name": "02:00 AS Roma -. Slovan Bratislava",
           "image": "https://static.ppvservices.st/assets/thumb/b7166edeea2daaa0957bd0e81aa6f243-thumbnail.jpg",
           "url": "https://ppv.st/live/ucl/2026-10-20/roma-slb",
@@ -525,6 +533,14 @@
           "playInNatPlayer": "true"
         },
         {
+          "name": "01:00 The Golazo Show",
+          "image": "https://static.ppvservices.st/assets/thumb/101ad164ae332c52a02f84d5994156c9-thumbnail.jpg",
+          "url": "https://ppv.st/live/the-golazo-show-30802",
+          "referer": "https://ppv.st/live/the-golazo-show-30802",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
           "name": "02:00 Aston Villa -. Viking FK",
           "image": "https://static.ppvservices.st/assets/thumb/3a0ba26740b9d2317364a5ac48b4e2b8-thumbnail.jpg",
           "url": "https://ppv.st/live/ucl/2026-10-21/avl-vfk",
@@ -577,6 +593,42 @@
           "image": "https://static.ppvservices.st/assets/thumb/67ab0f51b6ad6c122585e0f701af4b6b-thumbnail.jpg",
           "url": "https://ppv.st/live/ucl/2026-10-21/scp-las",
           "referer": "https://ppv.st/live/ucl/2026-10-21/scp-las",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "EFL League Two",
+      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
+      "stations": [
+        {
+          "name": "01:45 Walsall -. Oldham Athletic",
+          "image": "https://static.ppvservices.st/assets/thumb/8d165ac10676cb6cf949cd5b7fd7ba09-thumbnail.jpg",
+          "url": "https://ppv.st/live/efl-league-two/2026-10-20/wal-old",
+          "referer": "https://ppv.st/live/efl-league-two/2026-10-20/wal-old",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "01:45 Rochdale -. Grimsby Town",
+          "image": "https://static.ppvservices.st/assets/thumb/92a3b8b0ba937df08fee8ca1d5ddc2be-thumbnail.jpg",
+          "url": "https://ppv.st/live/efl-league-two/2026-10-20/rch-gri",
+          "referer": "https://ppv.st/live/efl-league-two/2026-10-20/rch-gri",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "EFL Championship",
+      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
+      "stations": [
+        {
+          "name": "01:45 Wolverhampton Wanderers -. Portsmouth",
+          "image": "https://static.ppvservices.st/assets/thumb/076f90c5b4d7b3158fbbfec02ef7e721-thumbnail.jpg",
+          "url": "https://ppv.st/live/efl-championship/2026-10-20/wol-por",
+          "referer": "https://ppv.st/live/efl-championship/2026-10-20/wol-por",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         }
@@ -1114,6 +1166,14 @@
       "name": "Europa League",
       "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
       "stations": [
+        {
+          "name": "23:00 The Golazo Show",
+          "image": "https://static.ppvservices.st/assets/thumb/9abba790e6243b72b412914826da3049-thumbnail.jpg",
+          "url": "https://ppv.st/live/the-golazo-show-30803",
+          "referer": "https://ppv.st/live/the-golazo-show-30803",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
         {
           "name": "23:45 Ararat-Armenia -. AZ Alkmaar",
           "image": "https://static.ppvservices.st/assets/thumb/47b02c4ca5d3772b629def6632805b28-thumbnail.jpg",

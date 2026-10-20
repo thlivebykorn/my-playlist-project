@@ -437,22 +437,6 @@
       "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
       "stations": [
         {
-          "name": "23:45 Fenerbahce -. Slavia Prague",
-          "image": "https://static.ppvservices.st/assets/thumb/5455c39f5312a7a63351701e7eb89949-thumbnail.jpg",
-          "url": "https://ppv.st/live/ucl/2026-10-20/fen-slp",
-          "referer": "https://ppv.st/live/ucl/2026-10-20/fen-slp",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "23:45 Sabah FK -. Borussia Dortmund",
-          "image": "https://static.ppvservices.st/assets/thumb/43b8bc3595efec515f21e0c399d4e168-thumbnail.jpg",
-          "url": "https://ppv.st/live/ucl/2026-10-20/sab-dor",
-          "referer": "https://ppv.st/live/ucl/2026-10-20/sab-dor",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
           "name": "01:00 The Golazo Show",
           "image": "https://static.ppvservices.st/assets/thumb/101ad164ae332c52a02f84d5994156c9-thumbnail.jpg",
           "url": "https://ppv.st/live/the-golazo-show-30801",
@@ -593,42 +577,6 @@
           "image": "https://static.ppvservices.st/assets/thumb/67ab0f51b6ad6c122585e0f701af4b6b-thumbnail.jpg",
           "url": "https://ppv.st/live/ucl/2026-10-21/scp-las",
           "referer": "https://ppv.st/live/ucl/2026-10-21/scp-las",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
-      "name": "EFL League Two",
-      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
-      "stations": [
-        {
-          "name": "01:45 Walsall -. Oldham Athletic",
-          "image": "https://static.ppvservices.st/assets/thumb/8d165ac10676cb6cf949cd5b7fd7ba09-thumbnail.jpg",
-          "url": "https://ppv.st/live/efl-league-two/2026-10-20/wal-old",
-          "referer": "https://ppv.st/live/efl-league-two/2026-10-20/wal-old",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "01:45 Rochdale -. Grimsby Town",
-          "image": "https://static.ppvservices.st/assets/thumb/92a3b8b0ba937df08fee8ca1d5ddc2be-thumbnail.jpg",
-          "url": "https://ppv.st/live/efl-league-two/2026-10-20/rch-gri",
-          "referer": "https://ppv.st/live/efl-league-two/2026-10-20/rch-gri",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
-      "name": "EFL Championship",
-      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
-      "stations": [
-        {
-          "name": "01:45 Wolverhampton Wanderers -. Portsmouth",
-          "image": "https://static.ppvservices.st/assets/thumb/076f90c5b4d7b3158fbbfec02ef7e721-thumbnail.jpg",
-          "url": "https://ppv.st/live/efl-championship/2026-10-20/wol-por",
-          "referer": "https://ppv.st/live/efl-championship/2026-10-20/wol-por",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         }

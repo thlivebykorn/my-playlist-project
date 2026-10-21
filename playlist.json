@@ -391,6 +391,58 @@
           "referer": "https://ppv.st/live/nba/2026-10-21/sac-lac",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
+        },
+        {
+          "name": "06:00 Cleveland Cavaliers -. Philadelphia 76ers",
+          "image": "https://static.ppvservices.st/assets/thumb/47e21a3dbde61d0cffc76ae7c230b4ef-thumbnail.jpg",
+          "url": "https://ppv.st/live/nba/2026-10-22/cle-phi",
+          "referer": "https://ppv.st/live/nba/2026-10-22/cle-phi",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "08:30 Denver Nuggets -. Oklahoma City Thunder",
+          "image": "https://static.ppvservices.st/assets/thumb/81e3ec7559f480e71f649c37c8472230-thumbnail.jpg",
+          "url": "https://ppv.st/live/nba/2026-10-22/den-okc",
+          "referer": "https://ppv.st/live/nba/2026-10-22/den-okc",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "WNBA",
+      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
+      "stations": [
+        {
+          "name": "07:00 Golden State Valkyries -. Atlanta Dream",
+          "image": "https://static.ppvservices.st/assets/thumb/aebc507f7118ab97337adcd3e37475c5-thumbnail.jpg",
+          "url": "https://ppv.st/live/wnba/2026-10-21/gs-atl",
+          "referer": "https://ppv.st/live/wnba/2026-10-21/gs-atl",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "NBL",
+      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
+      "stations": [
+        {
+          "name": "15:30 Illawarra Hawks -. Sydney Kings",
+          "image": "https://static.ppvservices.st/assets/thumb/158910895bad35a6626182e0ab01d626-thumbnail.jpg",
+          "url": "https://ppv.st/live/nbl/2026-10-22/hwk-syd",
+          "referer": "https://ppv.st/live/nbl/2026-10-22/hwk-syd",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "17:30 Perth Wildcats -. Melbourne United",
+          "image": "https://static.ppvservices.st/assets/thumb/b37ba2908cd852ea5df2dff56f1dcb54-thumbnail.jpg",
+          "url": "https://ppv.st/live/nbl/2026-10-23/per-mel",
+          "referer": "https://ppv.st/live/nbl/2026-10-23/per-mel",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
         }
       ]
     },
@@ -1605,6 +1657,42 @@
           "image": "https://static.ppvservices.st/assets/thumb/6312fb7314c7c19bb907ec2ad98b0d5f-thumbnail.jpg",
           "url": "https://ppv.st/live/pl/2026-10-25/sun-lee",
           "referer": "https://ppv.st/live/pl/2026-10-25/sun-lee",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "NHL",
+      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
+      "stations": [
+        {
+          "name": "06:30 Philadelphia Flyers -. Buffalo Sabres",
+          "image": "https://static.ppvservices.st/assets/thumb/972bf375a2410441fd4efb8e37243a86-thumbnail.jpg",
+          "url": "https://ppv.st/live/nhl/2026-10-21/phi-buf",
+          "referer": "https://ppv.st/live/nhl/2026-10-21/phi-buf",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "06:30 Florida Panthers -. Ottawa Senators",
+          "image": "https://static.ppvservices.st/assets/thumb/372ef60d9289bd827a105bc25d53b7e4-thumbnail.jpg",
+          "url": "https://ppv.st/live/nhl/2026-10-21/fla-ott",
+          "referer": "https://ppv.st/live/nhl/2026-10-21/fla-ott",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "AHL",
+      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
+      "stations": [
+        {
+          "name": "09:00 Coachella Valley Firebirds - San Diego Gulls",
+          "image": "https://static.ppvservices.st/assets/thumb/8604605d4c4b399716b9decfa0ab1725-thumbnail.jpg",
+          "url": "https://ppv.st/live/coachella-valley-firebirds-vs-san-diego-gulls-30812",
+          "referer": "https://ppv.st/live/coachella-valley-firebirds-vs-san-diego-gulls-30812",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         }

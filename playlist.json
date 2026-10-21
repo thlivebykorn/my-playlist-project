@@ -301,20 +301,6 @@
       ]
     },
     {
-      "name": "NBL",
-      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
-      "stations": [
-        {
-          "name": "15:30 Tasmania JackJumpers -. Brisbane Bullets",
-          "image": "https://static.ppvservices.st/assets/thumb/a00c4101973e994d06ae26a11b9f9381-thumbnail.jpg",
-          "url": "https://ppv.st/live/nbl/2026-10-21/tas-bri",
-          "referer": "https://ppv.st/live/nbl/2026-10-21/tas-bri",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
       "name": "NBA",
       "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
       "stations": [

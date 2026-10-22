@@ -305,70 +305,6 @@
       "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
       "stations": [
         {
-          "name": "06:00 Atlanta Hawks -. Orlando Magic",
-          "image": "https://static.ppvservices.st/assets/thumb/8b2b07533a467425db9121211f8bfe64-thumbnail.jpg",
-          "url": "https://ppv.st/live/nba/2026-10-21/atl-orl",
-          "referer": "https://ppv.st/live/nba/2026-10-21/atl-orl",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "06:00 Milwaukee Bucks -. Washington Wizards",
-          "image": "https://static.ppvservices.st/assets/thumb/5749942790c20b82639fc89cc2b7eef1-thumbnail.jpg",
-          "url": "https://ppv.st/live/nba/2026-10-21/mil-wsh",
-          "referer": "https://ppv.st/live/nba/2026-10-21/mil-wsh",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "06:30 Minnesota Timberwolves -. Miami Heat",
-          "image": "https://static.ppvservices.st/assets/thumb/b4f54d56425064c99d88b92c3890261f-thumbnail.jpg",
-          "url": "https://ppv.st/live/nba/2026-10-21/min-mia",
-          "referer": "https://ppv.st/live/nba/2026-10-21/min-mia",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "06:30 Charlotte Hornets -. Brooklyn Nets",
-          "image": "https://static.ppvservices.st/assets/thumb/2dfb6b5bf08e54e0df08b50bace1a609-thumbnail.jpg",
-          "url": "https://ppv.st/live/nba/2026-10-21/cha-bkn",
-          "referer": "https://ppv.st/live/nba/2026-10-21/cha-bkn",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "06:30 Chicago Bulls -. Toronto Raptors",
-          "image": "https://static.ppvservices.st/assets/thumb/0a2657ec0741f9f93bb63adb50de71f2-thumbnail.jpg",
-          "url": "https://ppv.st/live/nba/2026-10-21/chi-tor",
-          "referer": "https://ppv.st/live/nba/2026-10-21/chi-tor",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "07:00 Utah Jazz -. Memphis Grizzlies",
-          "image": "https://static.ppvservices.st/assets/thumb/550cff2a9e25a0fb0bdd126b50c9da2e-thumbnail.jpg",
-          "url": "https://ppv.st/live/nba/2026-10-21/utah-mem",
-          "referer": "https://ppv.st/live/nba/2026-10-21/utah-mem",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "07:00 Indiana Pacers -. New Orleans Pelicans",
-          "image": "https://static.ppvservices.st/assets/thumb/1ad5fb8e106d9c5fa99249cfc218f0a8-thumbnail.jpg",
-          "url": "https://ppv.st/live/nba/2026-10-21/ind-no",
-          "referer": "https://ppv.st/live/nba/2026-10-21/ind-no",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "07:30 Dallas Mavericks -. Houston Rockets",
-          "image": "https://static.ppvservices.st/assets/thumb/80411e5a3d947113875c2bb519b7b347-thumbnail.jpg",
-          "url": "https://ppv.st/live/nba/2026-10-21/dal-hou",
-          "referer": "https://ppv.st/live/nba/2026-10-21/dal-hou",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
           "name": "09:00 Golden State Warriors -. Los Angeles Lakers",
           "image": "https://static.ppvservices.st/assets/thumb/597ca4ae9aa57cafe63040c1967d6714-thumbnail.jpg",
           "url": "https://ppv.st/live/nba/2026-10-21/gs-lal",
@@ -411,20 +347,6 @@
       ]
     },
     {
-      "name": "WNBA",
-      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
-      "stations": [
-        {
-          "name": "07:00 Golden State Valkyries -. Atlanta Dream",
-          "image": "https://static.ppvservices.st/assets/thumb/aebc507f7118ab97337adcd3e37475c5-thumbnail.jpg",
-          "url": "https://ppv.st/live/wnba/2026-10-21/gs-atl",
-          "referer": "https://ppv.st/live/wnba/2026-10-21/gs-atl",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
       "name": "NBL",
       "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
       "stations": [
@@ -447,167 +369,9 @@
       ]
     },
     {
-      "name": "MLS",
-      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
-      "stations": [
-        {
-          "name": "06:00 FC Cincinnati -. D.C. United",
-          "image": "https://static.ppvservices.st/assets/thumb/5f755e440147d051688f6e5fb9eb00c8-thumbnail.jpg",
-          "url": "https://ppv.st/live/mls/2026-10-21/cin-dc",
-          "referer": "https://ppv.st/live/mls/2026-10-21/cin-dc",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "00:30 CF Montréal -. Nashville SC",
-          "image": "https://static.ppvservices.st/assets/thumb/d2b272fb94b672fa09ad7d09f05928e6-thumbnail.jpg",
-          "url": "https://ppv.st/live/mls/2026-10-24/mtl-nsh",
-          "referer": "https://ppv.st/live/mls/2026-10-24/mtl-nsh",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "02:30 Columbus Crew -. Toronto FC",
-          "image": "https://static.ppvservices.st/assets/thumb/309dc0b928c87fb135f58df7a5c752aa-thumbnail.jpg",
-          "url": "https://ppv.st/live/mls/2026-10-24/clb-tor",
-          "referer": "https://ppv.st/live/mls/2026-10-24/clb-tor",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "04:30 Red Bull New York -. Inter Miami CF",
-          "image": "https://static.ppvservices.st/assets/thumb/df8b3d875cfecf751d9ce10a259c288d-thumbnail.jpg",
-          "url": "https://ppv.st/live/mls/2026-10-24/rbny-mia",
-          "referer": "https://ppv.st/live/mls/2026-10-24/rbny-mia",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "06:30 Atlanta United FC -. Chicago Fire FC",
-          "image": "https://static.ppvservices.st/assets/thumb/901a572763652f4216249f503c61d7f4-thumbnail.jpg",
-          "url": "https://ppv.st/live/mls/2026-10-24/atl-chi",
-          "referer": "https://ppv.st/live/mls/2026-10-24/atl-chi",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "06:30 D.C. United -. FC Cincinnati",
-          "image": "https://static.ppvservices.st/assets/thumb/3c2e0202a89a23c969d728dcd4148cea-thumbnail.jpg",
-          "url": "https://ppv.st/live/mls/2026-10-24/dc-cin",
-          "referer": "https://ppv.st/live/mls/2026-10-24/dc-cin",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "06:30 Orlando City SC -. New York City FC",
-          "image": "https://static.ppvservices.st/assets/thumb/e79bcc3213ba2e6db7f74ba4e6d1e28a-thumbnail.jpg",
-          "url": "https://ppv.st/live/mls/2026-10-24/orl-nyc",
-          "referer": "https://ppv.st/live/mls/2026-10-24/orl-nyc",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "06:30 Philadelphia Union -. New England Revolution",
-          "image": "https://static.ppvservices.st/assets/thumb/baf89588caf7e93982e9967994b533d7-thumbnail.jpg",
-          "url": "https://ppv.st/live/mls/2026-10-24/phi-ne",
-          "referer": "https://ppv.st/live/mls/2026-10-24/phi-ne",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "07:30 Colorado Rapids -. Vancouver Whitecaps",
-          "image": "https://static.ppvservices.st/assets/thumb/a8d2d67fa2b5e4ee8e6a46c55fb10629-thumbnail.jpg",
-          "url": "https://ppv.st/live/mls/2026-10-24/col-van",
-          "referer": "https://ppv.st/live/mls/2026-10-24/col-van",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "07:30 FC Dallas -. San Jose Earthquakes",
-          "image": "https://static.ppvservices.st/assets/thumb/3815781e3b0d14f64f83ead3c9e26d8e-thumbnail.jpg",
-          "url": "https://ppv.st/live/mls/2026-10-24/dal-sj",
-          "referer": "https://ppv.st/live/mls/2026-10-24/dal-sj",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "07:30 Houston Dynamo FC -. Minnesota United FC",
-          "image": "https://static.ppvservices.st/assets/thumb/f4e67f256d1b291a9be79b18b5222eaf-thumbnail.jpg",
-          "url": "https://ppv.st/live/mls/2026-10-24/hou-min",
-          "referer": "https://ppv.st/live/mls/2026-10-24/hou-min",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "07:30 Real Salt Lake -. St. Louis CITY SC",
-          "image": "https://static.ppvservices.st/assets/thumb/ecb216fb60ca10f81d1404db3fa0de44-thumbnail.jpg",
-          "url": "https://ppv.st/live/mls/2026-10-24/rsl-stl",
-          "referer": "https://ppv.st/live/mls/2026-10-24/rsl-stl",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "07:30 Sporting Kansas City -. Austin FC",
-          "image": "https://static.ppvservices.st/assets/thumb/449833eed287f55b92674dd39261925f-thumbnail.jpg",
-          "url": "https://ppv.st/live/mls/2026-10-24/skc-atx",
-          "referer": "https://ppv.st/live/mls/2026-10-24/skc-atx",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "09:30 Portland Timbers -. Charlotte FC",
-          "image": "https://static.ppvservices.st/assets/thumb/870626ed86be8857845bad8632bcd52f-thumbnail.jpg",
-          "url": "https://ppv.st/live/mls/2026-10-24/por-clt",
-          "referer": "https://ppv.st/live/mls/2026-10-24/por-clt",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "09:30 San Diego FC -. Seattle Sounders FC",
-          "image": "https://static.ppvservices.st/assets/thumb/a07433c2119138ae097eed1b75293731-thumbnail.jpg",
-          "url": "https://ppv.st/live/mls/2026-10-24/sd-sea",
-          "referer": "https://ppv.st/live/mls/2026-10-24/sd-sea",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "08:00 LAFC -. LA Galaxy",
-          "image": "https://static.ppvservices.st/assets/thumb/ffdf0c71d755ff4bc474ba6e6b8793f1-thumbnail.jpg",
-          "url": "https://ppv.st/live/mls/2026-10-25/lafc-la",
-          "referer": "https://ppv.st/live/mls/2026-10-25/lafc-la",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
       "name": "Liga MX",
       "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
       "stations": [
-        {
-          "name": "08:00 Atlas -. América",
-          "image": "https://static.ppvservices.st/assets/thumb/9a17026b80858cedd1608116c1a1e3ee-thumbnail.jpg",
-          "url": "https://ppv.st/live/liga-mx/2026-10-21/ats-ame",
-          "referer": "https://ppv.st/live/liga-mx/2026-10-21/ats-ame",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "08:00 Puebla -. Monterrey",
-          "image": "https://static.ppvservices.st/assets/thumb/2dd83dee5088427e3ed07fe6b535c3f9-thumbnail.jpg",
-          "url": "https://ppv.st/live/liga-mx/2026-10-21/pue-mty",
-          "referer": "https://ppv.st/live/liga-mx/2026-10-21/pue-mty",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "08:00 Toluca -. Tijuana",
-          "image": "https://static.ppvservices.st/assets/thumb/fe68ecf58b84093947e6b4b87b9c778d-thumbnail.jpg",
-          "url": "https://ppv.st/live/liga-mx/2026-10-21/tol-tij",
-          "referer": "https://ppv.st/live/liga-mx/2026-10-21/tol-tij",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
         {
           "name": "10:00 Pachuca -. Cruz Azul",
           "image": "https://static.ppvservices.st/assets/thumb/2262cc82c3cb8d5bc231a2e5dd768233-thumbnail.jpg",
@@ -1569,22 +1333,126 @@
       ]
     },
     {
-      "name": "NHL",
+      "name": "MLS",
       "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
       "stations": [
         {
-          "name": "06:30 Philadelphia Flyers -. Buffalo Sabres",
-          "image": "https://static.ppvservices.st/assets/thumb/972bf375a2410441fd4efb8e37243a86-thumbnail.jpg",
-          "url": "https://ppv.st/live/nhl/2026-10-21/phi-buf",
-          "referer": "https://ppv.st/live/nhl/2026-10-21/phi-buf",
+          "name": "00:30 CF Montréal -. Nashville SC",
+          "image": "https://static.ppvservices.st/assets/thumb/d2b272fb94b672fa09ad7d09f05928e6-thumbnail.jpg",
+          "url": "https://ppv.st/live/mls/2026-10-24/mtl-nsh",
+          "referer": "https://ppv.st/live/mls/2026-10-24/mtl-nsh",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         },
         {
-          "name": "06:30 Florida Panthers -. Ottawa Senators",
-          "image": "https://static.ppvservices.st/assets/thumb/372ef60d9289bd827a105bc25d53b7e4-thumbnail.jpg",
-          "url": "https://ppv.st/live/nhl/2026-10-21/fla-ott",
-          "referer": "https://ppv.st/live/nhl/2026-10-21/fla-ott",
+          "name": "02:30 Columbus Crew -. Toronto FC",
+          "image": "https://static.ppvservices.st/assets/thumb/309dc0b928c87fb135f58df7a5c752aa-thumbnail.jpg",
+          "url": "https://ppv.st/live/mls/2026-10-24/clb-tor",
+          "referer": "https://ppv.st/live/mls/2026-10-24/clb-tor",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "04:30 Red Bull New York -. Inter Miami CF",
+          "image": "https://static.ppvservices.st/assets/thumb/df8b3d875cfecf751d9ce10a259c288d-thumbnail.jpg",
+          "url": "https://ppv.st/live/mls/2026-10-24/rbny-mia",
+          "referer": "https://ppv.st/live/mls/2026-10-24/rbny-mia",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "06:30 Atlanta United FC -. Chicago Fire FC",
+          "image": "https://static.ppvservices.st/assets/thumb/901a572763652f4216249f503c61d7f4-thumbnail.jpg",
+          "url": "https://ppv.st/live/mls/2026-10-24/atl-chi",
+          "referer": "https://ppv.st/live/mls/2026-10-24/atl-chi",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "06:30 D.C. United -. FC Cincinnati",
+          "image": "https://static.ppvservices.st/assets/thumb/3c2e0202a89a23c969d728dcd4148cea-thumbnail.jpg",
+          "url": "https://ppv.st/live/mls/2026-10-24/dc-cin",
+          "referer": "https://ppv.st/live/mls/2026-10-24/dc-cin",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "06:30 Orlando City SC -. New York City FC",
+          "image": "https://static.ppvservices.st/assets/thumb/e79bcc3213ba2e6db7f74ba4e6d1e28a-thumbnail.jpg",
+          "url": "https://ppv.st/live/mls/2026-10-24/orl-nyc",
+          "referer": "https://ppv.st/live/mls/2026-10-24/orl-nyc",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "06:30 Philadelphia Union -. New England Revolution",
+          "image": "https://static.ppvservices.st/assets/thumb/baf89588caf7e93982e9967994b533d7-thumbnail.jpg",
+          "url": "https://ppv.st/live/mls/2026-10-24/phi-ne",
+          "referer": "https://ppv.st/live/mls/2026-10-24/phi-ne",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "07:30 Colorado Rapids -. Vancouver Whitecaps",
+          "image": "https://static.ppvservices.st/assets/thumb/a8d2d67fa2b5e4ee8e6a46c55fb10629-thumbnail.jpg",
+          "url": "https://ppv.st/live/mls/2026-10-24/col-van",
+          "referer": "https://ppv.st/live/mls/2026-10-24/col-van",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "07:30 FC Dallas -. San Jose Earthquakes",
+          "image": "https://static.ppvservices.st/assets/thumb/3815781e3b0d14f64f83ead3c9e26d8e-thumbnail.jpg",
+          "url": "https://ppv.st/live/mls/2026-10-24/dal-sj",
+          "referer": "https://ppv.st/live/mls/2026-10-24/dal-sj",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "07:30 Houston Dynamo FC -. Minnesota United FC",
+          "image": "https://static.ppvservices.st/assets/thumb/f4e67f256d1b291a9be79b18b5222eaf-thumbnail.jpg",
+          "url": "https://ppv.st/live/mls/2026-10-24/hou-min",
+          "referer": "https://ppv.st/live/mls/2026-10-24/hou-min",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "07:30 Real Salt Lake -. St. Louis CITY SC",
+          "image": "https://static.ppvservices.st/assets/thumb/ecb216fb60ca10f81d1404db3fa0de44-thumbnail.jpg",
+          "url": "https://ppv.st/live/mls/2026-10-24/rsl-stl",
+          "referer": "https://ppv.st/live/mls/2026-10-24/rsl-stl",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "07:30 Sporting Kansas City -. Austin FC",
+          "image": "https://static.ppvservices.st/assets/thumb/449833eed287f55b92674dd39261925f-thumbnail.jpg",
+          "url": "https://ppv.st/live/mls/2026-10-24/skc-atx",
+          "referer": "https://ppv.st/live/mls/2026-10-24/skc-atx",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "09:30 Portland Timbers -. Charlotte FC",
+          "image": "https://static.ppvservices.st/assets/thumb/870626ed86be8857845bad8632bcd52f-thumbnail.jpg",
+          "url": "https://ppv.st/live/mls/2026-10-24/por-clt",
+          "referer": "https://ppv.st/live/mls/2026-10-24/por-clt",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "09:30 San Diego FC -. Seattle Sounders FC",
+          "image": "https://static.ppvservices.st/assets/thumb/a07433c2119138ae097eed1b75293731-thumbnail.jpg",
+          "url": "https://ppv.st/live/mls/2026-10-24/sd-sea",
+          "referer": "https://ppv.st/live/mls/2026-10-24/sd-sea",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "08:00 LAFC -. LA Galaxy",
+          "image": "https://static.ppvservices.st/assets/thumb/ffdf0c71d755ff4bc474ba6e6b8793f1-thumbnail.jpg",
+          "url": "https://ppv.st/live/mls/2026-10-25/lafc-la",
+          "referer": "https://ppv.st/live/mls/2026-10-25/lafc-la",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         }
@@ -1608,14 +1476,6 @@
       "name": "Wrestling",
       "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
       "stations": [
-        {
-          "name": "07:00 AEW Wednesday Night Dynamite",
-          "image": "https://static.ppvservices.st/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg",
-          "url": "https://ppv.st/live/aew/2026-10-21",
-          "referer": "https://ppv.st/live/aew/2026-10-21",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
         {
           "name": "08:00 TNA Impact",
           "image": "https://static.ppvservices.st/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg",

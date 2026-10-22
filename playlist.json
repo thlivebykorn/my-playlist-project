@@ -301,28 +301,6 @@
       ]
     },
     {
-      "name": "NBL",
-      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
-      "stations": [
-        {
-          "name": "15:30 Illawarra Hawks -. Sydney Kings",
-          "image": "https://static.ppvservices.st/assets/thumb/158910895bad35a6626182e0ab01d626-thumbnail.jpg",
-          "url": "https://ppv.st/live/nbl/2026-10-22/hwk-syd",
-          "referer": "https://ppv.st/live/nbl/2026-10-22/hwk-syd",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "17:30 Perth Wildcats -. Melbourne United",
-          "image": "https://static.ppvservices.st/assets/thumb/b37ba2908cd852ea5df2dff56f1dcb54-thumbnail.jpg",
-          "url": "https://ppv.st/live/nbl/2026-10-23/per-mel",
-          "referer": "https://ppv.st/live/nbl/2026-10-23/per-mel",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
       "name": "NBA",
       "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
       "stations": [
@@ -435,6 +413,20 @@
           "image": "https://static.ppvservices.st/assets/thumb/162ca7fd2fd41414f724b59f19cff85f-thumbnail.jpg",
           "url": "https://ppv.st/live/nba/2026-10-23/por-sac",
           "referer": "https://ppv.st/live/nba/2026-10-23/por-sac",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "NBL",
+      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
+      "stations": [
+        {
+          "name": "17:30 Perth Wildcats -. Melbourne United",
+          "image": "https://static.ppvservices.st/assets/thumb/b37ba2908cd852ea5df2dff56f1dcb54-thumbnail.jpg",
+          "url": "https://ppv.st/live/nbl/2026-10-23/per-mel",
+          "referer": "https://ppv.st/live/nbl/2026-10-23/per-mel",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         }

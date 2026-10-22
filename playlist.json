@@ -487,156 +487,6 @@
       ]
     },
     {
-      "name": "Conference League",
-      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
-      "stations": [
-        {
-          "name": "21:30 Kairat Almaty -. Panathinaikos",
-          "image": "https://static.ppvservices.st/assets/thumb/42261d5421eaa2f46f9374ef5146f3f8-thumbnail.jpg",
-          "url": "https://ppv.st/live/uecl/2026-10-22/kai-pao",
-          "referer": "https://ppv.st/live/uecl/2026-10-22/kai-pao",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "23:45 FC Nordsjælland -. CSKA Sofia",
-          "image": "https://static.ppvservices.st/assets/thumb/90379c2bf0c608bb89267d4412c399ef-thumbnail.jpg",
-          "url": "https://ppv.st/live/uecl/2026-10-22/fcn-cska",
-          "referer": "https://ppv.st/live/uecl/2026-10-22/fcn-cska",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "23:45 Getafe -. FC Lugano",
-          "image": "https://static.ppvservices.st/assets/thumb/a45794063cbe643cd5e6914685f60576-thumbnail.jpg",
-          "url": "https://ppv.st/live/uecl/2026-10-22/get-lug",
-          "referer": "https://ppv.st/live/uecl/2026-10-22/get-lug",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "23:45 Iberia 1999 -. Mjällby AIF",
-          "image": "https://static.ppvservices.st/assets/thumb/b6e280d5ad77d91df81a83088165ba0e-thumbnail.jpg",
-          "url": "https://ppv.st/live/uecl/2026-10-22/ibe-mja",
-          "referer": "https://ppv.st/live/uecl/2026-10-22/ibe-mja",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "23:45 Inter D'Escaldes -. CSU Craiova",
-          "image": "https://static.ppvservices.st/assets/thumb/a25be803e219d08e67a813bf8a7e57eb-thumbnail.jpg",
-          "url": "https://ppv.st/live/uecl/2026-10-22/ide-ucra",
-          "referer": "https://ppv.st/live/uecl/2026-10-22/ide-ucra",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "23:45 Jablonec -. Brighton & Hove Albion",
-          "image": "https://static.ppvservices.st/assets/thumb/51344050ec72eab27c96abeb1d71ad83-thumbnail.jpg",
-          "url": "https://ppv.st/live/uecl/2026-10-22/jabl-bha",
-          "referer": "https://ppv.st/live/uecl/2026-10-22/jabl-bha",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "23:45 Kauno Zalgiris -. SK Brann",
-          "image": "https://static.ppvservices.st/assets/thumb/f5d458e94c15b79f26adda19bf1721d5-thumbnail.jpg",
-          "url": "https://ppv.st/live/uecl/2026-10-22/zal-skbr",
-          "referer": "https://ppv.st/live/uecl/2026-10-22/zal-skbr",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "23:45 Pafos -. Riga FC",
-          "image": "https://static.ppvservices.st/assets/thumb/84e2f9013213c6ee847d385f78dd692e-thumbnail.jpg",
-          "url": "https://ppv.st/live/uecl/2026-10-22/paf-rig",
-          "referer": "https://ppv.st/live/uecl/2026-10-22/paf-rig",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "23:45 Red Star Belgrade -. F.C. København",
-          "image": "https://static.ppvservices.st/assets/thumb/1ff6638f8c52f588b67b7d5e41472ca5-thumbnail.jpg",
-          "url": "https://ppv.st/live/uecl/2026-10-22/rsb-kbh",
-          "referer": "https://ppv.st/live/uecl/2026-10-22/rsb-kbh",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "23:45 Trabzonspor -. Heart of Midlothian",
-          "image": "https://static.ppvservices.st/assets/thumb/8e4934e2005d183fee1e7eb2f71fc860-thumbnail.jpg",
-          "url": "https://ppv.st/live/uecl/2026-10-22/trab-hom",
-          "referer": "https://ppv.st/live/uecl/2026-10-22/trab-hom",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "02:00 AGF -. Egnatia",
-          "image": "https://static.ppvservices.st/assets/thumb/b070163d146bbdffc6d4e56e29074c9e-thumbnail.jpg",
-          "url": "https://ppv.st/live/uecl/2026-10-22/agf-egn",
-          "referer": "https://ppv.st/live/uecl/2026-10-22/agf-egn",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "02:00 Ajax Amsterdam -. Atalanta",
-          "image": "https://static.ppvservices.st/assets/thumb/2c9a5bbfbc20d278b31878afdf9f11f5-thumbnail.jpg",
-          "url": "https://ppv.st/live/uecl/2026-10-22/aja-ata",
-          "referer": "https://ppv.st/live/uecl/2026-10-22/aja-ata",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "02:00 AS Monaco -. SC Freiburg",
-          "image": "https://static.ppvservices.st/assets/thumb/639203b736704c3e26d282a3b3016145-thumbnail.jpg",
-          "url": "https://ppv.st/live/uecl/2026-10-22/mon-scf",
-          "referer": "https://ppv.st/live/uecl/2026-10-22/mon-scf",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "02:00 Borac Banja Luka -. KuPS Kuopio",
-          "image": "https://static.ppvservices.st/assets/thumb/6a7604896887582a4ce3becc2db18773-thumbnail.jpg",
-          "url": "https://ppv.st/live/uecl/2026-10-22/bbl-kups",
-          "referer": "https://ppv.st/live/uecl/2026-10-22/bbl-kups",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "02:00 Braga -. KAA Gent",
-          "image": "https://static.ppvservices.st/assets/thumb/e24c4a5e557ef0ad457d1d36caa24ecb-thumbnail.jpg",
-          "url": "https://ppv.st/live/uecl/2026-10-22/scb-gent",
-          "referer": "https://ppv.st/live/uecl/2026-10-22/scb-gent",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "02:00 FC Midtjylland -. Sint-Truidense",
-          "image": "https://static.ppvservices.st/assets/thumb/3289c6607bbf61543879938c98b6bac2-thumbnail.jpg",
-          "url": "https://ppv.st/live/uecl/2026-10-22/mid-stvv",
-          "referer": "https://ppv.st/live/uecl/2026-10-22/mid-stvv",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "02:00 FC Thun -. Hajduk Split",
-          "image": "https://static.ppvservices.st/assets/thumb/e34760f77443bb5811ebafec731ab159-thumbnail.jpg",
-          "url": "https://ppv.st/live/uecl/2026-10-22/thun-haj",
-          "referer": "https://ppv.st/live/uecl/2026-10-22/thun-haj",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "02:00 Lincoln Red Imps -. FC Twente",
-          "image": "https://static.ppvservices.st/assets/thumb/49a334b3e765a84a8fad47f2b65b7bdb-thumbnail.jpg",
-          "url": "https://ppv.st/live/uecl/2026-10-22/lri-twe",
-          "referer": "https://ppv.st/live/uecl/2026-10-22/lri-twe",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
       "name": "Europa League",
       "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
       "stations": [
@@ -645,70 +495,6 @@
           "image": "https://static.ppvservices.st/assets/thumb/9abba790e6243b72b412914826da3049-thumbnail.jpg",
           "url": "https://ppv.st/live/the-golazo-show-30803",
           "referer": "https://ppv.st/live/the-golazo-show-30803",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "23:45 Ararat-Armenia -. AZ Alkmaar",
-          "image": "https://static.ppvservices.st/assets/thumb/47b02c4ca5d3772b629def6632805b28-thumbnail.jpg",
-          "url": "https://ppv.st/live/uel/2026-10-22/ara-az",
-          "referer": "https://ppv.st/live/uel/2026-10-22/ara-az",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "23:45 Dinamo Zagreb -. NEC Nijmegen",
-          "image": "https://static.ppvservices.st/assets/thumb/d34969e8e147653f7a6d755c6ebb37eb-thumbnail.jpg",
-          "url": "https://ppv.st/live/uel/2026-10-22/dzg-nec",
-          "referer": "https://ppv.st/live/uel/2026-10-22/dzg-nec",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "23:45 Ferencvaros -. Torreense",
-          "image": "https://static.ppvservices.st/assets/thumb/e2f3976b62438aa9ad332def6ec1f3f8-thumbnail.jpg",
-          "url": "https://ppv.st/live/uel/2026-10-22/fer-tor",
-          "referer": "https://ppv.st/live/uel/2026-10-22/fer-tor",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "23:45 Juventus -. Stade Rennais",
-          "image": "https://static.ppvservices.st/assets/thumb/9f9f42cb0a575af7c783a72cb6fc31d9-thumbnail.jpg",
-          "url": "https://ppv.st/live/uel/2026-10-22/juv-ren",
-          "referer": "https://ppv.st/live/uel/2026-10-22/juv-ren",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "23:45 Lech Poznan -. Sunderland",
-          "image": "https://static.ppvservices.st/assets/thumb/966389063a5d6c634d5b62e2ceec473d-thumbnail.jpg",
-          "url": "https://ppv.st/live/uel/2026-10-22/lech-sun",
-          "referer": "https://ppv.st/live/uel/2026-10-22/lech-sun",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "23:45 OFI Crete -. Bayer Leverkusen",
-          "image": "https://static.ppvservices.st/assets/thumb/c4080c1b842e807e3196dceb037e66ba-thumbnail.jpg",
-          "url": "https://ppv.st/live/uel/2026-10-22/ofi-b04",
-          "referer": "https://ppv.st/live/uel/2026-10-22/ofi-b04",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "23:45 SK Sturm Graz -. Marseille",
-          "image": "https://static.ppvservices.st/assets/thumb/722cb71374bd39fff6969de1078e1ecf-thumbnail.jpg",
-          "url": "https://ppv.st/live/uel/2026-10-22/stg-olm",
-          "referer": "https://ppv.st/live/uel/2026-10-22/stg-olm",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "23:45 Union St.-Gilloise -. Hapoel Be'er",
-          "image": "https://static.ppvservices.st/assets/thumb/f6a73db742b8b9e6d6f0be8d7a5268d8-thumbnail.jpg",
-          "url": "https://ppv.st/live/uel/2026-10-22/usg-hbe",
-          "referer": "https://ppv.st/live/uel/2026-10-22/usg-hbe",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         },
@@ -789,6 +575,76 @@
           "image": "https://static.ppvservices.st/assets/thumb/1257c448814a80ab4c0f6da22518f2af-thumbnail.jpg",
           "url": "https://ppv.st/live/uel/2026-10-22/plz-lev",
           "referer": "https://ppv.st/live/uel/2026-10-22/plz-lev",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "Conference League",
+      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
+      "stations": [
+        {
+          "name": "02:00 AGF -. Egnatia",
+          "image": "https://static.ppvservices.st/assets/thumb/b070163d146bbdffc6d4e56e29074c9e-thumbnail.jpg",
+          "url": "https://ppv.st/live/uecl/2026-10-22/agf-egn",
+          "referer": "https://ppv.st/live/uecl/2026-10-22/agf-egn",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "02:00 Ajax Amsterdam -. Atalanta",
+          "image": "https://static.ppvservices.st/assets/thumb/2c9a5bbfbc20d278b31878afdf9f11f5-thumbnail.jpg",
+          "url": "https://ppv.st/live/uecl/2026-10-22/aja-ata",
+          "referer": "https://ppv.st/live/uecl/2026-10-22/aja-ata",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "02:00 AS Monaco -. SC Freiburg",
+          "image": "https://static.ppvservices.st/assets/thumb/639203b736704c3e26d282a3b3016145-thumbnail.jpg",
+          "url": "https://ppv.st/live/uecl/2026-10-22/mon-scf",
+          "referer": "https://ppv.st/live/uecl/2026-10-22/mon-scf",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "02:00 Borac Banja Luka -. KuPS Kuopio",
+          "image": "https://static.ppvservices.st/assets/thumb/6a7604896887582a4ce3becc2db18773-thumbnail.jpg",
+          "url": "https://ppv.st/live/uecl/2026-10-22/bbl-kups",
+          "referer": "https://ppv.st/live/uecl/2026-10-22/bbl-kups",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "02:00 Braga -. KAA Gent",
+          "image": "https://static.ppvservices.st/assets/thumb/e24c4a5e557ef0ad457d1d36caa24ecb-thumbnail.jpg",
+          "url": "https://ppv.st/live/uecl/2026-10-22/scb-gent",
+          "referer": "https://ppv.st/live/uecl/2026-10-22/scb-gent",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "02:00 FC Midtjylland -. Sint-Truidense",
+          "image": "https://static.ppvservices.st/assets/thumb/3289c6607bbf61543879938c98b6bac2-thumbnail.jpg",
+          "url": "https://ppv.st/live/uecl/2026-10-22/mid-stvv",
+          "referer": "https://ppv.st/live/uecl/2026-10-22/mid-stvv",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "02:00 FC Thun -. Hajduk Split",
+          "image": "https://static.ppvservices.st/assets/thumb/e34760f77443bb5811ebafec731ab159-thumbnail.jpg",
+          "url": "https://ppv.st/live/uecl/2026-10-22/thun-haj",
+          "referer": "https://ppv.st/live/uecl/2026-10-22/thun-haj",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "02:00 Lincoln Red Imps -. FC Twente",
+          "image": "https://static.ppvservices.st/assets/thumb/49a334b3e765a84a8fad47f2b65b7bdb-thumbnail.jpg",
+          "url": "https://ppv.st/live/uecl/2026-10-22/lri-twe",
+          "referer": "https://ppv.st/live/uecl/2026-10-22/lri-twe",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         }

@@ -495,6 +495,20 @@
       ]
     },
     {
+      "name": "MMA",
+      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
+      "stations": [
+        {
+          "name": "21:00 UFC 333: Volkanovski - Evloev",
+          "image": "https://static.ppvservices.st/assets/thumb/eb39649709502149ded38e5375e3ac2b-thumbnail.jpg",
+          "url": "https://ppv.st/live/ufc-333-volkanovski-vs-evloev-30929",
+          "referer": "https://ppv.st/live/ufc-333-volkanovski-vs-evloev-30929",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
       "name": "Darts",
       "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
       "stations": [
@@ -535,76 +549,6 @@
           "image": "https://static.ppvservices.st/assets/thumb/dfe49f6eaba3338d87013f7f740dbc8a-thumbnail.jpg",
           "url": "https://ppv.st/live/2026-european-championship--day-4-s2-30904",
           "referer": "https://ppv.st/live/2026-european-championship--day-4-s2-30904",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
-      "name": "Allsvenskan",
-      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
-      "stations": [
-        {
-          "name": "00:00 IF Elfsborg -. Malmö FF",
-          "image": "https://static.ppvservices.st/assets/thumb/0fcd36897b20051ff6fada452199a0aa-thumbnail.jpg",
-          "url": "https://ppv.st/live/allsvenskan/2026-10-23/elf-mal",
-          "referer": "https://ppv.st/live/allsvenskan/2026-10-23/elf-mal",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "00:00 Västerås SK -. Halmstads BK",
-          "image": "https://static.ppvservices.st/assets/thumb/5743084511059a3d8c11ece334d64d7f-thumbnail.jpg",
-          "url": "https://ppv.st/live/allsvenskan/2026-10-23/vas-hbk",
-          "referer": "https://ppv.st/live/allsvenskan/2026-10-23/vas-hbk",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "20:00 BK Häcken -. Degerfors IF",
-          "image": "https://static.ppvservices.st/assets/thumb/a7fca19904636daad9597e20f87f6e28-thumbnail.jpg",
-          "url": "https://ppv.st/live/allsvenskan/2026-10-24/bkh-deg",
-          "referer": "https://ppv.st/live/allsvenskan/2026-10-24/bkh-deg",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "20:00 IK Sirius -. AIK",
-          "image": "https://static.ppvservices.st/assets/thumb/7399acecb02aa9f644f784f9f27aa559-thumbnail.jpg",
-          "url": "https://ppv.st/live/allsvenskan/2026-10-24/sir-aik",
-          "referer": "https://ppv.st/live/allsvenskan/2026-10-24/sir-aik",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "22:30 Djurgården -. Örgryte IS",
-          "image": "https://static.ppvservices.st/assets/thumb/0fcbe851caf08fb6f1c02d5ee1f9ad92-thumbnail.jpg",
-          "url": "https://ppv.st/live/allsvenskan/2026-10-24/dju-org",
-          "referer": "https://ppv.st/live/allsvenskan/2026-10-24/dju-org",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "22:30 Kalmar FF -. IF Brommapojkarna",
-          "image": "https://static.ppvservices.st/assets/thumb/b99ae13a202922626e392178480d8393-thumbnail.jpg",
-          "url": "https://ppv.st/live/allsvenskan/2026-10-24/kff-bro",
-          "referer": "https://ppv.st/live/allsvenskan/2026-10-24/kff-bro",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "20:00 GAIS -. IFK Göteborg",
-          "image": "https://static.ppvservices.st/assets/thumb/5ad41a68701a62bb49c3bd4ff158da9f-thumbnail.jpg",
-          "url": "https://ppv.st/live/allsvenskan/2026-10-25/gais-got",
-          "referer": "https://ppv.st/live/allsvenskan/2026-10-25/gais-got",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "22:30 Mjällby AIF -. Hammarby IF",
-          "image": "https://static.ppvservices.st/assets/thumb/d48888bcf34b92b193468233d7d08c8e-thumbnail.jpg",
-          "url": "https://ppv.st/live/allsvenskan/2026-10-25/mja-ham",
-          "referer": "https://ppv.st/live/allsvenskan/2026-10-25/mja-ham",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         }
@@ -1181,6 +1125,60 @@
       ]
     },
     {
+      "name": "Allsvenskan",
+      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
+      "stations": [
+        {
+          "name": "20:00 BK Häcken -. Degerfors IF",
+          "image": "https://static.ppvservices.st/assets/thumb/a7fca19904636daad9597e20f87f6e28-thumbnail.jpg",
+          "url": "https://ppv.st/live/allsvenskan/2026-10-24/bkh-deg",
+          "referer": "https://ppv.st/live/allsvenskan/2026-10-24/bkh-deg",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "20:00 IK Sirius -. AIK",
+          "image": "https://static.ppvservices.st/assets/thumb/7399acecb02aa9f644f784f9f27aa559-thumbnail.jpg",
+          "url": "https://ppv.st/live/allsvenskan/2026-10-24/sir-aik",
+          "referer": "https://ppv.st/live/allsvenskan/2026-10-24/sir-aik",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "22:30 Djurgården -. Örgryte IS",
+          "image": "https://static.ppvservices.st/assets/thumb/0fcbe851caf08fb6f1c02d5ee1f9ad92-thumbnail.jpg",
+          "url": "https://ppv.st/live/allsvenskan/2026-10-24/dju-org",
+          "referer": "https://ppv.st/live/allsvenskan/2026-10-24/dju-org",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "22:30 Kalmar FF -. IF Brommapojkarna",
+          "image": "https://static.ppvservices.st/assets/thumb/b99ae13a202922626e392178480d8393-thumbnail.jpg",
+          "url": "https://ppv.st/live/allsvenskan/2026-10-24/kff-bro",
+          "referer": "https://ppv.st/live/allsvenskan/2026-10-24/kff-bro",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "20:00 GAIS -. IFK Göteborg",
+          "image": "https://static.ppvservices.st/assets/thumb/5ad41a68701a62bb49c3bd4ff158da9f-thumbnail.jpg",
+          "url": "https://ppv.st/live/allsvenskan/2026-10-25/gais-got",
+          "referer": "https://ppv.st/live/allsvenskan/2026-10-25/gais-got",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "22:30 Mjällby AIF -. Hammarby IF",
+          "image": "https://static.ppvservices.st/assets/thumb/d48888bcf34b92b193468233d7d08c8e-thumbnail.jpg",
+          "url": "https://ppv.st/live/allsvenskan/2026-10-25/mja-ham",
+          "referer": "https://ppv.st/live/allsvenskan/2026-10-25/mja-ham",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
       "name": "MLS",
       "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
       "stations": [
@@ -1332,14 +1330,6 @@
       "name": "Formula 1",
       "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
       "stations": [
-        {
-          "name": "00:30 United States Grand Prix - Practice 1",
-          "image": "https://static.ppvservices.st/assets/thumb/54db2cd6458fd7fb9a2437b643c759d2-thumbnail.jpg",
-          "url": "https://ppv.st/live/f1/2026/united-states/fp1",
-          "referer": "https://ppv.st/live/f1/2026/united-states/fp1",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
         {
           "name": "04:00 United States Grand Prix - Practice 2",
           "image": "https://static.ppvservices.st/assets/thumb/b451724f1d48375b7b765be7b232b098-thumbnail.jpg",

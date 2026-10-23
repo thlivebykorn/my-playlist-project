@@ -305,14 +305,6 @@
       "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
       "stations": [
         {
-          "name": "06:00 Cleveland Cavaliers -. Philadelphia 76ers",
-          "image": "https://static.ppvservices.st/assets/thumb/47e21a3dbde61d0cffc76ae7c230b4ef-thumbnail.jpg",
-          "url": "https://ppv.st/live/nba/2026-10-22/cle-phi",
-          "referer": "https://ppv.st/live/nba/2026-10-22/cle-phi",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
           "name": "08:30 Denver Nuggets -. Oklahoma City Thunder",
           "image": "https://static.ppvservices.st/assets/thumb/81e3ec7559f480e71f649c37c8472230-thumbnail.jpg",
           "url": "https://ppv.st/live/nba/2026-10-22/den-okc",
@@ -1249,70 +1241,6 @@
       "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
       "stations": [
         {
-          "name": "06:00 Nashville Predators -. Boston Bruins",
-          "image": "https://static.ppvservices.st/assets/thumb/489392fe2957054f1b4569d8d1f23543-thumbnail.jpg",
-          "url": "https://ppv.st/live/nhl/2026-10-22/nsh-bos",
-          "referer": "https://ppv.st/live/nhl/2026-10-22/nsh-bos",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "06:00 New York Rangers -. Toronto Maple Leafs",
-          "image": "https://static.ppvservices.st/assets/thumb/15dfce3f28aa7e6604f676c232ca7aa0-thumbnail.jpg",
-          "url": "https://ppv.st/live/nhl/2026-10-22/nyr-tor",
-          "referer": "https://ppv.st/live/nhl/2026-10-22/nyr-tor",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "06:00 San Jose Sharks -. Ottawa Senators",
-          "image": "https://static.ppvservices.st/assets/thumb/253e1792057d352d867a2dde768c4e25-thumbnail.jpg",
-          "url": "https://ppv.st/live/nhl/2026-10-22/sj-ott",
-          "referer": "https://ppv.st/live/nhl/2026-10-22/sj-ott",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "06:00 Anaheim Ducks -. New Jersey Devils",
-          "image": "https://static.ppvservices.st/assets/thumb/c72feb536aba1925195935f190d09bb5-thumbnail.jpg",
-          "url": "https://ppv.st/live/nhl/2026-10-22/ana-nj",
-          "referer": "https://ppv.st/live/nhl/2026-10-22/ana-nj",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "06:00 Florida Panthers -. Pittsburgh Penguins",
-          "image": "https://static.ppvservices.st/assets/thumb/021f0b548a253ab24509dd972b115b7c-thumbnail.jpg",
-          "url": "https://ppv.st/live/nhl/2026-10-22/fla-pit",
-          "referer": "https://ppv.st/live/nhl/2026-10-22/fla-pit",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "06:30 Los Angeles Kings -. New York Islanders",
-          "image": "https://static.ppvservices.st/assets/thumb/98bd387a5f984cf3d07fc1533f86d601-thumbnail.jpg",
-          "url": "https://ppv.st/live/nhl/2026-10-22/la-nyi",
-          "referer": "https://ppv.st/live/nhl/2026-10-22/la-nyi",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "07:00 Vegas Golden Knights -. St. Louis Blues",
-          "image": "https://static.ppvservices.st/assets/thumb/d327169808e1e0743764828e14b89ae3-thumbnail.jpg",
-          "url": "https://ppv.st/live/nhl/2026-10-22/vgk-stl",
-          "referer": "https://ppv.st/live/nhl/2026-10-22/vgk-stl",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "07:00 Winnipeg Jets -. Dallas Stars",
-          "image": "https://static.ppvservices.st/assets/thumb/f534e3354d6129baa13a7bd70d90c36c-thumbnail.jpg",
-          "url": "https://ppv.st/live/nhl/2026-10-22/wpg-dal",
-          "referer": "https://ppv.st/live/nhl/2026-10-22/wpg-dal",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
           "name": "08:00 Minnesota Wild -. Calgary Flames",
           "image": "https://static.ppvservices.st/assets/thumb/1b8da8a2cd6a13c0e19dfdd9456c2490-thumbnail.jpg",
           "url": "https://ppv.st/live/nhl/2026-10-22/min-cgy",
@@ -1350,14 +1278,6 @@
       "name": "MotoGP",
       "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
       "stations": [
-        {
-          "name": "05:00 Australia - Practice 1",
-          "image": "https://static.ppvservices.st/assets/thumb/51b33c74d405bc94c22fc7d7354af754-thumbnail.jpg",
-          "url": "https://ppv.st/live/motogp/2026/australia/practice-1",
-          "referer": "https://ppv.st/live/motogp/2026/australia/practice-1",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
         {
           "name": "09:15 Australia - Practice",
           "image": "https://static.ppvservices.st/assets/thumb/5d0d066ff334f7fd111697400a086558-thumbnail.jpg",

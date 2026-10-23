@@ -307,36 +307,6 @@
       ]
     },
     {
-      "name": "NBL",
-      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
-      "stations": [
-        {
-          "name": "17:30 Perth Wildcats -. Melbourne United",
-          "image": "https://static.ppvservices.st/assets/thumb/b37ba2908cd852ea5df2dff56f1dcb54-thumbnail.jpg",
-          "url": "https://ppv.st/live/nbl/2026-10-23/per-mel",
-          "referer": "https://ppv.st/live/nbl/2026-10-23/per-mel",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "13:30 Illawarra Hawks -. Brisbane Bullets",
-          "image": "https://static.ppvservices.st/assets/thumb/8747b3c1fb2fd7259d0ad3ea8ea2edd2-thumbnail.jpg",
-          "url": "https://ppv.st/live/nbl/2026-10-24/hwk-bri",
-          "referer": "https://ppv.st/live/nbl/2026-10-24/hwk-bri",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "15:30 South East Melbourne Phoenix -. Adelaide 36ers",
-          "image": "https://static.ppvservices.st/assets/thumb/93ce0f07b1dc596cef445ab4523daede-thumbnail.jpg",
-          "url": "https://ppv.st/live/nbl/2026-10-24/pnx-adl",
-          "referer": "https://ppv.st/live/nbl/2026-10-24/pnx-adl",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
       "name": "NBA",
       "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
       "stations": [
@@ -497,6 +467,28 @@
           "image": "https://static.ppvservices.st/assets/thumb/dfc64f7d53acd09851dc99a6dea3bcae-thumbnail.jpg",
           "url": "https://ppv.st/live/nba/2026-10-24/gs-phx",
           "referer": "https://ppv.st/live/nba/2026-10-24/gs-phx",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "NBL",
+      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
+      "stations": [
+        {
+          "name": "13:30 Illawarra Hawks -. Brisbane Bullets",
+          "image": "https://static.ppvservices.st/assets/thumb/8747b3c1fb2fd7259d0ad3ea8ea2edd2-thumbnail.jpg",
+          "url": "https://ppv.st/live/nbl/2026-10-24/hwk-bri",
+          "referer": "https://ppv.st/live/nbl/2026-10-24/hwk-bri",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "15:30 South East Melbourne Phoenix -. Adelaide 36ers",
+          "image": "https://static.ppvservices.st/assets/thumb/93ce0f07b1dc596cef445ab4523daede-thumbnail.jpg",
+          "url": "https://ppv.st/live/nbl/2026-10-24/pnx-adl",
+          "referer": "https://ppv.st/live/nbl/2026-10-24/pnx-adl",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         }

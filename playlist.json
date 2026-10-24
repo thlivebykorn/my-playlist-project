@@ -277,28 +277,6 @@
       ]
     },
     {
-      "name": "NBL",
-      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
-      "stations": [
-        {
-          "name": "13:30 Illawarra Hawks -. Brisbane Bullets",
-          "image": "https://static.ppvservices.st/assets/thumb/8747b3c1fb2fd7259d0ad3ea8ea2edd2-thumbnail.jpg",
-          "url": "https://ppv.st/live/nbl/2026-10-24/hwk-bri",
-          "referer": "https://ppv.st/live/nbl/2026-10-24/hwk-bri",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "15:30 South East Melbourne Phoenix -. Adelaide 36ers",
-          "image": "https://static.ppvservices.st/assets/thumb/93ce0f07b1dc596cef445ab4523daede-thumbnail.jpg",
-          "url": "https://ppv.st/live/nbl/2026-10-24/pnx-adl",
-          "referer": "https://ppv.st/live/nbl/2026-10-24/pnx-adl",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
       "name": "NBA",
       "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
       "stations": [
@@ -433,6 +411,34 @@
           "image": "https://static.ppvservices.st/assets/thumb/eb39649709502149ded38e5375e3ac2b-thumbnail.jpg",
           "url": "https://ppv.st/live/ufc-333-volkanovski-vs-evloev-30929",
           "referer": "https://ppv.st/live/ufc-333-volkanovski-vs-evloev-30929",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "Matchroom Boxing",
+      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
+      "stations": [
+        {
+          "name": "01:00 Dalton Smith -. Alberto Puello",
+          "image": "https://static.ppvservices.st/assets/thumb/d9c7f5cefab6363d6e0848057eac7b29-thumbnail.jpg",
+          "url": "https://ppv.st/live/dalton-smith-vs-alberto-puello-31004",
+          "referer": "https://ppv.st/live/dalton-smith-vs-alberto-puello-31004",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "Top Rank Boxing",
+      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
+      "stations": [
+        {
+          "name": "07:00 Emanuel Navarrete -. O'Shaquie Foster",
+          "image": "https://static.ppvservices.st/assets/thumb/f3eef775e58f0983a7b9fb470becc6c7-thumbnail.jpg",
+          "url": "https://ppv.st/live/emanuel-navarrete-vs-oshaquie-foster-31005",
+          "referer": "https://ppv.st/live/emanuel-navarrete-vs-oshaquie-foster-31005",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         }
@@ -829,6 +835,66 @@
           "image": "https://static.ppvservices.st/assets/thumb/465a27a23c4a8b5af2f1f0c15fc8a716-thumbnail.jpg",
           "url": "https://ppv.st/live/bundesliga/2026-10-25/scf-bay",
           "referer": "https://ppv.st/live/bundesliga/2026-10-25/scf-bay",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "EFL Championship",
+      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
+      "stations": [
+        {
+          "name": "21:00 Preston North End -. West Bromwich Albion",
+          "image": "https://static.ppvservices.st/assets/thumb/793284c6051b7f255568f8165ee1bf88-thumbnail.jpg",
+          "url": "https://ppv.st/live/efl-championship/2026-10-24/pne-wba",
+          "referer": "https://ppv.st/live/efl-championship/2026-10-24/pne-wba",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "21:00 Wolverhampton Wanderers -. Watford",
+          "image": "https://static.ppvservices.st/assets/thumb/1e1c11478d3d26e2aac67c228fed74eb-thumbnail.jpg",
+          "url": "https://ppv.st/live/efl-championship/2026-10-24/wol-wat",
+          "referer": "https://ppv.st/live/efl-championship/2026-10-24/wol-wat",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "21:00 Stoke City -. Bristol City",
+          "image": "https://static.ppvservices.st/assets/thumb/e6eb668a3626a13fbc7a20cb9530a176-thumbnail.jpg",
+          "url": "https://ppv.st/live/efl-championship/2026-10-24/stk-brc",
+          "referer": "https://ppv.st/live/efl-championship/2026-10-24/stk-brc",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "21:00 West Ham United -. Southampton",
+          "image": "https://static.ppvservices.st/assets/thumb/e0f3077e6d5ab3409838097175031a08-thumbnail.jpg",
+          "url": "https://ppv.st/live/efl-championship/2026-10-24/whu-sou",
+          "referer": "https://ppv.st/live/efl-championship/2026-10-24/whu-sou",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "National League",
+      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
+      "stations": [
+        {
+          "name": "21:00 Scunthorpe United -. Woking",
+          "image": "https://static.ppvservices.st/assets/thumb/c4e63bc161b9d165bbf9cb01181f1c4e-thumbnail.jpg",
+          "url": "https://ppv.st/live/national-league/2026-10-24/scu-wok",
+          "referer": "https://ppv.st/live/national-league/2026-10-24/scu-wok",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "23:30 Kidderminster Harriers -. Worthing",
+          "image": "https://static.ppvservices.st/assets/thumb/8ce67cc8fcb0fed16558c34c530d0630-thumbnail.jpg",
+          "url": "https://ppv.st/live/national-league/2026-10-24/kid-wor",
+          "referer": "https://ppv.st/live/national-league/2026-10-24/kid-wor",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         }

@@ -113,20 +113,6 @@
       ]
     },
     {
-      "name": "NBL",
-      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
-      "stations": [
-        {
-          "name": "13:00 Melbourne United -. Sydney Kings",
-          "image": "https://static.ppvservices.st/assets/thumb/09f628585a2e7dd7b8dfcd7f3f3c40eb-thumbnail.jpg",
-          "url": "https://ppv.st/live/nbl/2026-10-25/mel-syd",
-          "referer": "https://ppv.st/live/nbl/2026-10-25/mel-syd",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
       "name": "NBA",
       "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
       "stations": [
@@ -375,6 +361,20 @@
       ]
     },
     {
+      "name": "SPFL Premiership",
+      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
+      "stations": [
+        {
+          "name": "19:00 Hibernian -. Celtic",
+          "image": "https://static.ppvservices.st/assets/thumb/254a7362354693ad7bc22b23caa9b87f-thumbnail.jpg",
+          "url": "https://ppv.st/live/spfl-premiership/2026-10-25/hibs-cel",
+          "referer": "https://ppv.st/live/spfl-premiership/2026-10-25/hibs-cel",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
       "name": "LaLiga",
       "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
       "stations": [
@@ -611,6 +611,20 @@
           "image": "https://static.ppvservices.st/assets/thumb/ffdf0c71d755ff4bc474ba6e6b8793f1-thumbnail.jpg",
           "url": "https://ppv.st/live/mls/2026-10-25/lafc-la",
           "referer": "https://ppv.st/live/mls/2026-10-25/lafc-la",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "National League",
+      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
+      "stations": [
+        {
+          "name": "02:45 Altrincham -. Kidderminster Harriers",
+          "image": "https://static.ppvservices.st/assets/thumb/3e7c90fc50f1810e68933c49238f1b73-thumbnail.jpg",
+          "url": "https://ppv.st/live/national-league/2026-10-27/alt-kid",
+          "referer": "https://ppv.st/live/national-league/2026-10-27/alt-kid",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         }

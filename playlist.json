@@ -7,14 +7,6 @@
       "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
       "stations": [
         {
-          "name": "20:30 Pittsburgh Steelers at New Orleans Saints",
-          "image": "https://static.ppvservices.st/assets/thumb/7fc419a95c2227722a5102a9c27dea12-thumbnail.jpg",
-          "url": "https://ppv.st/live/nfl/2026-10-25/pit-no",
-          "referer": "https://ppv.st/live/nfl/2026-10-25/pit-no",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
           "name": "23:45 NFL RedZone",
           "image": "https://static.ppvservices.st/assets/thumb/a66bbcaa04317bdc032f473fdc8c9add-thumbnail.jpg",
           "url": "https://ppv.st/live/nfl-redzone-31059",
@@ -269,25 +261,37 @@
       ]
     },
     {
-      "name": "LaLiga",
+      "name": "Eredivisie",
       "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
       "stations": [
         {
-          "name": "22:15 Celta Vigo -. Real Betis",
-          "image": "https://static.ppvservices.st/assets/thumb/1638aeafebc6f2244f709ae322ded7df-thumbnail.jpg",
-          "url": "https://ppv.st/live/laliga/2026-10-25/cel-bet",
-          "referer": "https://ppv.st/live/laliga/2026-10-25/cel-bet",
+          "name": "02:00 AZ Alkmaar -. FC Twente",
+          "image": "https://static.ppvservices.st/assets/thumb/21720b9fe6ce46a186c23b86d04ccfd8-thumbnail.jpg",
+          "url": "https://ppv.st/live/eredivisie/2026-10-25/az-twe",
+          "referer": "https://ppv.st/live/eredivisie/2026-10-25/az-twe",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
-        },
+        }
+      ]
+    },
+    {
+      "name": "Serie A",
+      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
+      "stations": [
         {
-          "name": "00:30 Real Sociedad -. Levante",
-          "image": "https://static.ppvservices.st/assets/thumb/5e39ef91a6a0c1b1887bb36867929c86-thumbnail.jpg",
-          "url": "https://ppv.st/live/laliga/2026-10-25/rso-lev",
-          "referer": "https://ppv.st/live/laliga/2026-10-25/rso-lev",
+          "name": "02:45 Udinese -. AC Milan",
+          "image": "https://static.ppvservices.st/assets/thumb/12f6ad7c2f48e9855bd566f27e710fb5-thumbnail.jpg",
+          "url": "https://ppv.st/live/seriea/2026-10-25/udi-mil",
+          "referer": "https://ppv.st/live/seriea/2026-10-25/udi-mil",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
-        },
+        }
+      ]
+    },
+    {
+      "name": "LaLiga",
+      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
+      "stations": [
         {
           "name": "03:00 Barcelona -. Real Madrid",
           "image": "https://static.ppvservices.st/assets/thumb/6e067660ff9dab525e6acedee55c4250-thumbnail.jpg",
@@ -301,138 +305,6 @@
           "image": "https://static.ppvservices.st/assets/thumb/eda95bd04a4247801cf7ac2e91c6cad3-thumbnail.jpg",
           "url": "https://ppv.st/live/laliga/2026-10-26/sev-osa",
           "referer": "https://ppv.st/live/laliga/2026-10-26/sev-osa",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
-      "name": "Allsvenskan",
-      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
-      "stations": [
-        {
-          "name": "22:30 Mjällby AIF -. Hammarby IF",
-          "image": "https://static.ppvservices.st/assets/thumb/d48888bcf34b92b193468233d7d08c8e-thumbnail.jpg",
-          "url": "https://ppv.st/live/allsvenskan/2026-10-25/mja-ham",
-          "referer": "https://ppv.st/live/allsvenskan/2026-10-25/mja-ham",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
-      "name": "Eredivisie",
-      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
-      "stations": [
-        {
-          "name": "22:45 Sparta Rotterdam -. Ajax Amsterdam",
-          "image": "https://static.ppvservices.st/assets/thumb/a4f5c25746f64cda1e8de61716ad52e4-thumbnail.jpg",
-          "url": "https://ppv.st/live/eredivisie/2026-10-25/spa-aja",
-          "referer": "https://ppv.st/live/eredivisie/2026-10-25/spa-aja",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "02:00 AZ Alkmaar -. FC Twente",
-          "image": "https://static.ppvservices.st/assets/thumb/21720b9fe6ce46a186c23b86d04ccfd8-thumbnail.jpg",
-          "url": "https://ppv.st/live/eredivisie/2026-10-25/az-twe",
-          "referer": "https://ppv.st/live/eredivisie/2026-10-25/az-twe",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
-      "name": "Ligue 1",
-      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
-      "stations": [
-        {
-          "name": "23:15 AJ Auxerre -. Le Mans",
-          "image": "https://static.ppvservices.st/assets/thumb/008e3b9c52bd8d2b18b78e15737087b6-thumbnail.jpg",
-          "url": "https://ppv.st/live/ligue1/2026-10-25/aux-mns",
-          "referer": "https://ppv.st/live/ligue1/2026-10-25/aux-mns",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "23:15 Angers -. Lorient",
-          "image": "https://static.ppvservices.st/assets/thumb/068c1c131986dc1369ebfd1c12696193-thumbnail.jpg",
-          "url": "https://ppv.st/live/ligue1/2026-10-25/ang-lor",
-          "referer": "https://ppv.st/live/ligue1/2026-10-25/ang-lor",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "23:15 Marseille -. Le Havre AC",
-          "image": "https://static.ppvservices.st/assets/thumb/8a3e725dd2bb96a5054ceb5cdc6b74df-thumbnail.jpg",
-          "url": "https://ppv.st/live/ligue1/2026-10-25/olm-hac",
-          "referer": "https://ppv.st/live/ligue1/2026-10-25/olm-hac",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "23:15 Stade Rennais -. Strasbourg",
-          "image": "https://static.ppvservices.st/assets/thumb/76bd4d4ed7decfc47c778d5a88b76cd8-thumbnail.jpg",
-          "url": "https://ppv.st/live/ligue1/2026-10-25/ren-str",
-          "referer": "https://ppv.st/live/ligue1/2026-10-25/ren-str",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "02:45 Paris Saint-Germain -. Lyon",
-          "image": "https://static.ppvservices.st/assets/thumb/18b8c684a71f92da5fb0c884f5ba9f78-thumbnail.jpg",
-          "url": "https://ppv.st/live/ligue1/2026-10-25/psg-lyon",
-          "referer": "https://ppv.st/live/ligue1/2026-10-25/psg-lyon",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
-      "name": "Bundesliga",
-      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
-      "stations": [
-        {
-          "name": "23:30 SC Freiburg -. Bayern Munich",
-          "image": "https://static.ppvservices.st/assets/thumb/465a27a23c4a8b5af2f1f0c15fc8a716-thumbnail.jpg",
-          "url": "https://ppv.st/live/bundesliga/2026-10-25/scf-bay",
-          "referer": "https://ppv.st/live/bundesliga/2026-10-25/scf-bay",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
-      "name": "Premier League",
-      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
-      "stations": [
-        {
-          "name": "23:30 Sunderland -. Leeds United",
-          "image": "https://static.ppvservices.st/assets/thumb/6312fb7314c7c19bb907ec2ad98b0d5f-thumbnail.jpg",
-          "url": "https://ppv.st/live/pl/2026-10-25/sun-lee",
-          "referer": "https://ppv.st/live/pl/2026-10-25/sun-lee",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
-      "name": "Serie A",
-      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
-      "stations": [
-        {
-          "name": "00:00 Lecce -. Juventus",
-          "image": "https://static.ppvservices.st/assets/thumb/285e0fe23326f7a9b840453399fc66dc-thumbnail.jpg",
-          "url": "https://ppv.st/live/seriea/2026-10-25/lec-juv",
-          "referer": "https://ppv.st/live/seriea/2026-10-25/lec-juv",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "02:45 Udinese -. AC Milan",
-          "image": "https://static.ppvservices.st/assets/thumb/12f6ad7c2f48e9855bd566f27e710fb5-thumbnail.jpg",
-          "url": "https://ppv.st/live/seriea/2026-10-25/udi-mil",
-          "referer": "https://ppv.st/live/seriea/2026-10-25/udi-mil",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         }
@@ -485,6 +357,20 @@
           "image": "https://static.ppvservices.st/assets/thumb/ffdf0c71d755ff4bc474ba6e6b8793f1-thumbnail.jpg",
           "url": "https://ppv.st/live/mls/2026-10-25/lafc-la",
           "referer": "https://ppv.st/live/mls/2026-10-25/lafc-la",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "Ligue 1",
+      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
+      "stations": [
+        {
+          "name": "02:45 Paris Saint-Germain -. Lyon",
+          "image": "https://static.ppvservices.st/assets/thumb/18b8c684a71f92da5fb0c884f5ba9f78-thumbnail.jpg",
+          "url": "https://ppv.st/live/ligue1/2026-10-25/psg-lyon",
+          "referer": "https://ppv.st/live/ligue1/2026-10-25/psg-lyon",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         }

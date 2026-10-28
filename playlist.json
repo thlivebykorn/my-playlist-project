@@ -455,39 +455,9 @@
       ]
     },
     {
-      "name": "National League",
-      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
-      "stations": [
-        {
-          "name": "02:45 Altrincham -. Kidderminster Harriers",
-          "image": "https://static.ppvservices.st/assets/thumb/3e7c90fc50f1810e68933c49238f1b73-thumbnail.jpg",
-          "url": "https://ppv.st/live/national-league/2026-10-27/alt-kid",
-          "referer": "https://ppv.st/live/national-league/2026-10-27/alt-kid",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
       "name": "Serie A",
       "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
       "stations": [
-        {
-          "name": "02:45 AS Roma -. Cagliari",
-          "image": "https://static.ppvservices.st/assets/thumb/954aadbc4c79c20af4e6fbd1fc9d3a5f-thumbnail.jpg",
-          "url": "https://ppv.st/live/seriea/2026-10-27/roma-cag",
-          "referer": "https://ppv.st/live/seriea/2026-10-27/roma-cag",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "02:45 Torino -. Como",
-          "image": "https://static.ppvservices.st/assets/thumb/260073dc9eb822fda74a197b61240c0d-thumbnail.jpg",
-          "url": "https://ppv.st/live/seriea/2026-10-27/tor-como",
-          "referer": "https://ppv.st/live/seriea/2026-10-27/tor-como",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
         {
           "name": "00:30 AC Milan -. Bologna",
           "image": "https://static.ppvservices.st/assets/thumb/ed00aae83b945a2682aebd6b80c6a349-thumbnail.jpg",
@@ -627,76 +597,6 @@
       ]
     },
     {
-      "name": "Carabao Cup",
-      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
-      "stations": [
-        {
-          "name": "02:45 Bradford City -. Peterborough United",
-          "image": "https://static.ppvservices.st/assets/thumb/af3072d07b0a2a9130b2432a252b04ca-thumbnail.jpg",
-          "url": "https://ppv.st/live/carabao-cup/2026-10-27/brd-pet",
-          "referer": "https://ppv.st/live/carabao-cup/2026-10-27/brd-pet",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "03:00 Fleetwood Town -. Arsenal",
-          "image": "https://static.ppvservices.st/assets/thumb/3b5d13a93d944c90b491da980af929c0-thumbnail.jpg",
-          "url": "https://ppv.st/live/carabao-cup/2026-10-27/fle-ars",
-          "referer": "https://ppv.st/live/carabao-cup/2026-10-27/fle-ars",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "02:30 Manchester City -. Brighton & Hove Albion",
-          "image": "https://static.ppvservices.st/assets/thumb/178e4840d4b3df4aeae7995c25b74235-thumbnail.jpg",
-          "url": "https://ppv.st/live/carabao-cup/2026-10-28/mci-bha",
-          "referer": "https://ppv.st/live/carabao-cup/2026-10-28/mci-bha",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "02:45 AFC Bournemouth -. Aston Villa",
-          "image": "https://static.ppvservices.st/assets/thumb/31d7f12162df17dbea98df0878385803-thumbnail.jpg",
-          "url": "https://ppv.st/live/carabao-cup/2026-10-28/bou-avl",
-          "referer": "https://ppv.st/live/carabao-cup/2026-10-28/bou-avl",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "02:45 Fulham -. Crystal Palace",
-          "image": "https://static.ppvservices.st/assets/thumb/64a9f17228f33ec380e69d7cacc596d8-thumbnail.jpg",
-          "url": "https://ppv.st/live/carabao-cup/2026-10-28/ful-cry",
-          "referer": "https://ppv.st/live/carabao-cup/2026-10-28/ful-cry",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "02:45 Sunderland -. Brentford",
-          "image": "https://static.ppvservices.st/assets/thumb/41fbe7489b7796add2b5092785da47f1-thumbnail.jpg",
-          "url": "https://ppv.st/live/carabao-cup/2026-10-28/sun-bre",
-          "referer": "https://ppv.st/live/carabao-cup/2026-10-28/sun-bre",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "03:00 Liverpool -. Chelsea",
-          "image": "https://static.ppvservices.st/assets/thumb/6c6c1c36b5b9792a1ac33cc6647327d8-thumbnail.jpg",
-          "url": "https://ppv.st/live/carabao-cup/2026-10-28/liv-che",
-          "referer": "https://ppv.st/live/carabao-cup/2026-10-28/liv-che",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "02:45 Everton -. Newcastle United",
-          "image": "https://static.ppvservices.st/assets/thumb/9dbbb8feba64be0caf8528ef40bc6e62-thumbnail.jpg",
-          "url": "https://ppv.st/live/carabao-cup/2026-10-29/eve-new",
-          "referer": "https://ppv.st/live/carabao-cup/2026-10-29/eve-new",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
       "name": "Allsvenskan",
       "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
       "stations": [
@@ -809,6 +709,60 @@
           "image": "https://static.ppvservices.st/assets/thumb/dd8c267c088805fd585a779302e8c181-thumbnail.jpg",
           "url": "https://ppv.st/live/allsvenskan/2026-11-02/mja-kff",
           "referer": "https://ppv.st/live/allsvenskan/2026-11-02/mja-kff",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "Carabao Cup",
+      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
+      "stations": [
+        {
+          "name": "02:30 Manchester City -. Brighton & Hove Albion",
+          "image": "https://static.ppvservices.st/assets/thumb/178e4840d4b3df4aeae7995c25b74235-thumbnail.jpg",
+          "url": "https://ppv.st/live/carabao-cup/2026-10-28/mci-bha",
+          "referer": "https://ppv.st/live/carabao-cup/2026-10-28/mci-bha",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "02:45 AFC Bournemouth -. Aston Villa",
+          "image": "https://static.ppvservices.st/assets/thumb/31d7f12162df17dbea98df0878385803-thumbnail.jpg",
+          "url": "https://ppv.st/live/carabao-cup/2026-10-28/bou-avl",
+          "referer": "https://ppv.st/live/carabao-cup/2026-10-28/bou-avl",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "02:45 Fulham -. Crystal Palace",
+          "image": "https://static.ppvservices.st/assets/thumb/64a9f17228f33ec380e69d7cacc596d8-thumbnail.jpg",
+          "url": "https://ppv.st/live/carabao-cup/2026-10-28/ful-cry",
+          "referer": "https://ppv.st/live/carabao-cup/2026-10-28/ful-cry",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "02:45 Sunderland -. Brentford",
+          "image": "https://static.ppvservices.st/assets/thumb/41fbe7489b7796add2b5092785da47f1-thumbnail.jpg",
+          "url": "https://ppv.st/live/carabao-cup/2026-10-28/sun-bre",
+          "referer": "https://ppv.st/live/carabao-cup/2026-10-28/sun-bre",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "03:00 Liverpool -. Chelsea",
+          "image": "https://static.ppvservices.st/assets/thumb/6c6c1c36b5b9792a1ac33cc6647327d8-thumbnail.jpg",
+          "url": "https://ppv.st/live/carabao-cup/2026-10-28/liv-che",
+          "referer": "https://ppv.st/live/carabao-cup/2026-10-28/liv-che",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "02:45 Everton -. Newcastle United",
+          "image": "https://static.ppvservices.st/assets/thumb/9dbbb8feba64be0caf8528ef40bc6e62-thumbnail.jpg",
+          "url": "https://ppv.st/live/carabao-cup/2026-10-29/eve-new",
+          "referer": "https://ppv.st/live/carabao-cup/2026-10-29/eve-new",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         }

@@ -553,22 +553,6 @@
           "playInNatPlayer": "true"
         },
         {
-          "name": "01:00 Kalmar FF -. GAIS",
-          "image": "https://static.ppvservices.st/assets/thumb/b3c36b08f2be77e90e86597ddacebc3f-thumbnail.jpg",
-          "url": "https://ppv.st/live/allsvenskan/2026-10-29/kff-gais",
-          "referer": "https://ppv.st/live/allsvenskan/2026-10-29/kff-gais",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "01:00 Örgryte IS -. Mjällby AIF",
-          "image": "https://static.ppvservices.st/assets/thumb/4a3aa3c35a270663c3674d297a15f700-thumbnail.jpg",
-          "url": "https://ppv.st/live/allsvenskan/2026-10-29/org-mja",
-          "referer": "https://ppv.st/live/allsvenskan/2026-10-29/org-mja",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
           "name": "20:00 Djurgården -. Degerfors IF",
           "image": "https://static.ppvservices.st/assets/thumb/c636e173b453b946262f1d269b56dbde-thumbnail.jpg",
           "url": "https://ppv.st/live/allsvenskan/2026-11-01/dju-deg",

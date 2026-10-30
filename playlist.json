@@ -449,6 +449,20 @@
       ]
     },
     {
+      "name": "Darts",
+      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
+      "stations": [
+        {
+          "name": "02:00 Beat Luke Littler",
+          "image": "https://static.ppvservices.st/assets/thumb/67e103f6da468a413d4b337d8c8b0dc1-thumbnail.jpg",
+          "url": "https://ppv.st/live/beat-luke-littler-31420",
+          "referer": "https://ppv.st/live/beat-luke-littler-31420",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
       "name": "Ligue 1",
       "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
       "stations": [
@@ -461,18 +475,18 @@
           "playInNatPlayer": "true"
         },
         {
-          "name": "03:05 Lille -. Lens",
-          "image": "https://static.ppvservices.st/assets/thumb/ae7a0b5504c867de98cf4a6d70953f38-thumbnail.jpg",
-          "url": "https://ppv.st/live/ligue1/2026-10-30/lill-rcl",
-          "referer": "https://ppv.st/live/ligue1/2026-10-30/lill-rcl",
+          "name": "01:00 Nice -. Stade Rennais",
+          "image": "https://static.ppvservices.st/assets/thumb/f8e289ef63931acdeee0848a91d90f55-thumbnail.jpg",
+          "url": "https://ppv.st/live/ligue1/2026-10-31/nice-ren",
+          "referer": "https://ppv.st/live/ligue1/2026-10-31/nice-ren",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         },
         {
-          "name": "23:15 Nice -. Stade Rennais",
-          "image": "https://static.ppvservices.st/assets/thumb/f8e289ef63931acdeee0848a91d90f55-thumbnail.jpg",
-          "url": "https://ppv.st/live/ligue1/2026-10-31/nice-ren",
-          "referer": "https://ppv.st/live/ligue1/2026-10-31/nice-ren",
+          "name": "03:05 Lille -. Lens",
+          "image": "https://static.ppvservices.st/assets/thumb/ae7a0b5504c867de98cf4a6d70953f38-thumbnail.jpg",
+          "url": "https://ppv.st/live/ligue1/2026-10-30/lill-rcl",
+          "referer": "https://ppv.st/live/ligue1/2026-10-30/lill-rcl",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         },
@@ -521,6 +535,20 @@
           "image": "https://static.ppvservices.st/assets/thumb/f9fe6245158309d79849c1d40e1e89bd-thumbnail.jpg",
           "url": "https://ppv.st/live/ligue1/2026-11-01/olm-tou",
           "referer": "https://ppv.st/live/ligue1/2026-11-01/olm-tou",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "Danish Superliga",
+      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
+      "stations": [
+        {
+          "name": "01:00 Lyngby Boldklub -. Randers FC",
+          "image": "https://static.ppvservices.st/assets/thumb/bb1c5b28bd3846860edf25902e147c11-thumbnail.jpg",
+          "url": "https://ppv.st/live/danish-superliga/2026-10-30/lbk-ran",
+          "referer": "https://ppv.st/live/danish-superliga/2026-10-30/lbk-ran",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         }
@@ -599,6 +627,20 @@
           "image": "https://static.ppvservices.st/assets/thumb/66b3437264c36d1e4aa409fd1c65ef95-thumbnail.jpg",
           "url": "https://ppv.st/live/bundesliga/2026-11-01/sge-hsv",
           "referer": "https://ppv.st/live/bundesliga/2026-11-01/sge-hsv",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "Belgian Pro League",
+      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
+      "stations": [
+        {
+          "name": "02:45 Zulte-Waregem -. Club Brugge",
+          "image": "https://static.ppvservices.st/assets/thumb/d794009b2d71a004c218fe8ab47bf0e2-thumbnail.jpg",
+          "url": "https://ppv.st/live/belgian-pro-league/2026-10-30/zul-bru",
+          "referer": "https://ppv.st/live/belgian-pro-league/2026-10-30/zul-bru",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         }
@@ -935,6 +977,28 @@
           "image": "https://static.ppvservices.st/assets/thumb/671ca195041c8f853452667773ee61c8-thumbnail.jpg",
           "url": "https://ppv.st/live/seriea/2026-11-02/ata-par",
           "referer": "https://ppv.st/live/seriea/2026-11-02/ata-par",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "EFL Championship",
+      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
+      "stations": [
+        {
+          "name": "22:00 West Ham United -. West Bromwich Albion",
+          "image": "https://static.ppvservices.st/assets/thumb/6f4e6e85da3507c2549b3ec752ab13aa-thumbnail.jpg",
+          "url": "https://ppv.st/live/efl-championship/2026-10-31/whu-wba",
+          "referer": "https://ppv.st/live/efl-championship/2026-10-31/whu-wba",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "22:00 Swansea City -. Blackburn Rovers",
+          "image": "https://static.ppvservices.st/assets/thumb/15018ecc0c2a69e486f3aea3edbb1819-thumbnail.jpg",
+          "url": "https://ppv.st/live/efl-championship/2026-10-31/swa-blk",
+          "referer": "https://ppv.st/live/efl-championship/2026-10-31/swa-blk",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         }

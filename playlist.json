@@ -445,6 +445,14 @@
           "playInNatPlayer": "true"
         },
         {
+          "name": "02:00 The Golazo Show",
+          "image": "https://static.ppvservices.st/assets/thumb/101ad164ae332c52a02f84d5994156c9-thumbnail.jpg",
+          "url": "https://ppv.st/live/the-golazo-show-31725",
+          "referer": "https://ppv.st/live/the-golazo-show-31725",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
           "name": "03:00 Atlético Madrid -. Bayern Munich",
           "image": "https://static.ppvservices.st/assets/thumb/de81bfc1fa98c085d1a4b81b66eb822c-thumbnail.jpg",
           "url": "https://ppv.st/live/ucl/2026-11-03/atm-bay",
@@ -647,6 +655,28 @@
           "image": "https://static.ppvservices.st/assets/thumb/dbea17208ebfbfc7007d1ef532e81e9e-thumbnail.jpg",
           "url": "https://ppv.st/live/allsvenskan/2026-11-08/kff-sir",
           "referer": "https://ppv.st/live/allsvenskan/2026-11-08/kff-sir",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "EFL Championship",
+      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
+      "stations": [
+        {
+          "name": "02:45 Watford -. Lincoln City",
+          "image": "https://static.ppvservices.st/assets/thumb/1f065635fe5202fe378d003d90cbfb96-thumbnail.jpg",
+          "url": "https://ppv.st/live/efl-championship/2026-11-03/wat-lcn",
+          "referer": "https://ppv.st/live/efl-championship/2026-11-03/wat-lcn",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "03:00 West Bromwich Albion -. Southampton",
+          "image": "https://static.ppvservices.st/assets/thumb/1c0d0732bb32f54ca71b1279c14f948c-thumbnail.jpg",
+          "url": "https://ppv.st/live/efl-championship/2026-11-03/wba-sou",
+          "referer": "https://ppv.st/live/efl-championship/2026-11-03/wba-sou",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         }

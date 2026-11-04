@@ -293,28 +293,6 @@
       ]
     },
     {
-      "name": "NBL",
-      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
-      "stations": [
-        {
-          "name": "16:00 Brisbane Bullets -. Perth Wildcats",
-          "image": "https://static.ppvservices.st/assets/thumb/059ea778d6761cc2238ba343da8a263b-thumbnail.jpg",
-          "url": "https://ppv.st/live/nbl/2026-11-04/bri-per",
-          "referer": "https://ppv.st/live/nbl/2026-11-04/bri-per",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "15:30 Cairns Taipans -. Illawarra Hawks",
-          "image": "https://static.ppvservices.st/assets/thumb/29d8d72c63bd2c8282e9dc242a3719cb-thumbnail.jpg",
-          "url": "https://ppv.st/live/nbl/2026-11-05/cns-hwk",
-          "referer": "https://ppv.st/live/nbl/2026-11-05/cns-hwk",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
       "name": "NBA",
       "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
       "stations": [
@@ -443,6 +421,20 @@
           "image": "https://static.ppvservices.st/assets/thumb/c4c78073ceb47df2451fd38ad4ad1abe-thumbnail.jpg",
           "url": "https://ppv.st/live/nba/2026-11-05/mia-gs",
           "referer": "https://ppv.st/live/nba/2026-11-05/mia-gs",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "NBL",
+      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
+      "stations": [
+        {
+          "name": "15:30 Cairns Taipans -. Illawarra Hawks",
+          "image": "https://static.ppvservices.st/assets/thumb/29d8d72c63bd2c8282e9dc242a3719cb-thumbnail.jpg",
+          "url": "https://ppv.st/live/nbl/2026-11-05/cns-hwk",
+          "referer": "https://ppv.st/live/nbl/2026-11-05/cns-hwk",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         }
@@ -689,6 +681,14 @@
           "playInNatPlayer": "true"
         },
         {
+          "name": "02:00 The Golazo Show",
+          "image": "https://static.ppvservices.st/assets/thumb/101ad164ae332c52a02f84d5994156c9-thumbnail.jpg",
+          "url": "https://ppv.st/live/the-golazo-show-31755",
+          "referer": "https://ppv.st/live/the-golazo-show-31755",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
           "name": "03:00 Borussia Dortmund -. Real Betis",
           "image": "https://static.ppvservices.st/assets/thumb/91a09870aa47256375218c1ba14ff3ee-thumbnail.jpg",
           "url": "https://ppv.st/live/ucl/2026-11-04/dor-bet",
@@ -741,6 +741,36 @@
           "image": "https://static.ppvservices.st/assets/thumb/6960f379a1eedf81dece1cb7ebebbc37-thumbnail.jpg",
           "url": "https://ppv.st/live/ucl/2026-11-04/vfk-sab",
           "referer": "https://ppv.st/live/ucl/2026-11-04/vfk-sab",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "EFL Championship",
+      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
+      "stations": [
+        {
+          "name": "02:45 Cardiff City -. West Ham United",
+          "image": "https://static.ppvservices.st/assets/thumb/53e44b4dc28dcb123cb2d9b1d142de09-thumbnail.jpg",
+          "url": "https://ppv.st/live/efl-championship/2026-11-04/car-whu",
+          "referer": "https://ppv.st/live/efl-championship/2026-11-04/car-whu",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "02:45 Wrexham -. Middlesbrough",
+          "image": "https://static.ppvservices.st/assets/thumb/a80ae260453fbcc50ed70caf7e474b66-thumbnail.jpg",
+          "url": "https://ppv.st/live/efl-championship/2026-11-04/wxm-mid",
+          "referer": "https://ppv.st/live/efl-championship/2026-11-04/wxm-mid",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "03:00 Bristol City -. Wolverhampton Wanderers",
+          "image": "https://static.ppvservices.st/assets/thumb/b676ea1392d5d7e7606f4101c5efda7b-thumbnail.jpg",
+          "url": "https://ppv.st/live/efl-championship/2026-11-04/brc-wol",
+          "referer": "https://ppv.st/live/efl-championship/2026-11-04/brc-wol",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         }

@@ -545,20 +545,6 @@
       ]
     },
     {
-      "name": "English FA Cup",
-      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
-      "stations": [
-        {
-          "name": "02:30 Plymouth Parkway -. Berkhamsted",
-          "image": "https://static.ppvservices.st/assets/thumb/759aab5da2f4a6a87ba2a42bebc3b19c-thumbnail.jpg",
-          "url": "https://ppv.st/live/english-fa-cup/2026-11-09/ply-ber",
-          "referer": "https://ppv.st/live/english-fa-cup/2026-11-09/ply-ber",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
       "name": "Liga MX",
       "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
       "stations": [

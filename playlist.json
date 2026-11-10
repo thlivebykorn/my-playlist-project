@@ -587,10 +587,10 @@
       "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
       "stations": [
         {
-          "name": "02:00 Mansfield Town -. Chesterfield",
-          "image": "https://static.ppvservices.st/assets/thumb/9581b952c41386c5291c3250d626f0ee-thumbnail.jpg",
-          "url": "https://ppv.st/live/efl-trophy/2026-11-10/mnf-ches",
-          "referer": "https://ppv.st/live/efl-trophy/2026-11-10/mnf-ches",
+          "name": "02:00 Barnsley -. Oldham Athletic",
+          "image": "https://static.ppvservices.st/assets/thumb/30ac305e7e3e83f420e274a2bc1b2b70-thumbnail.jpg",
+          "url": "https://ppv.st/live/efl-trophy/2026-11-11/bar-old",
+          "referer": "https://ppv.st/live/efl-trophy/2026-11-11/bar-old",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         }

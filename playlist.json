@@ -301,103 +301,9 @@
       ]
     },
     {
-      "name": "College Basketball",
-      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
-      "stations": [
-        {
-          "name": "09:30 Kansas Jayhawks at Kentucky Wildcats",
-          "image": "https://static.ppvservices.st/assets/thumb/e4281d1b2c15c1a76aeb579fae0d53b4-thumbnail.jpg",
-          "url": "https://ppv.st/live/cbb/2026-11-10/ku-uk",
-          "referer": "https://ppv.st/live/cbb/2026-11-10/ku-uk",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "07:00 Colgate Raiders at St. John's Red Storm",
-          "image": "https://static.ppvservices.st/assets/thumb/0c2df405fbeb7aa6e29dbfb231b1d551-thumbnail.jpg",
-          "url": "https://ppv.st/live/cbb/2026-11-11/colg-sju",
-          "referer": "https://ppv.st/live/cbb/2026-11-11/colg-sju",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "07:00 Marquette Golden Eagles at Michigan Wolverines",
-          "image": "https://static.ppvservices.st/assets/thumb/10995af2cc596fdfdca0d2b0bb18f815-thumbnail.jpg",
-          "url": "https://ppv.st/live/cbb/2026-11-11/marq-mich",
-          "referer": "https://ppv.st/live/cbb/2026-11-11/marq-mich",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "08:00 Jacksonville State Gamecocks at Houston Cougars",
-          "image": "https://static.ppvservices.st/assets/thumb/b0ad77831c8db4c4a5af44f60086e398-thumbnail.jpg",
-          "url": "https://ppv.st/live/cbb/2026-11-11/jxst-hou",
-          "referer": "https://ppv.st/live/cbb/2026-11-11/jxst-hou",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "08:00 Robert Morris Colonials at Arkansas Razorbacks",
-          "image": "https://static.ppvservices.st/assets/thumb/1873e2599a852e103c27226f95b1694e-thumbnail.jpg",
-          "url": "https://ppv.st/live/cbb/2026-11-11/rmu-ark",
-          "referer": "https://ppv.st/live/cbb/2026-11-11/rmu-ark",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "09:00 Arkansas-Pine Bluff Golden Lions at UCLA Bruins",
-          "image": "https://static.ppvservices.st/assets/thumb/a0480ddc6abf6d75f2ef39b39752f11a-thumbnail.jpg",
-          "url": "https://ppv.st/live/cbb/2026-11-11/uapb-ucla",
-          "referer": "https://ppv.st/live/cbb/2026-11-11/uapb-ucla",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "09:00 Lindenwood Lions at Nebraska Cornhuskers",
-          "image": "https://static.ppvservices.st/assets/thumb/e30f97dac7a9f54f0c7877993cf72bc0-thumbnail.jpg",
-          "url": "https://ppv.st/live/cbb/2026-11-11/lin-neb",
-          "referer": "https://ppv.st/live/cbb/2026-11-11/lin-neb",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "11:00 USC Trojans at California Golden Bears",
-          "image": "https://static.ppvservices.st/assets/thumb/8c8dd23bfa37f9c69c568e4693cf728b-thumbnail.jpg",
-          "url": "https://ppv.st/live/cbb/2026-11-11/usc-cal",
-          "referer": "https://ppv.st/live/cbb/2026-11-11/usc-cal",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "09:00 Montana State Bobcats at BYU Cougars",
-          "image": "https://static.ppvservices.st/assets/thumb/04e5c08a76cda8139d4a99dd589c7632-thumbnail.jpg",
-          "url": "https://ppv.st/live/cbb/2026-11-12/mtst-byu",
-          "referer": "https://ppv.st/live/cbb/2026-11-12/mtst-byu",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
       "name": "NBA",
       "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
       "stations": [
-        {
-          "name": "10:00 Orlando Magic -. Sacramento Kings",
-          "image": "https://static.ppvservices.st/assets/thumb/dea6b289ce7ff5028ae5de19a098e6a4-thumbnail.jpg",
-          "url": "https://ppv.st/live/nba/2026-11-10/orl-sac",
-          "referer": "https://ppv.st/live/nba/2026-11-10/orl-sac",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "11:00 Oklahoma City Thunder -. Portland Trail Blazers",
-          "image": "https://static.ppvservices.st/assets/thumb/ebcf43fc73c965170376ffbfaef7e5e5-thumbnail.jpg",
-          "url": "https://ppv.st/live/nba/2026-11-10/okc-por",
-          "referer": "https://ppv.st/live/nba/2026-11-10/okc-por",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
         {
           "name": "07:00 Washington Wizards -. Indiana Pacers",
           "image": "https://static.ppvservices.st/assets/thumb/485c72a6cd2eb01abe3f10543af62790-thumbnail.jpg",
@@ -513,17 +419,79 @@
       ]
     },
     {
-      "name": "NBL",
+      "name": "College Basketball",
       "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
       "stations": [
         {
-          "name": "15:30 South East Melbourne Phoenix -. Illawarra Hawks",
-          "image": "https://static.ppvservices.st/assets/thumb/91727aafa2a41d8f35b9e908fd0050e7-thumbnail.jpg",
-          "url": "https://ppv.st/live/nbl/2026-11-11/pnx-hwk",
-          "referer": "https://ppv.st/live/nbl/2026-11-11/pnx-hwk",
+          "name": "07:00 Colgate Raiders at St. John's Red Storm",
+          "image": "https://static.ppvservices.st/assets/thumb/0c2df405fbeb7aa6e29dbfb231b1d551-thumbnail.jpg",
+          "url": "https://ppv.st/live/cbb/2026-11-11/colg-sju",
+          "referer": "https://ppv.st/live/cbb/2026-11-11/colg-sju",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         },
+        {
+          "name": "07:00 Marquette Golden Eagles at Michigan Wolverines",
+          "image": "https://static.ppvservices.st/assets/thumb/10995af2cc596fdfdca0d2b0bb18f815-thumbnail.jpg",
+          "url": "https://ppv.st/live/cbb/2026-11-11/marq-mich",
+          "referer": "https://ppv.st/live/cbb/2026-11-11/marq-mich",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "08:00 Jacksonville State Gamecocks at Houston Cougars",
+          "image": "https://static.ppvservices.st/assets/thumb/b0ad77831c8db4c4a5af44f60086e398-thumbnail.jpg",
+          "url": "https://ppv.st/live/cbb/2026-11-11/jxst-hou",
+          "referer": "https://ppv.st/live/cbb/2026-11-11/jxst-hou",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "08:00 Robert Morris Colonials at Arkansas Razorbacks",
+          "image": "https://static.ppvservices.st/assets/thumb/1873e2599a852e103c27226f95b1694e-thumbnail.jpg",
+          "url": "https://ppv.st/live/cbb/2026-11-11/rmu-ark",
+          "referer": "https://ppv.st/live/cbb/2026-11-11/rmu-ark",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "09:00 Arkansas-Pine Bluff Golden Lions at UCLA Bruins",
+          "image": "https://static.ppvservices.st/assets/thumb/a0480ddc6abf6d75f2ef39b39752f11a-thumbnail.jpg",
+          "url": "https://ppv.st/live/cbb/2026-11-11/uapb-ucla",
+          "referer": "https://ppv.st/live/cbb/2026-11-11/uapb-ucla",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "09:00 Lindenwood Lions at Nebraska Cornhuskers",
+          "image": "https://static.ppvservices.st/assets/thumb/e30f97dac7a9f54f0c7877993cf72bc0-thumbnail.jpg",
+          "url": "https://ppv.st/live/cbb/2026-11-11/lin-neb",
+          "referer": "https://ppv.st/live/cbb/2026-11-11/lin-neb",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "11:00 USC Trojans at California Golden Bears",
+          "image": "https://static.ppvservices.st/assets/thumb/8c8dd23bfa37f9c69c568e4693cf728b-thumbnail.jpg",
+          "url": "https://ppv.st/live/cbb/2026-11-11/usc-cal",
+          "referer": "https://ppv.st/live/cbb/2026-11-11/usc-cal",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "09:00 Montana State Bobcats at BYU Cougars",
+          "image": "https://static.ppvservices.st/assets/thumb/04e5c08a76cda8139d4a99dd589c7632-thumbnail.jpg",
+          "url": "https://ppv.st/live/cbb/2026-11-12/mtst-byu",
+          "referer": "https://ppv.st/live/cbb/2026-11-12/mtst-byu",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "NBL",
+      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
+      "stations": [
         {
           "name": "15:30 Adelaide 36ers -. Melbourne United",
           "image": "https://static.ppvservices.st/assets/thumb/4cadf993f7ca00cfc8c6d095efb77606-thumbnail.jpg",
@@ -574,14 +542,6 @@
       "name": "NHL",
       "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
       "stations": [
-        {
-          "name": "10:00 Nashville Predators -. Los Angeles Kings",
-          "image": "https://static.ppvservices.st/assets/thumb/c025561b4789c7e21aa530a371818ff7-thumbnail.jpg",
-          "url": "https://ppv.st/live/nhl/2026-11-10/nsh-la",
-          "referer": "https://ppv.st/live/nhl/2026-11-10/nsh-la",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
         {
           "name": "07:00 Tampa Bay Lightning -. Buffalo Sabres",
           "image": "https://static.ppvservices.st/assets/thumb/20675d59d91bb77d00ae535d9bfd5854-thumbnail.jpg",

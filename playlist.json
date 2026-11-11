@@ -521,6 +521,198 @@
           "referer": "https://ppv.st/live/efl-trophy/2026-11-11/bar-old",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
+        },
+        {
+          "name": "02:00 Sheffield Wednesday -. Accrington Stanley",
+          "image": "https://static.ppvservices.st/assets/thumb/c430e1a255aa6db62dd4af7ec8cb4b1a-thumbnail.jpg",
+          "url": "https://ppv.st/live/efl-trophy/2026-11-11/shw-acc",
+          "referer": "https://ppv.st/live/efl-trophy/2026-11-11/shw-acc",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "Men's International Friendly",
+      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
+      "stations": [
+        {
+          "name": "13:10 New Zealand -. India",
+          "image": "https://static.ppvservices.st/assets/thumb/df9c4246c6141494454b479eb2a509b2-thumbnail.jpg",
+          "url": "https://ppv.st/live/mens-international-friendly/2026-11-12/nzl-ind",
+          "referer": "https://ppv.st/live/mens-international-friendly/2026-11-12/nzl-ind",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "00:00 Lithuania -. Suriname",
+          "image": "https://static.ppvservices.st/assets/thumb/c679f495659130793f25459938347e19-thumbnail.jpg",
+          "url": "https://ppv.st/live/mens-international-friendly/2026-11-12/ltu-sur",
+          "referer": "https://ppv.st/live/mens-international-friendly/2026-11-12/ltu-sur",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "00:30 Malta -. Eswatini",
+          "image": "https://static.ppvservices.st/assets/thumb/73bb5c2415d9d35b998ac62575e991dc-thumbnail.jpg",
+          "url": "https://ppv.st/live/mens-international-friendly/2026-11-12/mlt-swz",
+          "referer": "https://ppv.st/live/mens-international-friendly/2026-11-12/mlt-swz",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "AFCON Qualifying",
+      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
+      "stations": [
+        {
+          "name": "22:00 Ghana -. Somalia",
+          "image": "https://static.ppvservices.st/assets/thumb/81c2f5f43c7d85ec1856a8c834bf5217-thumbnail.jpg",
+          "url": "https://ppv.st/live/afcon-qualifying/2026-11-12/gha-som",
+          "referer": "https://ppv.st/live/afcon-qualifying/2026-11-12/gha-som",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "23:00 Congo DR -. Sierra Leone",
+          "image": "https://static.ppvservices.st/assets/thumb/2cc5cbd17a4a10557819639aaaae4f91-thumbnail.jpg",
+          "url": "https://ppv.st/live/afcon-qualifying/2026-11-12/cod-sle",
+          "referer": "https://ppv.st/live/afcon-qualifying/2026-11-12/cod-sle",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "23:00 Equatorial Guinea -. Zimbabwe",
+          "image": "https://static.ppvservices.st/assets/thumb/4aeea3c59e811ae89712a1d3395ccfb5-thumbnail.jpg",
+          "url": "https://ppv.st/live/afcon-qualifying/2026-11-12/eqg-zim",
+          "referer": "https://ppv.st/live/afcon-qualifying/2026-11-12/eqg-zim",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "00:00 Guinea -. Eritrea",
+          "image": "https://static.ppvservices.st/assets/thumb/32cef62e1ba1c4bd261fe7f3df507e9c-thumbnail.jpg",
+          "url": "https://ppv.st/live/afcon-qualifying/2026-11-12/gui-eri",
+          "referer": "https://ppv.st/live/afcon-qualifying/2026-11-12/gui-eri",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "02:00 Benin -. Central African Republic",
+          "image": "https://static.ppvservices.st/assets/thumb/dec4658a2327742a14b97deb2735ff39-thumbnail.jpg",
+          "url": "https://ppv.st/live/afcon-qualifying/2026-11-12/ben-cta",
+          "referer": "https://ppv.st/live/afcon-qualifying/2026-11-12/ben-cta",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "02:00 Cameroon -. Namibia",
+          "image": "https://static.ppvservices.st/assets/thumb/160906c26b91be374baa9234142072ac-thumbnail.jpg",
+          "url": "https://ppv.st/live/afcon-qualifying/2026-11-12/cmr-nam",
+          "referer": "https://ppv.st/live/afcon-qualifying/2026-11-12/cmr-nam",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "02:00 Ivory Coast -. Gambia",
+          "image": "https://static.ppvservices.st/assets/thumb/acc99cab400751466588ec87671c00e3-thumbnail.jpg",
+          "url": "https://ppv.st/live/afcon-qualifying/2026-11-12/civ-gam",
+          "referer": "https://ppv.st/live/afcon-qualifying/2026-11-12/civ-gam",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "02:00 Senegal -. Sudan",
+          "image": "https://static.ppvservices.st/assets/thumb/621f1dd3d745e2dc0a39654f2070e067-thumbnail.jpg",
+          "url": "https://ppv.st/live/afcon-qualifying/2026-11-12/sen-sud",
+          "referer": "https://ppv.st/live/afcon-qualifying/2026-11-12/sen-sud",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "UEFA Nations League",
+      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
+      "stations": [
+        {
+          "name": "00:00 Armenia -. Cyprus",
+          "image": "https://static.ppvservices.st/assets/thumb/0652868a024912ae66659423fb284315-thumbnail.jpg",
+          "url": "https://ppv.st/live/uefa-nations-league/2026-11-12/arm-cyp",
+          "referer": "https://ppv.st/live/uefa-nations-league/2026-11-12/arm-cyp",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "00:00 Türkiye -. Belgium",
+          "image": "https://static.ppvservices.st/assets/thumb/fc928917bb9b2e9219feb0f8a58b8316-thumbnail.jpg",
+          "url": "https://ppv.st/live/uefa-nations-league/2026-11-12/tur-bel",
+          "referer": "https://ppv.st/live/uefa-nations-league/2026-11-12/tur-bel",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "02:45 Albania -. Finland",
+          "image": "https://static.ppvservices.st/assets/thumb/cac3a3b505fe4fa2fa62c7be617e46ab-thumbnail.jpg",
+          "url": "https://ppv.st/live/uefa-nations-league/2026-11-12/alb-fin",
+          "referer": "https://ppv.st/live/uefa-nations-league/2026-11-12/alb-fin",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "02:45 Czechia -. Spain",
+          "image": "https://static.ppvservices.st/assets/thumb/89bb7be460f9227bce8a8bf3aa4b250f-thumbnail.jpg",
+          "url": "https://ppv.st/live/uefa-nations-league/2026-11-12/cze-esp",
+          "referer": "https://ppv.st/live/uefa-nations-league/2026-11-12/cze-esp",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "02:45 England -. Croatia",
+          "image": "https://static.ppvservices.st/assets/thumb/24cf8ef1ec9798401747838b86feb2cf-thumbnail.jpg",
+          "url": "https://ppv.st/live/uefa-nations-league/2026-11-12/eng-cro",
+          "referer": "https://ppv.st/live/uefa-nations-league/2026-11-12/eng-cro",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "02:45 Italy -. France",
+          "image": "https://static.ppvservices.st/assets/thumb/d9f075a09fb29c211f177cf499ca7664-thumbnail.jpg",
+          "url": "https://ppv.st/live/uefa-nations-league/2026-11-12/ita-fra",
+          "referer": "https://ppv.st/live/uefa-nations-league/2026-11-12/ita-fra",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "02:45 Montenegro -. Latvia",
+          "image": "https://static.ppvservices.st/assets/thumb/0f072253413b16cb809783968f711a5e-thumbnail.jpg",
+          "url": "https://ppv.st/live/uefa-nations-league/2026-11-12/mne-lva",
+          "referer": "https://ppv.st/live/uefa-nations-league/2026-11-12/mne-lva",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "02:45 San Marino -. Belarus",
+          "image": "https://static.ppvservices.st/assets/thumb/5931b7c941820f052e2473b235a487da-thumbnail.jpg",
+          "url": "https://ppv.st/live/uefa-nations-league/2026-11-12/smr-blr",
+          "referer": "https://ppv.st/live/uefa-nations-league/2026-11-12/smr-blr",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "EFL League Two",
+      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
+      "stations": [
+        {
+          "name": "22:00 Shrewsbury Town -. Oldham Athletic",
+          "image": "https://static.ppvservices.st/assets/thumb/3f506f1e2b24c9d4c40080d4a588de84-thumbnail.jpg",
+          "url": "https://ppv.st/live/efl-league-two/2026-11-14/shr-old",
+          "referer": "https://ppv.st/live/efl-league-two/2026-11-14/shr-old",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
         }
       ]
     },

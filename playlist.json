@@ -511,28 +511,6 @@
       ]
     },
     {
-      "name": "EFL Trophy",
-      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
-      "stations": [
-        {
-          "name": "02:00 Barnsley -. Oldham Athletic",
-          "image": "https://static.ppvservices.st/assets/thumb/30ac305e7e3e83f420e274a2bc1b2b70-thumbnail.jpg",
-          "url": "https://ppv.st/live/efl-trophy/2026-11-11/bar-old",
-          "referer": "https://ppv.st/live/efl-trophy/2026-11-11/bar-old",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "02:00 Sheffield Wednesday -. Accrington Stanley",
-          "image": "https://static.ppvservices.st/assets/thumb/c430e1a255aa6db62dd4af7ec8cb4b1a-thumbnail.jpg",
-          "url": "https://ppv.st/live/efl-trophy/2026-11-11/shw-acc",
-          "referer": "https://ppv.st/live/efl-trophy/2026-11-11/shw-acc",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
       "name": "Men's International Friendly",
       "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
       "stations": [

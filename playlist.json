@@ -301,36 +301,6 @@
       ]
     },
     {
-      "name": "NBL",
-      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
-      "stations": [
-        {
-          "name": "17:30 Perth Wildcats -. Tasmania JackJumpers",
-          "image": "https://static.ppvservices.st/assets/thumb/5c8ae34e1a86d3fe51d26014a4bdb16c-thumbnail.jpg",
-          "url": "https://ppv.st/live/nbl/2026-11-12/per-tas",
-          "referer": "https://ppv.st/live/nbl/2026-11-12/per-tas",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "13:30 New Zealand Breakers -. Brisbane Bullets",
-          "image": "https://static.ppvservices.st/assets/thumb/4ceecc6bac4435e7e691f5dcd288cca5-thumbnail.jpg",
-          "url": "https://ppv.st/live/nbl/2026-11-13/nzl-bri",
-          "referer": "https://ppv.st/live/nbl/2026-11-13/nzl-bri",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "15:30 Cairns Taipans -. Sydney Kings",
-          "image": "https://static.ppvservices.st/assets/thumb/22115f49808a4a71f39c0ea497aaf016-thumbnail.jpg",
-          "url": "https://ppv.st/live/nbl/2026-11-13/cns-syd",
-          "referer": "https://ppv.st/live/nbl/2026-11-13/cns-syd",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
       "name": "NBA",
       "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
       "stations": [
@@ -559,41 +529,31 @@
       ]
     },
     {
-      "name": "AFCON Qualifying",
+      "name": "NBL",
       "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
       "stations": [
         {
-          "name": "22:00 Ghana -. Somalia",
-          "image": "https://static.ppvservices.st/assets/thumb/81c2f5f43c7d85ec1856a8c834bf5217-thumbnail.jpg",
-          "url": "https://ppv.st/live/afcon-qualifying/2026-11-12/gha-som",
-          "referer": "https://ppv.st/live/afcon-qualifying/2026-11-12/gha-som",
+          "name": "13:30 New Zealand Breakers -. Brisbane Bullets",
+          "image": "https://static.ppvservices.st/assets/thumb/4ceecc6bac4435e7e691f5dcd288cca5-thumbnail.jpg",
+          "url": "https://ppv.st/live/nbl/2026-11-13/nzl-bri",
+          "referer": "https://ppv.st/live/nbl/2026-11-13/nzl-bri",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         },
         {
-          "name": "23:00 Congo DR -. Sierra Leone",
-          "image": "https://static.ppvservices.st/assets/thumb/2cc5cbd17a4a10557819639aaaae4f91-thumbnail.jpg",
-          "url": "https://ppv.st/live/afcon-qualifying/2026-11-12/cod-sle",
-          "referer": "https://ppv.st/live/afcon-qualifying/2026-11-12/cod-sle",
+          "name": "15:30 Cairns Taipans -. Sydney Kings",
+          "image": "https://static.ppvservices.st/assets/thumb/22115f49808a4a71f39c0ea497aaf016-thumbnail.jpg",
+          "url": "https://ppv.st/live/nbl/2026-11-13/cns-syd",
+          "referer": "https://ppv.st/live/nbl/2026-11-13/cns-syd",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
-        },
-        {
-          "name": "23:00 Equatorial Guinea -. Zimbabwe",
-          "image": "https://static.ppvservices.st/assets/thumb/4aeea3c59e811ae89712a1d3395ccfb5-thumbnail.jpg",
-          "url": "https://ppv.st/live/afcon-qualifying/2026-11-12/eqg-zim",
-          "referer": "https://ppv.st/live/afcon-qualifying/2026-11-12/eqg-zim",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "00:00 Guinea -. Eritrea",
-          "image": "https://static.ppvservices.st/assets/thumb/32cef62e1ba1c4bd261fe7f3df507e9c-thumbnail.jpg",
-          "url": "https://ppv.st/live/afcon-qualifying/2026-11-12/gui-eri",
-          "referer": "https://ppv.st/live/afcon-qualifying/2026-11-12/gui-eri",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
+        }
+      ]
+    },
+    {
+      "name": "AFCON Qualifying",
+      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
+      "stations": [
         {
           "name": "02:00 Benin -. Central African Republic",
           "image": "https://static.ppvservices.st/assets/thumb/dec4658a2327742a14b97deb2735ff39-thumbnail.jpg",
@@ -632,22 +592,6 @@
       "name": "UEFA Nations League",
       "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
       "stations": [
-        {
-          "name": "00:00 Armenia -. Cyprus",
-          "image": "https://static.ppvservices.st/assets/thumb/0652868a024912ae66659423fb284315-thumbnail.jpg",
-          "url": "https://ppv.st/live/uefa-nations-league/2026-11-12/arm-cyp",
-          "referer": "https://ppv.st/live/uefa-nations-league/2026-11-12/arm-cyp",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "00:00 Türkiye -. Belgium",
-          "image": "https://static.ppvservices.st/assets/thumb/fc928917bb9b2e9219feb0f8a58b8316-thumbnail.jpg",
-          "url": "https://ppv.st/live/uefa-nations-league/2026-11-12/tur-bel",
-          "referer": "https://ppv.st/live/uefa-nations-league/2026-11-12/tur-bel",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
         {
           "name": "02:45 Albania -. Finland",
           "image": "https://static.ppvservices.st/assets/thumb/cac3a3b505fe4fa2fa62c7be617e46ab-thumbnail.jpg",
@@ -699,28 +643,6 @@
       ]
     },
     {
-      "name": "Men's International Friendly",
-      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
-      "stations": [
-        {
-          "name": "00:00 Lithuania -. Suriname",
-          "image": "https://static.ppvservices.st/assets/thumb/c679f495659130793f25459938347e19-thumbnail.jpg",
-          "url": "https://ppv.st/live/mens-international-friendly/2026-11-12/ltu-sur",
-          "referer": "https://ppv.st/live/mens-international-friendly/2026-11-12/ltu-sur",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "00:30 Malta -. Eswatini",
-          "image": "https://static.ppvservices.st/assets/thumb/73bb5c2415d9d35b998ac62575e991dc-thumbnail.jpg",
-          "url": "https://ppv.st/live/mens-international-friendly/2026-11-12/mlt-swz",
-          "referer": "https://ppv.st/live/mens-international-friendly/2026-11-12/mlt-swz",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
       "name": "EFL League Two",
       "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
       "stations": [
@@ -752,14 +674,6 @@
       "name": "NHL",
       "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
       "stations": [
-        {
-          "name": "00:00 Carolina Hurricanes -. Seattle Kraken",
-          "image": "https://static.ppvservices.st/assets/thumb/50ce9121d3d35225d9dcfd5360146918-thumbnail.jpg",
-          "url": "https://ppv.st/live/nhl/2026-11-12/car-sea",
-          "referer": "https://ppv.st/live/nhl/2026-11-12/car-sea",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
         {
           "name": "07:00 Montreal Canadiens -. Boston Bruins",
           "image": "https://static.ppvservices.st/assets/thumb/7a62f631097614e5a654cd1e02e34c51-thumbnail.jpg",

@@ -551,92 +551,86 @@
       ]
     },
     {
-      "name": "AFCON Qualifying",
-      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
-      "stations": [
-        {
-          "name": "02:00 Benin -. Central African Republic",
-          "image": "https://static.ppvservices.st/assets/thumb/dec4658a2327742a14b97deb2735ff39-thumbnail.jpg",
-          "url": "https://ppv.st/live/afcon-qualifying/2026-11-12/ben-cta",
-          "referer": "https://ppv.st/live/afcon-qualifying/2026-11-12/ben-cta",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "02:00 Cameroon -. Namibia",
-          "image": "https://static.ppvservices.st/assets/thumb/160906c26b91be374baa9234142072ac-thumbnail.jpg",
-          "url": "https://ppv.st/live/afcon-qualifying/2026-11-12/cmr-nam",
-          "referer": "https://ppv.st/live/afcon-qualifying/2026-11-12/cmr-nam",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "02:00 Ivory Coast -. Gambia",
-          "image": "https://static.ppvservices.st/assets/thumb/acc99cab400751466588ec87671c00e3-thumbnail.jpg",
-          "url": "https://ppv.st/live/afcon-qualifying/2026-11-12/civ-gam",
-          "referer": "https://ppv.st/live/afcon-qualifying/2026-11-12/civ-gam",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "02:00 Senegal -. Sudan",
-          "image": "https://static.ppvservices.st/assets/thumb/621f1dd3d745e2dc0a39654f2070e067-thumbnail.jpg",
-          "url": "https://ppv.st/live/afcon-qualifying/2026-11-12/sen-sud",
-          "referer": "https://ppv.st/live/afcon-qualifying/2026-11-12/sen-sud",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
       "name": "UEFA Nations League",
       "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
       "stations": [
         {
-          "name": "02:45 Albania -. Finland",
-          "image": "https://static.ppvservices.st/assets/thumb/cac3a3b505fe4fa2fa62c7be617e46ab-thumbnail.jpg",
-          "url": "https://ppv.st/live/uefa-nations-league/2026-11-12/alb-fin",
-          "referer": "https://ppv.st/live/uefa-nations-league/2026-11-12/alb-fin",
+          "name": "00:00 Moldova -. Kazakhstan",
+          "image": "https://static.ppvservices.st/assets/thumb/5795b1a658ce48a9d8ca7ee77bf5802d-thumbnail.jpg",
+          "url": "https://ppv.st/live/uefa-nations-league/2026-11-13/mda-kaz",
+          "referer": "https://ppv.st/live/uefa-nations-league/2026-11-13/mda-kaz",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         },
         {
-          "name": "02:45 Czechia -. Spain",
-          "image": "https://static.ppvservices.st/assets/thumb/89bb7be460f9227bce8a8bf3aa4b250f-thumbnail.jpg",
-          "url": "https://ppv.st/live/uefa-nations-league/2026-11-12/cze-esp",
-          "referer": "https://ppv.st/live/uefa-nations-league/2026-11-12/cze-esp",
+          "name": "02:45 Andorra -. Gibraltar",
+          "image": "https://static.ppvservices.st/assets/thumb/21c38ec2ed4e1b07042576515d4e561c-thumbnail.jpg",
+          "url": "https://ppv.st/live/uefa-nations-league/2026-11-13/and-gib",
+          "referer": "https://ppv.st/live/uefa-nations-league/2026-11-13/and-gib",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         },
         {
-          "name": "02:45 England -. Croatia",
-          "image": "https://static.ppvservices.st/assets/thumb/24cf8ef1ec9798401747838b86feb2cf-thumbnail.jpg",
-          "url": "https://ppv.st/live/uefa-nations-league/2026-11-12/eng-cro",
-          "referer": "https://ppv.st/live/uefa-nations-league/2026-11-12/eng-cro",
+          "name": "02:45 Bulgaria -. Iceland",
+          "image": "https://static.ppvservices.st/assets/thumb/0c6e85f4b67db546244b203fbe2c6164-thumbnail.jpg",
+          "url": "https://ppv.st/live/uefa-nations-league/2026-11-13/bul-isl",
+          "referer": "https://ppv.st/live/uefa-nations-league/2026-11-13/bul-isl",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         },
         {
-          "name": "02:45 Italy -. France",
-          "image": "https://static.ppvservices.st/assets/thumb/d9f075a09fb29c211f177cf499ca7664-thumbnail.jpg",
-          "url": "https://ppv.st/live/uefa-nations-league/2026-11-12/ita-fra",
-          "referer": "https://ppv.st/live/uefa-nations-league/2026-11-12/ita-fra",
+          "name": "02:45 Liechtenstein -. Azerbaijan",
+          "image": "https://static.ppvservices.st/assets/thumb/78fc9b52ec51374a90d0962cef03d48f-thumbnail.jpg",
+          "url": "https://ppv.st/live/uefa-nations-league/2026-11-13/lie-aze",
+          "referer": "https://ppv.st/live/uefa-nations-league/2026-11-13/lie-aze",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         },
         {
-          "name": "02:45 Montenegro -. Latvia",
-          "image": "https://static.ppvservices.st/assets/thumb/0f072253413b16cb809783968f711a5e-thumbnail.jpg",
-          "url": "https://ppv.st/live/uefa-nations-league/2026-11-12/mne-lva",
-          "referer": "https://ppv.st/live/uefa-nations-league/2026-11-12/mne-lva",
+          "name": "02:45 Luxembourg -. Estonia",
+          "image": "https://static.ppvservices.st/assets/thumb/b508f0c576001a283875836aa8c36b65-thumbnail.jpg",
+          "url": "https://ppv.st/live/uefa-nations-league/2026-11-13/lux-est",
+          "referer": "https://ppv.st/live/uefa-nations-league/2026-11-13/lux-est",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         },
         {
-          "name": "02:45 San Marino -. Belarus",
-          "image": "https://static.ppvservices.st/assets/thumb/5931b7c941820f052e2473b235a487da-thumbnail.jpg",
-          "url": "https://ppv.st/live/uefa-nations-league/2026-11-12/smr-blr",
-          "referer": "https://ppv.st/live/uefa-nations-league/2026-11-12/smr-blr",
+          "name": "02:45 Netherlands -. Greece",
+          "image": "https://static.ppvservices.st/assets/thumb/3f2cbed1a9de71ff0ebf0231f55fa977-thumbnail.jpg",
+          "url": "https://ppv.st/live/uefa-nations-league/2026-11-13/ned-gre",
+          "referer": "https://ppv.st/live/uefa-nations-league/2026-11-13/ned-gre",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "02:45 Scotland -. North Macedonia",
+          "image": "https://static.ppvservices.st/assets/thumb/c5f5163d17ab2dfaa382bc37d3f797bf-thumbnail.jpg",
+          "url": "https://ppv.st/live/uefa-nations-league/2026-11-13/sco-mkd",
+          "referer": "https://ppv.st/live/uefa-nations-league/2026-11-13/sco-mkd",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "02:45 Serbia -. Germany",
+          "image": "https://static.ppvservices.st/assets/thumb/5274c2404968f4438f152a8f06b33909-thumbnail.jpg",
+          "url": "https://ppv.st/live/uefa-nations-league/2026-11-13/srb-ger",
+          "referer": "https://ppv.st/live/uefa-nations-league/2026-11-13/srb-ger",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "02:45 Slovakia -. Faroe Islands",
+          "image": "https://static.ppvservices.st/assets/thumb/eafbfebc28b59688250e6e6d5e355e99-thumbnail.jpg",
+          "url": "https://ppv.st/live/uefa-nations-league/2026-11-13/svk-fro",
+          "referer": "https://ppv.st/live/uefa-nations-league/2026-11-13/svk-fro",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "02:45 Slovenia -. Switzerland",
+          "image": "https://static.ppvservices.st/assets/thumb/8282d442bfa2d6fefa4e0f01b6e26643-thumbnail.jpg",
+          "url": "https://ppv.st/live/uefa-nations-league/2026-11-13/svn-sui",
+          "referer": "https://ppv.st/live/uefa-nations-league/2026-11-13/svn-sui",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         }

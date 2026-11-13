@@ -567,17 +567,39 @@
       ]
     },
     {
-      "name": "UEFA Nations League",
+      "name": "AFCON Qualifying",
       "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
       "stations": [
         {
-          "name": "00:00 Moldova -. Kazakhstan",
-          "image": "https://static.ppvservices.st/assets/thumb/5795b1a658ce48a9d8ca7ee77bf5802d-thumbnail.jpg",
-          "url": "https://ppv.st/live/uefa-nations-league/2026-11-13/mda-kaz",
-          "referer": "https://ppv.st/live/uefa-nations-league/2026-11-13/mda-kaz",
+          "name": "02:00 Egypt -. Malawi",
+          "image": "https://static.ppvservices.st/assets/thumb/96b6094f6065355f9c11dd2e8d96804c-thumbnail.jpg",
+          "url": "https://ppv.st/live/afcon-qualifying/2026-11-13/egy-mwi",
+          "referer": "https://ppv.st/live/afcon-qualifying/2026-11-13/egy-mwi",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         },
+        {
+          "name": "02:00 Mali -. Rwanda",
+          "image": "https://static.ppvservices.st/assets/thumb/e62a5c30b3a8396657fa178afa037d42-thumbnail.jpg",
+          "url": "https://ppv.st/live/afcon-qualifying/2026-11-13/mli-rwa",
+          "referer": "https://ppv.st/live/afcon-qualifying/2026-11-13/mli-rwa",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "03:00 Morocco -. Niger",
+          "image": "https://static.ppvservices.st/assets/thumb/c617dac167605a63ceca4815c4ee3028-thumbnail.jpg",
+          "url": "https://ppv.st/live/afcon-qualifying/2026-11-13/mar-nig",
+          "referer": "https://ppv.st/live/afcon-qualifying/2026-11-13/mar-nig",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "UEFA Nations League",
+      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
+      "stations": [
         {
           "name": "02:45 Andorra -. Gibraltar",
           "image": "https://static.ppvservices.st/assets/thumb/21c38ec2ed4e1b07042576515d4e561c-thumbnail.jpg",

@@ -277,44 +277,6 @@
       ]
     },
     {
-      "name": "NBL",
-      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
-      "stations": [
-        {
-          "name": "15:30 Melbourne United -. South East Melbourne Phoenix",
-          "image": "https://static.ppvservices.st/assets/thumb/3a8374ec9f3298d108404e170ed9d9cd-thumbnail.jpg",
-          "url": "https://ppv.st/live/nbl/2026-11-14/mel-pnx",
-          "referer": "https://ppv.st/live/nbl/2026-11-14/mel-pnx",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "17:30 Perth Wildcats -. Illawarra Hawks",
-          "image": "https://static.ppvservices.st/assets/thumb/37693c9b1e97d52beb2164e157623035-thumbnail.jpg",
-          "url": "https://ppv.st/live/nbl/2026-11-14/per-hwk",
-          "referer": "https://ppv.st/live/nbl/2026-11-14/per-hwk",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "11:00 Sydney Kings -. New Zealand Breakers",
-          "image": "https://static.ppvservices.st/assets/thumb/609c22afe3bff56c8d6efab52008455b-thumbnail.jpg",
-          "url": "https://ppv.st/live/nbl/2026-11-15/syd-nzl",
-          "referer": "https://ppv.st/live/nbl/2026-11-15/syd-nzl",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "13:00 Brisbane Bullets -. Tasmania JackJumpers",
-          "image": "https://static.ppvservices.st/assets/thumb/13309f50c334fe36d8edeaf6abf30a38-thumbnail.jpg",
-          "url": "https://ppv.st/live/nbl/2026-11-15/bri-tas",
-          "referer": "https://ppv.st/live/nbl/2026-11-15/bri-tas",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
       "name": "College Basketball",
       "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
       "stations": [
@@ -503,6 +465,112 @@
       ]
     },
     {
+      "name": "NBL",
+      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
+      "stations": [
+        {
+          "name": "11:00 Sydney Kings -. New Zealand Breakers",
+          "image": "https://static.ppvservices.st/assets/thumb/609c22afe3bff56c8d6efab52008455b-thumbnail.jpg",
+          "url": "https://ppv.st/live/nbl/2026-11-15/syd-nzl",
+          "referer": "https://ppv.st/live/nbl/2026-11-15/syd-nzl",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "13:00 Brisbane Bullets -. Tasmania JackJumpers",
+          "image": "https://static.ppvservices.st/assets/thumb/13309f50c334fe36d8edeaf6abf30a38-thumbnail.jpg",
+          "url": "https://ppv.st/live/nbl/2026-11-15/bri-tas",
+          "referer": "https://ppv.st/live/nbl/2026-11-15/bri-tas",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "MMA",
+      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
+      "stations": [
+        {
+          "name": "05:00 Polymarket UFC 334: Gane -. Hokit",
+          "image": "https://static.ppvservices.st/assets/thumb/811bfeee22c6f88e6d2e3651a6e4015a-thumbnail.jpg",
+          "url": "https://ppv.st/live/polymarket-ufc-334-gane-vs-hokit-32218",
+          "referer": "https://ppv.st/live/polymarket-ufc-334-gane-vs-hokit-32218",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "UEFA Nations League",
+      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
+      "stations": [
+        {
+          "name": "21:00 Kosovo -. Israel",
+          "image": "https://static.ppvservices.st/assets/thumb/74c0225869c96b98022613c52978c835-thumbnail.jpg",
+          "url": "https://ppv.st/live/uefa-nations-league/2026-11-14/kos-isr",
+          "referer": "https://ppv.st/live/uefa-nations-league/2026-11-14/kos-isr",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "00:00 Georgia -. Hungary",
+          "image": "https://static.ppvservices.st/assets/thumb/79324e14b078a394d59e27dc80c6a574-thumbnail.jpg",
+          "url": "https://ppv.st/live/uefa-nations-league/2026-11-14/geo-hun",
+          "referer": "https://ppv.st/live/uefa-nations-league/2026-11-14/geo-hun",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "00:00 Norway -. Wales",
+          "image": "https://static.ppvservices.st/assets/thumb/07a334681f728044ed3055aa38b9dae3-thumbnail.jpg",
+          "url": "https://ppv.st/live/uefa-nations-league/2026-11-14/nor-wal",
+          "referer": "https://ppv.st/live/uefa-nations-league/2026-11-14/nor-wal",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "02:45 Austria -. Republic of Ireland",
+          "image": "https://static.ppvservices.st/assets/thumb/c694b087c1f462e3bed7c274a61490d6-thumbnail.jpg",
+          "url": "https://ppv.st/live/uefa-nations-league/2026-11-14/aut-irl",
+          "referer": "https://ppv.st/live/uefa-nations-league/2026-11-14/aut-irl",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "02:45 Northern Ireland -. Ukraine",
+          "image": "https://static.ppvservices.st/assets/thumb/018e9e2c26d998017ecb74e6c18f00d4-thumbnail.jpg",
+          "url": "https://ppv.st/live/uefa-nations-league/2026-11-14/nir-ukr",
+          "referer": "https://ppv.st/live/uefa-nations-league/2026-11-14/nir-ukr",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "02:45 Portugal -. Denmark",
+          "image": "https://static.ppvservices.st/assets/thumb/e652a3f6b3622eb4eb143f098f3315f8-thumbnail.jpg",
+          "url": "https://ppv.st/live/uefa-nations-league/2026-11-14/por-den",
+          "referer": "https://ppv.st/live/uefa-nations-league/2026-11-14/por-den",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "02:45 Romania -. Poland",
+          "image": "https://static.ppvservices.st/assets/thumb/4751b82fa0e48517c63a9d1aa6168d93-thumbnail.jpg",
+          "url": "https://ppv.st/live/uefa-nations-league/2026-11-14/rou-pol",
+          "referer": "https://ppv.st/live/uefa-nations-league/2026-11-14/rou-pol",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "02:45 Sweden -. Bosnia-Herzegovina",
+          "image": "https://static.ppvservices.st/assets/thumb/eaeac30e84385f5d590e5ad247dad9d1-thumbnail.jpg",
+          "url": "https://ppv.st/live/uefa-nations-league/2026-11-14/swe-bih",
+          "referer": "https://ppv.st/live/uefa-nations-league/2026-11-14/swe-bih",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
       "name": "EFL League Two",
       "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
       "stations": [
@@ -511,6 +579,88 @@
           "image": "https://static.ppvservices.st/assets/thumb/3f506f1e2b24c9d4c40080d4a588de84-thumbnail.jpg",
           "url": "https://ppv.st/live/efl-league-two/2026-11-14/shr-old",
           "referer": "https://ppv.st/live/efl-league-two/2026-11-14/shr-old",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "22:00 Rochdale -. York City",
+          "image": "https://static.ppvservices.st/assets/thumb/916e5251721d26e12ce75c29f3bd8001-thumbnail.jpg",
+          "url": "https://ppv.st/live/efl-league-two/2026-11-14/rch-york",
+          "referer": "https://ppv.st/live/efl-league-two/2026-11-14/rch-york",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "00:30 Fleetwood Town -. Tranmere Rovers",
+          "image": "https://static.ppvservices.st/assets/thumb/33632cfc8f88f759ab13932cad72492c-thumbnail.jpg",
+          "url": "https://ppv.st/live/efl-league-two/2026-11-14/fle-trn",
+          "referer": "https://ppv.st/live/efl-league-two/2026-11-14/fle-trn",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "EFL League One",
+      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
+      "stations": [
+        {
+          "name": "22:00 Sheffield Wednesday -. Plymouth Argyle",
+          "image": "https://static.ppvservices.st/assets/thumb/9b25cc76b31461bdb5b0100002413c91-thumbnail.jpg",
+          "url": "https://ppv.st/live/efl-league-one/2026-11-14/shw-ply",
+          "referer": "https://ppv.st/live/efl-league-one/2026-11-14/shw-ply",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "AFCON Qualifying",
+      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
+      "stations": [
+        {
+          "name": "23:00 Uganda -. Botswana",
+          "image": "https://static.ppvservices.st/assets/thumb/7b22156557092f1881beb5f409c55090-thumbnail.jpg",
+          "url": "https://ppv.st/live/afcon-qualifying/2026-11-14/uga-bot",
+          "referer": "https://ppv.st/live/afcon-qualifying/2026-11-14/uga-bot",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "02:00 Algeria -. Togo",
+          "image": "https://static.ppvservices.st/assets/thumb/f1db1a30a96a2ac945d6f0bb898bd2e7-thumbnail.jpg",
+          "url": "https://ppv.st/live/afcon-qualifying/2026-11-14/alg-tog",
+          "referer": "https://ppv.st/live/afcon-qualifying/2026-11-14/alg-tog",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "02:00 Angola -. South Sudan",
+          "image": "https://static.ppvservices.st/assets/thumb/af77c541084e89ab431b30be12933572-thumbnail.jpg",
+          "url": "https://ppv.st/live/afcon-qualifying/2026-11-14/ang-ssd",
+          "referer": "https://ppv.st/live/afcon-qualifying/2026-11-14/ang-ssd",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "Concacaf Nations League",
+      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
+      "stations": [
+        {
+          "name": "04:30 Haiti -. United States",
+          "image": "https://static.ppvservices.st/assets/thumb/6997fb4449b4f022c2a12ce044221461-thumbnail.jpg",
+          "url": "https://ppv.st/live/concacaf-nations-league/2026-11-14/hai-usa",
+          "referer": "https://ppv.st/live/concacaf-nations-league/2026-11-14/hai-usa",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "08:00 Jamaica -. Mexico",
+          "image": "https://static.ppvservices.st/assets/thumb/4ee82a4bea518c56a0c883ed5ed59cef-thumbnail.jpg",
+          "url": "https://ppv.st/live/concacaf-nations-league/2026-11-15/jam-mex",
+          "referer": "https://ppv.st/live/concacaf-nations-league/2026-11-15/jam-mex",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         }

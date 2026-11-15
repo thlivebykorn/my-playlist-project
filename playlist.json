@@ -7,14 +7,6 @@
       "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
       "stations": [
         {
-          "name": "21:30 New England Patriots at Detroit Lions",
-          "image": "https://static.ppvservices.st/assets/thumb/2ee5ed760b71a282eb597a7a17d04756-thumbnail.jpg",
-          "url": "https://ppv.st/live/nfl/2026-11-15/ne-det",
-          "referer": "https://ppv.st/live/nfl/2026-11-15/ne-det",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
           "name": "01:00 Kansas City Chiefs at Atlanta Falcons",
           "image": "https://static.ppvservices.st/assets/thumb/d11241cda6866dd6f13754a4dbd232a9-thumbnail.jpg",
           "url": "https://ppv.st/live/nfl/2026-11-15/kc-atl",
@@ -67,6 +59,14 @@
           "image": "https://static.ppvservices.st/assets/thumb/381c8f699724c0c76c745151c69c177c-thumbnail.jpg",
           "url": "https://ppv.st/live/nfl/2026-11-15/buf-nyj",
           "referer": "https://ppv.st/live/nfl/2026-11-15/buf-nyj",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "01:00 NFL RedZone",
+          "image": "https://static.ppvservices.st/assets/thumb/a66bbcaa04317bdc032f473fdc8c9add-thumbnail.jpg",
+          "url": "https://ppv.st/live/nfl-redzone-32261",
+          "referer": "https://ppv.st/live/nfl-redzone-32261",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         },
@@ -357,14 +357,6 @@
       "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
       "stations": [
         {
-          "name": "20:00 Grand Slam of Darts | Day 2, Session 1",
-          "image": "https://static.ppvservices.st/assets/thumb/44d919e74b19b6693673efa9a6748015-thumbnail.jpg",
-          "url": "https://ppv.st/live/grand-slam-of-darts--day-2-session-1-32251",
-          "referer": "https://ppv.st/live/grand-slam-of-darts--day-2-session-1-32251",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
           "name": "02:00 Grand Slam of Darts | Day 2, Session 2",
           "image": "https://static.ppvservices.st/assets/thumb/44d919e74b19b6693673efa9a6748015-thumbnail.jpg",
           "url": "https://ppv.st/live/grand-slam-of-darts--day-2-session-2-32252",
@@ -442,38 +434,6 @@
       "name": "UEFA Nations League",
       "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
       "stations": [
-        {
-          "name": "21:00 Cyprus -. Montenegro",
-          "image": "https://static.ppvservices.st/assets/thumb/558f9661258cf10b307d13df0aba28e6-thumbnail.jpg",
-          "url": "https://ppv.st/live/uefa-nations-league/2026-11-15/cyp-mne",
-          "referer": "https://ppv.st/live/uefa-nations-league/2026-11-15/cyp-mne",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "21:00 Latvia -. Armenia",
-          "image": "https://static.ppvservices.st/assets/thumb/f8a5249a7668c97766cb9e952ce9b27b-thumbnail.jpg",
-          "url": "https://ppv.st/live/uefa-nations-league/2026-11-15/lva-arm",
-          "referer": "https://ppv.st/live/uefa-nations-league/2026-11-15/lva-arm",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "00:00 Belarus -. Albania",
-          "image": "https://static.ppvservices.st/assets/thumb/7c4cb7d07a6514ca94b1ee6a2915b2c5-thumbnail.jpg",
-          "url": "https://ppv.st/live/uefa-nations-league/2026-11-15/blr-alb",
-          "referer": "https://ppv.st/live/uefa-nations-league/2026-11-15/blr-alb",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "00:00 Finland -. San Marino",
-          "image": "https://static.ppvservices.st/assets/thumb/b8af06a34b1dd30b9f79d1b236882d7a-thumbnail.jpg",
-          "url": "https://ppv.st/live/uefa-nations-league/2026-11-15/fin-smr",
-          "referer": "https://ppv.st/live/uefa-nations-league/2026-11-15/fin-smr",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
         {
           "name": "02:45 Belgium -. Italy",
           "image": "https://static.ppvservices.st/assets/thumb/def4341e04ac73a66137059c101cec1a-thumbnail.jpg",

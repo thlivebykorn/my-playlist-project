@@ -3,36 +3,6 @@
   "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
   "groups": [
     {
-      "name": "College Football",
-      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
-      "stations": [
-        {
-          "name": "09:30 Texas Tech Red Raiders at Oklahoma State Cowboys",
-          "image": "https://static.ppvservices.st/assets/thumb/a69838aad1a5517d09011d90d51818f0-thumbnail.jpg",
-          "url": "https://ppv.st/live/cfb/2026-11-14/ttu-okst",
-          "referer": "https://ppv.st/live/cfb/2026-11-14/ttu-okst",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "10:30 Utah Utes at Arizona Wildcats",
-          "image": "https://static.ppvservices.st/assets/thumb/a2164e606a888fd43286f74d88f957d3-thumbnail.jpg",
-          "url": "https://ppv.st/live/cfb/2026-11-14/utah-ariz",
-          "referer": "https://ppv.st/live/cfb/2026-11-14/utah-ariz",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "01:00 Ole Miss Rebels at Oklahoma Sooners",
-          "image": "https://static.ppvservices.st/assets/thumb/83a51b3044f085f19f1ce542e219c1ea-thumbnail.jpg",
-          "url": "https://ppv.st/live/cfb/2026-11-14/miss-ou",
-          "referer": "https://ppv.st/live/cfb/2026-11-14/miss-ou",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
       "name": "NFL",
       "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
       "stations": [
@@ -143,6 +113,20 @@
       ]
     },
     {
+      "name": "College Football",
+      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
+      "stations": [
+        {
+          "name": "01:00 Ole Miss Rebels at Oklahoma Sooners",
+          "image": "https://static.ppvservices.st/assets/thumb/83a51b3044f085f19f1ce542e219c1ea-thumbnail.jpg",
+          "url": "https://ppv.st/live/cfb/2026-11-14/miss-ou",
+          "referer": "https://ppv.st/live/cfb/2026-11-14/miss-ou",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
       "name": "Canadian Football",
       "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
       "stations": [
@@ -151,28 +135,6 @@
           "image": "https://static.ppvservices.st/assets/thumb/f5a362d080ef15e5bd72e04b7d3c970b-thumbnail.jpg",
           "url": "https://ppv.st/live/cfl/2026-11-15/mtl-edm",
           "referer": "https://ppv.st/live/cfl/2026-11-15/mtl-edm",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
-      "name": "NBL",
-      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
-      "stations": [
-        {
-          "name": "11:00 Sydney Kings -. New Zealand Breakers",
-          "image": "https://static.ppvservices.st/assets/thumb/609c22afe3bff56c8d6efab52008455b-thumbnail.jpg",
-          "url": "https://ppv.st/live/nbl/2026-11-15/syd-nzl",
-          "referer": "https://ppv.st/live/nbl/2026-11-15/syd-nzl",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "13:00 Brisbane Bullets -. Tasmania JackJumpers",
-          "image": "https://static.ppvservices.st/assets/thumb/13309f50c334fe36d8edeaf6abf30a38-thumbnail.jpg",
-          "url": "https://ppv.st/live/nbl/2026-11-15/bri-tas",
-          "referer": "https://ppv.st/live/nbl/2026-11-15/bri-tas",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         }
@@ -391,28 +353,156 @@
       ]
     },
     {
-      "name": "MMA",
+      "name": "PDC Darts",
       "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
       "stations": [
         {
-          "name": "05:00 Polymarket UFC 334: Gane -. Hokit",
-          "image": "https://static.ppvservices.st/assets/thumb/811bfeee22c6f88e6d2e3651a6e4015a-thumbnail.jpg",
-          "url": "https://ppv.st/live/polymarket-ufc-334-gane-vs-hokit-32218",
-          "referer": "https://ppv.st/live/polymarket-ufc-334-gane-vs-hokit-32218",
+          "name": "20:00 Grand Slam of Darts | Day 2, Session 1",
+          "image": "https://static.ppvservices.st/assets/thumb/44d919e74b19b6693673efa9a6748015-thumbnail.jpg",
+          "url": "https://ppv.st/live/grand-slam-of-darts--day-2-session-1-32251",
+          "referer": "https://ppv.st/live/grand-slam-of-darts--day-2-session-1-32251",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "02:00 Grand Slam of Darts | Day 2, Session 2",
+          "image": "https://static.ppvservices.st/assets/thumb/44d919e74b19b6693673efa9a6748015-thumbnail.jpg",
+          "url": "https://ppv.st/live/grand-slam-of-darts--day-2-session-2-32252",
+          "referer": "https://ppv.st/live/grand-slam-of-darts--day-2-session-2-32252",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "02:00 Grand Slam of Darts | Day 3",
+          "image": "https://static.ppvservices.st/assets/thumb/44d919e74b19b6693673efa9a6748015-thumbnail.jpg",
+          "url": "https://ppv.st/live/grand-slam-of-darts--day-3-32253",
+          "referer": "https://ppv.st/live/grand-slam-of-darts--day-3-32253",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "02:00 Grand Slam of Darts | Day 4",
+          "image": "https://static.ppvservices.st/assets/thumb/44d919e74b19b6693673efa9a6748015-thumbnail.jpg",
+          "url": "https://ppv.st/live/grand-slam-of-darts--day-4-32254",
+          "referer": "https://ppv.st/live/grand-slam-of-darts--day-4-32254",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "02:00 Grand Slam of Darts | Day 5",
+          "image": "https://static.ppvservices.st/assets/thumb/44d919e74b19b6693673efa9a6748015-thumbnail.jpg",
+          "url": "https://ppv.st/live/grand-slam-of-darts--day-5-32255",
+          "referer": "https://ppv.st/live/grand-slam-of-darts--day-5-32255",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "02:00 Grand Slam of Darts | Day 6",
+          "image": "https://static.ppvservices.st/assets/thumb/44d919e74b19b6693673efa9a6748015-thumbnail.jpg",
+          "url": "https://ppv.st/live/grand-slam-of-darts--day-6-32256",
+          "referer": "https://ppv.st/live/grand-slam-of-darts--day-6-32256",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "02:00 Grand Slam of Darts | Day 7",
+          "image": "https://static.ppvservices.st/assets/thumb/44d919e74b19b6693673efa9a6748015-thumbnail.jpg",
+          "url": "https://ppv.st/live/grand-slam-of-darts--day-7-32257",
+          "referer": "https://ppv.st/live/grand-slam-of-darts--day-7-32257",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "02:00 Grand Slam of Darts | Day 8",
+          "image": "https://static.ppvservices.st/assets/thumb/44d919e74b19b6693673efa9a6748015-thumbnail.jpg",
+          "url": "https://ppv.st/live/grand-slam-of-darts--day-8-32258",
+          "referer": "https://ppv.st/live/grand-slam-of-darts--day-8-32258",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "19:00 Grand Slam of Darts | Day 9, Session 1",
+          "image": "https://static.ppvservices.st/assets/thumb/44d919e74b19b6693673efa9a6748015-thumbnail.jpg",
+          "url": "https://ppv.st/live/grand-slam-of-darts--day-9-session-1-32259",
+          "referer": "https://ppv.st/live/grand-slam-of-darts--day-9-session-1-32259",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "02:00 Grand Slam of Darts | Day 9, Session 2",
+          "image": "https://static.ppvservices.st/assets/thumb/44d919e74b19b6693673efa9a6748015-thumbnail.jpg",
+          "url": "https://ppv.st/live/grand-slam-of-darts--day-9-session-2-32260",
+          "referer": "https://ppv.st/live/grand-slam-of-darts--day-9-session-2-32260",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         }
       ]
     },
     {
-      "name": "Boxing",
+      "name": "UEFA Nations League",
       "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
       "stations": [
         {
-          "name": "08:00 Pacheco -. Fulghum",
-          "image": "https://static.ppvservices.st/assets/thumb/811a3ddb5132b71f1c5eb820439d827b-thumbnail.jpg",
-          "url": "https://ppv.st/live/pacheco-vs-fulghum-32224",
-          "referer": "https://ppv.st/live/pacheco-vs-fulghum-32224",
+          "name": "21:00 Cyprus -. Montenegro",
+          "image": "https://static.ppvservices.st/assets/thumb/558f9661258cf10b307d13df0aba28e6-thumbnail.jpg",
+          "url": "https://ppv.st/live/uefa-nations-league/2026-11-15/cyp-mne",
+          "referer": "https://ppv.st/live/uefa-nations-league/2026-11-15/cyp-mne",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "21:00 Latvia -. Armenia",
+          "image": "https://static.ppvservices.st/assets/thumb/f8a5249a7668c97766cb9e952ce9b27b-thumbnail.jpg",
+          "url": "https://ppv.st/live/uefa-nations-league/2026-11-15/lva-arm",
+          "referer": "https://ppv.st/live/uefa-nations-league/2026-11-15/lva-arm",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "00:00 Belarus -. Albania",
+          "image": "https://static.ppvservices.st/assets/thumb/7c4cb7d07a6514ca94b1ee6a2915b2c5-thumbnail.jpg",
+          "url": "https://ppv.st/live/uefa-nations-league/2026-11-15/blr-alb",
+          "referer": "https://ppv.st/live/uefa-nations-league/2026-11-15/blr-alb",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "00:00 Finland -. San Marino",
+          "image": "https://static.ppvservices.st/assets/thumb/b8af06a34b1dd30b9f79d1b236882d7a-thumbnail.jpg",
+          "url": "https://ppv.st/live/uefa-nations-league/2026-11-15/fin-smr",
+          "referer": "https://ppv.st/live/uefa-nations-league/2026-11-15/fin-smr",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "02:45 Belgium -. Italy",
+          "image": "https://static.ppvservices.st/assets/thumb/def4341e04ac73a66137059c101cec1a-thumbnail.jpg",
+          "url": "https://ppv.st/live/uefa-nations-league/2026-11-15/bel-ita",
+          "referer": "https://ppv.st/live/uefa-nations-league/2026-11-15/bel-ita",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "02:45 Croatia -. Czechia",
+          "image": "https://static.ppvservices.st/assets/thumb/dd373479ec6bf3adf4c1c0ac4e250d4d-thumbnail.jpg",
+          "url": "https://ppv.st/live/uefa-nations-league/2026-11-15/cro-cze",
+          "referer": "https://ppv.st/live/uefa-nations-league/2026-11-15/cro-cze",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "02:45 France -. Türkiye",
+          "image": "https://static.ppvservices.st/assets/thumb/6eaeb7365c22c6264b215590d1f2c157-thumbnail.jpg",
+          "url": "https://ppv.st/live/uefa-nations-league/2026-11-15/fra-tur",
+          "referer": "https://ppv.st/live/uefa-nations-league/2026-11-15/fra-tur",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "02:45 Spain -. England",
+          "image": "https://static.ppvservices.st/assets/thumb/db85d79959f1364f9367c55327f7c616-thumbnail.jpg",
+          "url": "https://ppv.st/live/uefa-nations-league/2026-11-15/esp-eng",
+          "referer": "https://ppv.st/live/uefa-nations-league/2026-11-15/esp-eng",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         }
@@ -422,22 +512,6 @@
       "name": "NHL",
       "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
       "stations": [
-        {
-          "name": "10:00 New York Islanders -. Anaheim Ducks",
-          "image": "https://static.ppvservices.st/assets/thumb/d8f4a5f27a6b251cc07d397cdc22c9b4-thumbnail.jpg",
-          "url": "https://ppv.st/live/nhl/2026-11-14/nyi-ana",
-          "referer": "https://ppv.st/live/nhl/2026-11-14/nyi-ana",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "10:00 Calgary Flames -. Los Angeles Kings",
-          "image": "https://static.ppvservices.st/assets/thumb/4ecfe4fc48b600da3583b52a40250a31-thumbnail.jpg",
-          "url": "https://ppv.st/live/nhl/2026-11-14/cgy-la",
-          "referer": "https://ppv.st/live/nhl/2026-11-14/cgy-la",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
         {
           "name": "07:30 Edmonton Oilers -. Philadelphia Flyers",
           "image": "https://static.ppvservices.st/assets/thumb/7ddca8d8fb008425ed58887e59d7b6d0-thumbnail.jpg",
@@ -475,20 +549,6 @@
           "image": "https://static.ppvservices.st/assets/thumb/858e682292aabb0909ba4070041da9b4-thumbnail.jpg",
           "url": "https://ppv.st/live/nhl/2026-11-15/nsh-sj",
           "referer": "https://ppv.st/live/nhl/2026-11-15/nsh-sj",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
-      "name": "Wrestling",
-      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
-      "stations": [
-        {
-          "name": "07:00 AEW Full Gear",
-          "image": "https://static.ppvservices.st/assets/thumb/60795419dea1562c4d49da8839909798-thumbnail.jpg",
-          "url": "https://ppv.st/live/aew-full-gear-32225",
-          "referer": "https://ppv.st/live/aew-full-gear-32225",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         }

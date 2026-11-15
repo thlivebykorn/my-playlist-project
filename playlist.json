@@ -7,62 +7,6 @@
       "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
       "stations": [
         {
-          "name": "01:00 Kansas City Chiefs at Atlanta Falcons",
-          "image": "https://static.ppvservices.st/assets/thumb/d11241cda6866dd6f13754a4dbd232a9-thumbnail.jpg",
-          "url": "https://ppv.st/live/nfl/2026-11-15/kc-atl",
-          "referer": "https://ppv.st/live/nfl/2026-11-15/kc-atl",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "01:00 Houston Texans at Cleveland Browns",
-          "image": "https://static.ppvservices.st/assets/thumb/edce495f4d55aab4c4135932956b400d-thumbnail.jpg",
-          "url": "https://ppv.st/live/nfl/2026-11-15/hou-cle",
-          "referer": "https://ppv.st/live/nfl/2026-11-15/hou-cle",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "01:00 Minnesota Vikings at Green Bay Packers",
-          "image": "https://static.ppvservices.st/assets/thumb/c4e27e8fed43b7c37e1333ccd1d57ede-thumbnail.jpg",
-          "url": "https://ppv.st/live/nfl/2026-11-15/min-gb",
-          "referer": "https://ppv.st/live/nfl/2026-11-15/min-gb",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "01:00 Jacksonville Jaguars at Tennessee Titans",
-          "image": "https://static.ppvservices.st/assets/thumb/dbb305ab6871208e7cc4e89e90ef343a-thumbnail.jpg",
-          "url": "https://ppv.st/live/nfl/2026-11-15/jax-ten",
-          "referer": "https://ppv.st/live/nfl/2026-11-15/jax-ten",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "01:00 Miami Dolphins at Indianapolis Colts",
-          "image": "https://static.ppvservices.st/assets/thumb/6cb6afb25174858fac803d03983eb01b-thumbnail.jpg",
-          "url": "https://ppv.st/live/nfl/2026-11-15/mia-ind",
-          "referer": "https://ppv.st/live/nfl/2026-11-15/mia-ind",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "01:00 Carolina Panthers at New Orleans Saints",
-          "image": "https://static.ppvservices.st/assets/thumb/fc2174072064e50f2405ccedfa7ff5f3-thumbnail.jpg",
-          "url": "https://ppv.st/live/nfl/2026-11-15/car-no",
-          "referer": "https://ppv.st/live/nfl/2026-11-15/car-no",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "01:00 Buffalo Bills at New York Jets",
-          "image": "https://static.ppvservices.st/assets/thumb/381c8f699724c0c76c745151c69c177c-thumbnail.jpg",
-          "url": "https://ppv.st/live/nfl/2026-11-15/buf-nyj",
-          "referer": "https://ppv.st/live/nfl/2026-11-15/buf-nyj",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
           "name": "01:00 NFL RedZone",
           "image": "https://static.ppvservices.st/assets/thumb/a66bbcaa04317bdc032f473fdc8c9add-thumbnail.jpg",
           "url": "https://ppv.st/live/nfl-redzone-32261",
@@ -113,20 +57,6 @@
       ]
     },
     {
-      "name": "College Football",
-      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
-      "stations": [
-        {
-          "name": "01:00 Ole Miss Rebels at Oklahoma Sooners",
-          "image": "https://static.ppvservices.st/assets/thumb/83a51b3044f085f19f1ce542e219c1ea-thumbnail.jpg",
-          "url": "https://ppv.st/live/cfb/2026-11-14/miss-ou",
-          "referer": "https://ppv.st/live/cfb/2026-11-14/miss-ou",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
       "name": "Canadian Football",
       "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
       "stations": [
@@ -144,14 +74,6 @@
       "name": "NBA",
       "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
       "stations": [
-        {
-          "name": "01:00 Indiana Pacers -. Philadelphia 76ers",
-          "image": "https://static.ppvservices.st/assets/thumb/92d2e1ac54dc610aaf291ba61575159c-thumbnail.jpg",
-          "url": "https://ppv.st/live/nba/2026-11-15/ind-phi",
-          "referer": "https://ppv.st/live/nba/2026-11-15/ind-phi",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
         {
           "name": "04:00 Los Angeles Lakers -. Phoenix Suns",
           "image": "https://static.ppvservices.st/assets/thumb/3f678db824ca83a8cfa9543c537e7cb1-thumbnail.jpg",
@@ -287,38 +209,6 @@
       "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
       "stations": [
         {
-          "name": "01:00 Louisville Cardinals at Memphis Tigers",
-          "image": "https://static.ppvservices.st/assets/thumb/3ae1b0dea24575ce4ce68f6da8e0def8-thumbnail.jpg",
-          "url": "https://ppv.st/live/cbb/2026-11-15/lou-mem",
-          "referer": "https://ppv.st/live/cbb/2026-11-15/lou-mem",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "01:00 Boise State Broncos at Nebraska Cornhuskers",
-          "image": "https://static.ppvservices.st/assets/thumb/c827651c6df5ef06caaa83e4420bacaf-thumbnail.jpg",
-          "url": "https://ppv.st/live/cbb/2026-11-15/bois-neb",
-          "referer": "https://ppv.st/live/cbb/2026-11-15/bois-neb",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "02:00 William & Mary Tribe at Michigan Wolverines",
-          "image": "https://static.ppvservices.st/assets/thumb/0536091a4aff7c2455f7b84fc1198227-thumbnail.jpg",
-          "url": "https://ppv.st/live/cbb/2026-11-15/wm-mich",
-          "referer": "https://ppv.st/live/cbb/2026-11-15/wm-mich",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "03:00 Baylor Bears at Texas Longhorns",
-          "image": "https://static.ppvservices.st/assets/thumb/b85310bb60b74da1654be74b45cf9974-thumbnail.jpg",
-          "url": "https://ppv.st/live/cbb/2026-11-15/bay-tex",
-          "referer": "https://ppv.st/live/cbb/2026-11-15/bay-tex",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
           "name": "07:00 Syracuse Orange at St. John's Red Storm",
           "image": "https://static.ppvservices.st/assets/thumb/0a6ba36f611ce7a4664d14fc6b7e72d7-thumbnail.jpg",
           "url": "https://ppv.st/live/cbb/2026-11-15/syr-sju",
@@ -425,44 +315,6 @@
           "image": "https://static.ppvservices.st/assets/thumb/44d919e74b19b6693673efa9a6748015-thumbnail.jpg",
           "url": "https://ppv.st/live/grand-slam-of-darts--day-9-session-2-32260",
           "referer": "https://ppv.st/live/grand-slam-of-darts--day-9-session-2-32260",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
-      "name": "UEFA Nations League",
-      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
-      "stations": [
-        {
-          "name": "02:45 Belgium -. Italy",
-          "image": "https://static.ppvservices.st/assets/thumb/def4341e04ac73a66137059c101cec1a-thumbnail.jpg",
-          "url": "https://ppv.st/live/uefa-nations-league/2026-11-15/bel-ita",
-          "referer": "https://ppv.st/live/uefa-nations-league/2026-11-15/bel-ita",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "02:45 Croatia -. Czechia",
-          "image": "https://static.ppvservices.st/assets/thumb/dd373479ec6bf3adf4c1c0ac4e250d4d-thumbnail.jpg",
-          "url": "https://ppv.st/live/uefa-nations-league/2026-11-15/cro-cze",
-          "referer": "https://ppv.st/live/uefa-nations-league/2026-11-15/cro-cze",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "02:45 France -. Türkiye",
-          "image": "https://static.ppvservices.st/assets/thumb/6eaeb7365c22c6264b215590d1f2c157-thumbnail.jpg",
-          "url": "https://ppv.st/live/uefa-nations-league/2026-11-15/fra-tur",
-          "referer": "https://ppv.st/live/uefa-nations-league/2026-11-15/fra-tur",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "02:45 Spain -. England",
-          "image": "https://static.ppvservices.st/assets/thumb/db85d79959f1364f9367c55327f7c616-thumbnail.jpg",
-          "url": "https://ppv.st/live/uefa-nations-league/2026-11-15/esp-eng",
-          "referer": "https://ppv.st/live/uefa-nations-league/2026-11-15/esp-eng",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         }

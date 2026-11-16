@@ -593,6 +593,146 @@
       ]
     },
     {
+      "name": "AFCON Qualifying",
+      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
+      "stations": [
+        {
+          "name": "20:00 Namibia -. Cameroon",
+          "image": "https://static.ppvservices.st/assets/thumb/56d777255bbe2b3bf8d2c3b5d1182ed7-thumbnail.jpg",
+          "url": "https://ppv.st/live/afcon-qualifying/2026-11-16/nam-cmr",
+          "referer": "https://ppv.st/live/afcon-qualifying/2026-11-16/nam-cmr",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "20:00 Sudan -. Senegal",
+          "image": "https://static.ppvservices.st/assets/thumb/4a65da83c210f36f4c2f6c76cd0e6acc-thumbnail.jpg",
+          "url": "https://ppv.st/live/afcon-qualifying/2026-11-16/sud-sen",
+          "referer": "https://ppv.st/live/afcon-qualifying/2026-11-16/sud-sen",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "20:00 Zimbabwe -. Equatorial Guinea",
+          "image": "https://static.ppvservices.st/assets/thumb/800c8c99c343fd5d978fdbde2de207a9-thumbnail.jpg",
+          "url": "https://ppv.st/live/afcon-qualifying/2026-11-16/zim-eqg",
+          "referer": "https://ppv.st/live/afcon-qualifying/2026-11-16/zim-eqg",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "22:00 Somalia -. Ghana",
+          "image": "https://static.ppvservices.st/assets/thumb/369c03ef56222f6eb39f3e1a214203c7-thumbnail.jpg",
+          "url": "https://ppv.st/live/afcon-qualifying/2026-11-16/som-gha",
+          "referer": "https://ppv.st/live/afcon-qualifying/2026-11-16/som-gha",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "23:00 Central African Republic -. Benin",
+          "image": "https://static.ppvservices.st/assets/thumb/c0a6c9660551ff1d30c85891b5ba3feb-thumbnail.jpg",
+          "url": "https://ppv.st/live/afcon-qualifying/2026-11-16/cta-ben",
+          "referer": "https://ppv.st/live/afcon-qualifying/2026-11-16/cta-ben",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "00:00 Eritrea -. Guinea",
+          "image": "https://static.ppvservices.st/assets/thumb/8a28b8491fd8846096cfd98d1945c1fc-thumbnail.jpg",
+          "url": "https://ppv.st/live/afcon-qualifying/2026-11-16/eri-gui",
+          "referer": "https://ppv.st/live/afcon-qualifying/2026-11-16/eri-gui",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "UEFA Nations League",
+      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
+      "stations": [
+        {
+          "name": "22:00 Faroe Islands -. Moldova",
+          "image": "https://static.ppvservices.st/assets/thumb/e912375e5e67af411c8810f797762541-thumbnail.jpg",
+          "url": "https://ppv.st/live/uefa-nations-league/2026-11-16/fro-mda",
+          "referer": "https://ppv.st/live/uefa-nations-league/2026-11-16/fro-mda",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "22:00 Kazakhstan -. Slovakia",
+          "image": "https://static.ppvservices.st/assets/thumb/fad58e5c89d4169e5b9f5d810dd81d44-thumbnail.jpg",
+          "url": "https://ppv.st/live/uefa-nations-league/2026-11-16/kaz-svk",
+          "referer": "https://ppv.st/live/uefa-nations-league/2026-11-16/kaz-svk",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "00:00 Estonia -. Bulgaria",
+          "image": "https://static.ppvservices.st/assets/thumb/4341f2be818a6c5e4b1cfe01ce5fe927-thumbnail.jpg",
+          "url": "https://ppv.st/live/uefa-nations-league/2026-11-16/est-bul",
+          "referer": "https://ppv.st/live/uefa-nations-league/2026-11-16/est-bul",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "00:00 Iceland -. Luxembourg",
+          "image": "https://static.ppvservices.st/assets/thumb/ca7c4e351a35338743c8e0a8c67595a8-thumbnail.jpg",
+          "url": "https://ppv.st/live/uefa-nations-league/2026-11-16/isl-lux",
+          "referer": "https://ppv.st/live/uefa-nations-league/2026-11-16/isl-lux",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "00:00 Lithuania -. Liechtenstein",
+          "image": "https://static.ppvservices.st/assets/thumb/f1efddf20db4d2b355108a6201e7d2d6-thumbnail.jpg",
+          "url": "https://ppv.st/live/uefa-nations-league/2026-11-16/ltu-lie",
+          "referer": "https://ppv.st/live/uefa-nations-league/2026-11-16/ltu-lie",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "02:45 Gibraltar -. Malta",
+          "image": "https://static.ppvservices.st/assets/thumb/6a511e999c7adb4d654bba9f4ccfd708-thumbnail.jpg",
+          "url": "https://ppv.st/live/uefa-nations-league/2026-11-16/gib-mlt",
+          "referer": "https://ppv.st/live/uefa-nations-league/2026-11-16/gib-mlt",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "02:45 Greece -. Serbia",
+          "image": "https://static.ppvservices.st/assets/thumb/d24378502922384692993c806528ed55-thumbnail.jpg",
+          "url": "https://ppv.st/live/uefa-nations-league/2026-11-16/gre-srb",
+          "referer": "https://ppv.st/live/uefa-nations-league/2026-11-16/gre-srb",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "02:45 North Macedonia -. Slovenia",
+          "image": "https://static.ppvservices.st/assets/thumb/7c0af8f1a0b9a4ca1780efeca9f5fe37-thumbnail.jpg",
+          "url": "https://ppv.st/live/uefa-nations-league/2026-11-16/mkd-svn",
+          "referer": "https://ppv.st/live/uefa-nations-league/2026-11-16/mkd-svn",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "02:45 Switzerland -. Scotland",
+          "image": "https://static.ppvservices.st/assets/thumb/ecd4b7f261d259cd6835152bf7c4f507-thumbnail.jpg",
+          "url": "https://ppv.st/live/uefa-nations-league/2026-11-16/sui-sco",
+          "referer": "https://ppv.st/live/uefa-nations-league/2026-11-16/sui-sco",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "02:45 Germany -. Netherlands",
+          "image": "https://static.ppvservices.st/assets/thumb/dea4742dab5d5f11e1acb18054073ac1-thumbnail.jpg",
+          "url": "https://ppv.st/live/uefa-nations-league/2026-11-16/ger-ned",
+          "referer": "https://ppv.st/live/uefa-nations-league/2026-11-16/ger-ned",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
       "name": "MLS",
       "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
       "stations": [
@@ -1295,6 +1435,52 @@
           "image": "https://static.ppvservices.st/assets/thumb/b7a225c3d14fb0a3665e2f4913f6a36d-thumbnail.jpg",
           "url": "https://ppv.st/live/nhl/2026-11-16/van-uta",
           "referer": "https://ppv.st/live/nhl/2026-11-16/van-uta",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "Formula 1",
+      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
+      "stations": [
+        {
+          "name": "07:30 Las Vegas Grand Prix - Practice 1",
+          "image": "https://static.ppvservices.st/assets/thumb/a4e51bfec583268fd1a064ffb4c8a18e-thumbnail.jpg",
+          "url": "https://ppv.st/live/f1/2026/las-vegas/fp1",
+          "referer": "https://ppv.st/live/f1/2026/las-vegas/fp1",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "11:00 Las Vegas Grand Prix - Practice 2",
+          "image": "https://static.ppvservices.st/assets/thumb/2891ea26279df1f69fd56d7673213e26-thumbnail.jpg",
+          "url": "https://ppv.st/live/f1/2026/las-vegas/fp2",
+          "referer": "https://ppv.st/live/f1/2026/las-vegas/fp2",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "07:30 Las Vegas Grand Prix - Practice 3",
+          "image": "https://static.ppvservices.st/assets/thumb/a702f41e630dfdaf68ac23e572b0a3c1-thumbnail.jpg",
+          "url": "https://ppv.st/live/f1/2026/las-vegas/fp3",
+          "referer": "https://ppv.st/live/f1/2026/las-vegas/fp3",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "11:00 Las Vegas Grand Prix - Qualifying",
+          "image": "https://static.ppvservices.st/assets/thumb/b526db35e2cda05c237641a723988187-thumbnail.jpg",
+          "url": "https://ppv.st/live/f1/2026/las-vegas/qualifying",
+          "referer": "https://ppv.st/live/f1/2026/las-vegas/qualifying",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "11:00 Las Vegas Grand Prix - Race",
+          "image": "https://static.ppvservices.st/assets/thumb/f7d13134d98d5629c426de8cc76fe91e-thumbnail.jpg",
+          "url": "https://ppv.st/live/f1/2026/las-vegas/race",
+          "referer": "https://ppv.st/live/f1/2026/las-vegas/race",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         }

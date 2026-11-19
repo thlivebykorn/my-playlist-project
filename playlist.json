@@ -295,100 +295,6 @@
       ]
     },
     {
-      "name": "College Basketball",
-      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
-      "stations": [
-        {
-          "name": "04:30 Houston Cougars at Florida Gators",
-          "image": "https://static.ppvservices.st/assets/thumb/cb0c2785724655999b7c506abc265c33-thumbnail.jpg",
-          "url": "https://ppv.st/live/cbb/2026-11-18/hou-fla",
-          "referer": "https://ppv.st/live/cbb/2026-11-18/hou-fla",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "07:00 Siena Saints at St. John's Red Storm",
-          "image": "https://static.ppvservices.st/assets/thumb/db04ac6d57cce1c7bc9b1b506c14ae61-thumbnail.jpg",
-          "url": "https://ppv.st/live/cbb/2026-11-18/sie-sju",
-          "referer": "https://ppv.st/live/cbb/2026-11-18/sie-sju",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "07:30 LSU New Orleans Privateers at Texas Tech Red Raiders",
-          "image": "https://static.ppvservices.st/assets/thumb/c138c1f70b8b9abbafdaaf6d26ef29a6-thumbnail.jpg",
-          "url": "https://ppv.st/live/cbb/2026-11-18/nola-ttu",
-          "referer": "https://ppv.st/live/cbb/2026-11-18/nola-ttu",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "08:00 UL Monroe Warhawks at LSU Tigers",
-          "image": "https://static.ppvservices.st/assets/thumb/80a0a5b9e499880f07fb7e58d9fa993e-thumbnail.jpg",
-          "url": "https://ppv.st/live/cbb/2026-11-18/ulm-lsu",
-          "referer": "https://ppv.st/live/cbb/2026-11-18/ulm-lsu",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "08:30 South Dakota Coyotes at Nebraska Cornhuskers",
-          "image": "https://static.ppvservices.st/assets/thumb/9d9f6ae1702fd33a9667601323ecd15c-thumbnail.jpg",
-          "url": "https://ppv.st/live/cbb/2026-11-18/sdak-neb",
-          "referer": "https://ppv.st/live/cbb/2026-11-18/sdak-neb",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "09:00 UConn Huskies at Arizona Wildcats",
-          "image": "https://static.ppvservices.st/assets/thumb/ba716b9b668cde19becec955cbef7b5d-thumbnail.jpg",
-          "url": "https://ppv.st/live/cbb/2026-11-18/conn-ariz",
-          "referer": "https://ppv.st/live/cbb/2026-11-18/conn-ariz",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "09:00 Northern Colorado Bears at BYU Cougars",
-          "image": "https://static.ppvservices.st/assets/thumb/bd4e9bb481cd2fbf8566a34c4389ab2a-thumbnail.jpg",
-          "url": "https://ppv.st/live/cbb/2026-11-18/unco-byu",
-          "referer": "https://ppv.st/live/cbb/2026-11-18/unco-byu",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "10:30 Cal State Fullerton Titans at UCLA Bruins",
-          "image": "https://static.ppvservices.st/assets/thumb/d4956a5421bc94b8f2401976afd59053-thumbnail.jpg",
-          "url": "https://ppv.st/live/cbb/2026-11-18/csuf-ucla",
-          "referer": "https://ppv.st/live/cbb/2026-11-18/csuf-ucla",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "08:00 Southern Utah Thunderbirds at Texas Longhorns",
-          "image": "https://static.ppvservices.st/assets/thumb/e957ab6591d296eb2242aac24ce90b06-thumbnail.jpg",
-          "url": "https://ppv.st/live/cbb/2026-11-19/suu-tex",
-          "referer": "https://ppv.st/live/cbb/2026-11-19/suu-tex",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "08:00 Stetson Hatters at Louisville Cardinals",
-          "image": "https://static.ppvservices.st/assets/thumb/b8b89d5680f54558e18e799fbaf4b121-thumbnail.jpg",
-          "url": "https://ppv.st/live/cbb/2026-11-19/stet-lou",
-          "referer": "https://ppv.st/live/cbb/2026-11-19/stet-lou",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "11:00 Tarleton State Texans at USC Trojans",
-          "image": "https://static.ppvservices.st/assets/thumb/ea0e5d082f252f5ddf7e0f1db288b02c-thumbnail.jpg",
-          "url": "https://ppv.st/live/cbb/2026-11-19/tar-usc",
-          "referer": "https://ppv.st/live/cbb/2026-11-19/tar-usc",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
       "name": "NBA",
       "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
       "stations": [
@@ -523,6 +429,92 @@
       ]
     },
     {
+      "name": "College Basketball",
+      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
+      "stations": [
+        {
+          "name": "07:00 Siena Saints at St. John's Red Storm",
+          "image": "https://static.ppvservices.st/assets/thumb/db04ac6d57cce1c7bc9b1b506c14ae61-thumbnail.jpg",
+          "url": "https://ppv.st/live/cbb/2026-11-18/sie-sju",
+          "referer": "https://ppv.st/live/cbb/2026-11-18/sie-sju",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "07:30 LSU New Orleans Privateers at Texas Tech Red Raiders",
+          "image": "https://static.ppvservices.st/assets/thumb/c138c1f70b8b9abbafdaaf6d26ef29a6-thumbnail.jpg",
+          "url": "https://ppv.st/live/cbb/2026-11-18/nola-ttu",
+          "referer": "https://ppv.st/live/cbb/2026-11-18/nola-ttu",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "08:00 UL Monroe Warhawks at LSU Tigers",
+          "image": "https://static.ppvservices.st/assets/thumb/80a0a5b9e499880f07fb7e58d9fa993e-thumbnail.jpg",
+          "url": "https://ppv.st/live/cbb/2026-11-18/ulm-lsu",
+          "referer": "https://ppv.st/live/cbb/2026-11-18/ulm-lsu",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "08:30 South Dakota Coyotes at Nebraska Cornhuskers",
+          "image": "https://static.ppvservices.st/assets/thumb/9d9f6ae1702fd33a9667601323ecd15c-thumbnail.jpg",
+          "url": "https://ppv.st/live/cbb/2026-11-18/sdak-neb",
+          "referer": "https://ppv.st/live/cbb/2026-11-18/sdak-neb",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "09:00 UConn Huskies at Arizona Wildcats",
+          "image": "https://static.ppvservices.st/assets/thumb/ba716b9b668cde19becec955cbef7b5d-thumbnail.jpg",
+          "url": "https://ppv.st/live/cbb/2026-11-18/conn-ariz",
+          "referer": "https://ppv.st/live/cbb/2026-11-18/conn-ariz",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "09:00 Northern Colorado Bears at BYU Cougars",
+          "image": "https://static.ppvservices.st/assets/thumb/bd4e9bb481cd2fbf8566a34c4389ab2a-thumbnail.jpg",
+          "url": "https://ppv.st/live/cbb/2026-11-18/unco-byu",
+          "referer": "https://ppv.st/live/cbb/2026-11-18/unco-byu",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "10:30 Cal State Fullerton Titans at UCLA Bruins",
+          "image": "https://static.ppvservices.st/assets/thumb/d4956a5421bc94b8f2401976afd59053-thumbnail.jpg",
+          "url": "https://ppv.st/live/cbb/2026-11-18/csuf-ucla",
+          "referer": "https://ppv.st/live/cbb/2026-11-18/csuf-ucla",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "08:00 Southern Utah Thunderbirds at Texas Longhorns",
+          "image": "https://static.ppvservices.st/assets/thumb/e957ab6591d296eb2242aac24ce90b06-thumbnail.jpg",
+          "url": "https://ppv.st/live/cbb/2026-11-19/suu-tex",
+          "referer": "https://ppv.st/live/cbb/2026-11-19/suu-tex",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "08:00 Stetson Hatters at Louisville Cardinals",
+          "image": "https://static.ppvservices.st/assets/thumb/b8b89d5680f54558e18e799fbaf4b121-thumbnail.jpg",
+          "url": "https://ppv.st/live/cbb/2026-11-19/stet-lou",
+          "referer": "https://ppv.st/live/cbb/2026-11-19/stet-lou",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "11:00 Tarleton State Texans at USC Trojans",
+          "image": "https://static.ppvservices.st/assets/thumb/ea0e5d082f252f5ddf7e0f1db288b02c-thumbnail.jpg",
+          "url": "https://ppv.st/live/cbb/2026-11-19/tar-usc",
+          "referer": "https://ppv.st/live/cbb/2026-11-19/tar-usc",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
       "name": "NBL",
       "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
       "stations": [
@@ -540,14 +532,6 @@
       "name": "PDC Darts",
       "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
       "stations": [
-        {
-          "name": "02:00 Grand Slam of Darts | Day 5",
-          "image": "https://static.ppvservices.st/assets/thumb/44d919e74b19b6693673efa9a6748015-thumbnail.jpg",
-          "url": "https://ppv.st/live/grand-slam-of-darts--day-5-32255",
-          "referer": "https://ppv.st/live/grand-slam-of-darts--day-5-32255",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
         {
           "name": "02:00 Grand Slam of Darts | Day 6",
           "image": "https://static.ppvservices.st/assets/thumb/44d919e74b19b6693673efa9a6748015-thumbnail.jpg",

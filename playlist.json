@@ -291,22 +291,6 @@
       "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
       "stations": [
         {
-          "name": "11:00 Tarleton State Texans at USC Trojans",
-          "image": "https://static.ppvservices.st/assets/thumb/ea0e5d082f252f5ddf7e0f1db288b02c-thumbnail.jpg",
-          "url": "https://ppv.st/live/cbb/2026-11-19/tar-usc",
-          "referer": "https://ppv.st/live/cbb/2026-11-19/tar-usc",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "11:00 Houston Cougars at Kansas Jayhawks",
-          "image": "https://static.ppvservices.st/assets/thumb/172982684d991a3fe33b726967e27418-thumbnail.jpg",
-          "url": "https://ppv.st/live/cbb/2026-11-19/hou-ku",
-          "referer": "https://ppv.st/live/cbb/2026-11-19/hou-ku",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
           "name": "05:00 Manhattan Jaspers at Miami Hurricanes",
           "image": "https://static.ppvservices.st/assets/thumb/16c0c6fb677fee398366c87a79ac3573-thumbnail.jpg",
           "url": "https://ppv.st/live/cbb/2026-11-20/man-mia",
@@ -383,44 +367,6 @@
           "image": "https://static.ppvservices.st/assets/thumb/8c8062fbfb65f7fe2dde5a01b93cd268-thumbnail.jpg",
           "url": "https://ppv.st/live/cbb/2026-11-21/wsu-duke",
           "referer": "https://ppv.st/live/cbb/2026-11-21/wsu-duke",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
-      "name": "NBL",
-      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
-      "stations": [
-        {
-          "name": "15:30 Cairns Taipans -. Perth Wildcats",
-          "image": "https://static.ppvservices.st/assets/thumb/5ec98c78f5eef1240e83ac6667198f0c-thumbnail.jpg",
-          "url": "https://ppv.st/live/nbl/2026-11-20/cns-per",
-          "referer": "https://ppv.st/live/nbl/2026-11-20/cns-per",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "13:30 Tasmania JackJumpers -. Illawarra Hawks",
-          "image": "https://static.ppvservices.st/assets/thumb/076176202ebe7d94ce25e0e68ddf3649-thumbnail.jpg",
-          "url": "https://ppv.st/live/nbl/2026-11-21/tas-hwk",
-          "referer": "https://ppv.st/live/nbl/2026-11-21/tas-hwk",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "15:30 Melbourne United -. New Zealand Breakers",
-          "image": "https://static.ppvservices.st/assets/thumb/c91ed693652c01cb6f76b8875f775e02-thumbnail.jpg",
-          "url": "https://ppv.st/live/nbl/2026-11-21/mel-nzl",
-          "referer": "https://ppv.st/live/nbl/2026-11-21/mel-nzl",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "11:00 South East Melbourne Phoenix -. Cairns Taipans",
-          "image": "https://static.ppvservices.st/assets/thumb/f2aee0cbb167593fae46d3c27b3589fb-thumbnail.jpg",
-          "url": "https://ppv.st/live/nbl/2026-11-22/pnx-cns",
-          "referer": "https://ppv.st/live/nbl/2026-11-22/pnx-cns",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         }
@@ -547,6 +493,36 @@
           "image": "https://static.ppvservices.st/assets/thumb/20bb0dea41202064963a90c9cf3b90cb-thumbnail.jpg",
           "url": "https://ppv.st/live/nba/2026-11-21/bos-sac",
           "referer": "https://ppv.st/live/nba/2026-11-21/bos-sac",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "NBL",
+      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
+      "stations": [
+        {
+          "name": "13:30 Tasmania JackJumpers -. Illawarra Hawks",
+          "image": "https://static.ppvservices.st/assets/thumb/076176202ebe7d94ce25e0e68ddf3649-thumbnail.jpg",
+          "url": "https://ppv.st/live/nbl/2026-11-21/tas-hwk",
+          "referer": "https://ppv.st/live/nbl/2026-11-21/tas-hwk",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "15:30 Melbourne United -. New Zealand Breakers",
+          "image": "https://static.ppvservices.st/assets/thumb/c91ed693652c01cb6f76b8875f775e02-thumbnail.jpg",
+          "url": "https://ppv.st/live/nbl/2026-11-21/mel-nzl",
+          "referer": "https://ppv.st/live/nbl/2026-11-21/mel-nzl",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "11:00 South East Melbourne Phoenix -. Cairns Taipans",
+          "image": "https://static.ppvservices.st/assets/thumb/f2aee0cbb167593fae46d3c27b3589fb-thumbnail.jpg",
+          "url": "https://ppv.st/live/nbl/2026-11-22/pnx-cns",
+          "referer": "https://ppv.st/live/nbl/2026-11-22/pnx-cns",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         }

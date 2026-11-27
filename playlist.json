@@ -3,132 +3,6 @@
   "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
   "groups": [
     {
-      "name": "NFL",
-      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
-      "stations": [
-        {
-          "name": "01:00 Chicago Bears at Detroit Lions",
-          "image": "https://static.ppvservices.st/assets/thumb/67f27827b023c3ccb472dd21204d01de-thumbnail.jpg",
-          "url": "https://ppv.st/live/nfl/2026-11-26/chi-det",
-          "referer": "https://ppv.st/live/nfl/2026-11-26/chi-det",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "04:30 Philadelphia Eagles at Dallas Cowboys",
-          "image": "https://static.ppvservices.st/assets/thumb/d63f5e3ca2a488a5b92479a551bd3562-thumbnail.jpg",
-          "url": "https://ppv.st/live/nfl/2026-11-26/phi-dal",
-          "referer": "https://ppv.st/live/nfl/2026-11-26/phi-dal",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "08:20 Kansas City Chiefs at Buffalo Bills",
-          "image": "https://static.ppvservices.st/assets/thumb/545dc6828165d0f41414dcd148fe5ecb-thumbnail.jpg",
-          "url": "https://ppv.st/live/nfl/2026-11-26/kc-buf",
-          "referer": "https://ppv.st/live/nfl/2026-11-26/kc-buf",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "03:00 Denver Broncos at Pittsburgh Steelers",
-          "image": "https://static.ppvservices.st/assets/thumb/ba976e2604c62434eb25dbe611f97b10-thumbnail.jpg",
-          "url": "https://ppv.st/live/nfl/2026-11-27/den-pit",
-          "referer": "https://ppv.st/live/nfl/2026-11-27/den-pit",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "01:00 New Orleans Saints at Cincinnati Bengals",
-          "image": "https://static.ppvservices.st/assets/thumb/04515848d29837bb5bed84d1257c6c77-thumbnail.jpg",
-          "url": "https://ppv.st/live/nfl/2026-11-29/no-cin",
-          "referer": "https://ppv.st/live/nfl/2026-11-29/no-cin",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "01:00 New York Giants at Indianapolis Colts",
-          "image": "https://static.ppvservices.st/assets/thumb/5911dded8e6ccdfca954b885b0afe8e2-thumbnail.jpg",
-          "url": "https://ppv.st/live/nfl/2026-11-29/nyg-ind",
-          "referer": "https://ppv.st/live/nfl/2026-11-29/nyg-ind",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "01:00 New York Jets at Miami Dolphins",
-          "image": "https://static.ppvservices.st/assets/thumb/5dc3b2bb64b0b3359d07f084bc8bd2fd-thumbnail.jpg",
-          "url": "https://ppv.st/live/nfl/2026-11-29/nyj-mia",
-          "referer": "https://ppv.st/live/nfl/2026-11-29/nyj-mia",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "01:00 Atlanta Falcons at Minnesota Vikings",
-          "image": "https://static.ppvservices.st/assets/thumb/fab8e930e9ef6ad257643d965aeea32c-thumbnail.jpg",
-          "url": "https://ppv.st/live/nfl/2026-11-29/atl-min",
-          "referer": "https://ppv.st/live/nfl/2026-11-29/atl-min",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "01:00 Tennessee Titans at Jacksonville Jaguars",
-          "image": "https://static.ppvservices.st/assets/thumb/67a77fa58b7c1067df3eeb4dac46f6a5-thumbnail.jpg",
-          "url": "https://ppv.st/live/nfl/2026-11-29/ten-jax",
-          "referer": "https://ppv.st/live/nfl/2026-11-29/ten-jax",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "01:00 Baltimore Ravens at Houston Texans",
-          "image": "https://static.ppvservices.st/assets/thumb/e1ddb27c82e98dae7d3c8659d35b0075-thumbnail.jpg",
-          "url": "https://ppv.st/live/nfl/2026-11-29/bal-hou",
-          "referer": "https://ppv.st/live/nfl/2026-11-29/bal-hou",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "04:05 New England Patriots at Los Angeles Chargers",
-          "image": "https://static.ppvservices.st/assets/thumb/cfd9177a9fc43bf1390c1cad8cfa3688-thumbnail.jpg",
-          "url": "https://ppv.st/live/nfl/2026-11-29/ne-lac",
-          "referer": "https://ppv.st/live/nfl/2026-11-29/ne-lac",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "04:25 Washington Commanders at Arizona Cardinals",
-          "image": "https://static.ppvservices.st/assets/thumb/82e38bf94e63cf658788725e1d49b5b6-thumbnail.jpg",
-          "url": "https://ppv.st/live/nfl/2026-11-29/wsh-ari",
-          "referer": "https://ppv.st/live/nfl/2026-11-29/wsh-ari",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "04:25 Seattle Seahawks at San Francisco 49ers",
-          "image": "https://static.ppvservices.st/assets/thumb/3f4358d42d47b01aa5f053e2a98dbf61-thumbnail.jpg",
-          "url": "https://ppv.st/live/nfl/2026-11-29/sea-sf",
-          "referer": "https://ppv.st/live/nfl/2026-11-29/sea-sf",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "08:20 Las Vegas Raiders at Cleveland Browns",
-          "image": "https://static.ppvservices.st/assets/thumb/57ce551d32ccd51ce9ad8bcccd40cdbf-thumbnail.jpg",
-          "url": "https://ppv.st/live/nfl/2026-11-29/lv-cle",
-          "referer": "https://ppv.st/live/nfl/2026-11-29/lv-cle",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "08:15 Carolina Panthers at Tampa Bay Buccaneers",
-          "image": "https://static.ppvservices.st/assets/thumb/609df08b6db360db6a2a551e71c04c7d-thumbnail.jpg",
-          "url": "https://ppv.st/live/nfl/2026-11-30/car-tb",
-          "referer": "https://ppv.st/live/nfl/2026-11-30/car-tb",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
       "name": "College Football",
       "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
       "stations": [
@@ -319,57 +193,119 @@
       ]
     },
     {
-      "name": "College Basketball",
+      "name": "NFL",
       "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
       "stations": [
         {
-          "name": "02:30 Georgetown Hoyas at Texas Longhorns",
-          "image": "https://static.ppvservices.st/assets/thumb/2a6056783ca30f11029dfbb06eef7790-thumbnail.jpg",
-          "url": "https://ppv.st/live/cbb/2026-11-26/gtwn-tex",
-          "referer": "https://ppv.st/live/cbb/2026-11-26/gtwn-tex",
+          "name": "08:20 Kansas City Chiefs at Buffalo Bills",
+          "image": "https://static.ppvservices.st/assets/thumb/545dc6828165d0f41414dcd148fe5ecb-thumbnail.jpg",
+          "url": "https://ppv.st/live/nfl/2026-11-26/kc-buf",
+          "referer": "https://ppv.st/live/nfl/2026-11-26/kc-buf",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         },
         {
-          "name": "03:30 Tennessee Volunteers at Iowa State Cyclones",
-          "image": "https://static.ppvservices.st/assets/thumb/d87b18127ebd33f747f82d362e6d0213-thumbnail.jpg",
-          "url": "https://ppv.st/live/cbb/2026-11-26/tenn-isu",
-          "referer": "https://ppv.st/live/cbb/2026-11-26/tenn-isu",
+          "name": "03:00 Denver Broncos at Pittsburgh Steelers",
+          "image": "https://static.ppvservices.st/assets/thumb/ba976e2604c62434eb25dbe611f97b10-thumbnail.jpg",
+          "url": "https://ppv.st/live/nfl/2026-11-27/den-pit",
+          "referer": "https://ppv.st/live/nfl/2026-11-27/den-pit",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         },
         {
-          "name": "03:30 Miami Hurricanes at Michigan Wolverines",
-          "image": "https://static.ppvservices.st/assets/thumb/86eac1bf2e14d69d642647d5a7e575b8-thumbnail.jpg",
-          "url": "https://ppv.st/live/cbb/2026-11-26/mia-mich",
-          "referer": "https://ppv.st/live/cbb/2026-11-26/mia-mich",
+          "name": "01:00 New Orleans Saints at Cincinnati Bengals",
+          "image": "https://static.ppvservices.st/assets/thumb/04515848d29837bb5bed84d1257c6c77-thumbnail.jpg",
+          "url": "https://ppv.st/live/nfl/2026-11-29/no-cin",
+          "referer": "https://ppv.st/live/nfl/2026-11-29/no-cin",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         },
         {
-          "name": "04:30 Arkansas Razorbacks at Michigan State Spartans",
-          "image": "https://static.ppvservices.st/assets/thumb/de58db432c6a01b61f8f88626bc320b2-thumbnail.jpg",
-          "url": "https://ppv.st/live/cbb/2026-11-26/ark-msu",
-          "referer": "https://ppv.st/live/cbb/2026-11-26/ark-msu",
+          "name": "01:00 New York Giants at Indianapolis Colts",
+          "image": "https://static.ppvservices.st/assets/thumb/5911dded8e6ccdfca954b885b0afe8e2-thumbnail.jpg",
+          "url": "https://ppv.st/live/nfl/2026-11-29/nyg-ind",
+          "referer": "https://ppv.st/live/nfl/2026-11-29/nyg-ind",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         },
         {
-          "name": "04:30 Utah State Aggies at USC Trojans",
-          "image": "https://static.ppvservices.st/assets/thumb/0ab3608c513c8a3db1ebf9be075916aa-thumbnail.jpg",
-          "url": "https://ppv.st/live/cbb/2026-11-26/usu-usc",
-          "referer": "https://ppv.st/live/cbb/2026-11-26/usu-usc",
+          "name": "01:00 New York Jets at Miami Dolphins",
+          "image": "https://static.ppvservices.st/assets/thumb/5dc3b2bb64b0b3359d07f084bc8bd2fd-thumbnail.jpg",
+          "url": "https://ppv.st/live/nfl/2026-11-29/nyj-mia",
+          "referer": "https://ppv.st/live/nfl/2026-11-29/nyj-mia",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         },
         {
-          "name": "05:00 Saint Mary's Gaels at UCLA Bruins",
-          "image": "https://static.ppvservices.st/assets/thumb/90e212c516f9fb6c6f2e9001e71aa85a-thumbnail.jpg",
-          "url": "https://ppv.st/live/cbb/2026-11-26/smc-ucla",
-          "referer": "https://ppv.st/live/cbb/2026-11-26/smc-ucla",
+          "name": "01:00 Atlanta Falcons at Minnesota Vikings",
+          "image": "https://static.ppvservices.st/assets/thumb/fab8e930e9ef6ad257643d965aeea32c-thumbnail.jpg",
+          "url": "https://ppv.st/live/nfl/2026-11-29/atl-min",
+          "referer": "https://ppv.st/live/nfl/2026-11-29/atl-min",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         },
+        {
+          "name": "01:00 Tennessee Titans at Jacksonville Jaguars",
+          "image": "https://static.ppvservices.st/assets/thumb/67a77fa58b7c1067df3eeb4dac46f6a5-thumbnail.jpg",
+          "url": "https://ppv.st/live/nfl/2026-11-29/ten-jax",
+          "referer": "https://ppv.st/live/nfl/2026-11-29/ten-jax",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "01:00 Baltimore Ravens at Houston Texans",
+          "image": "https://static.ppvservices.st/assets/thumb/e1ddb27c82e98dae7d3c8659d35b0075-thumbnail.jpg",
+          "url": "https://ppv.st/live/nfl/2026-11-29/bal-hou",
+          "referer": "https://ppv.st/live/nfl/2026-11-29/bal-hou",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "04:05 New England Patriots at Los Angeles Chargers",
+          "image": "https://static.ppvservices.st/assets/thumb/cfd9177a9fc43bf1390c1cad8cfa3688-thumbnail.jpg",
+          "url": "https://ppv.st/live/nfl/2026-11-29/ne-lac",
+          "referer": "https://ppv.st/live/nfl/2026-11-29/ne-lac",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "04:25 Washington Commanders at Arizona Cardinals",
+          "image": "https://static.ppvservices.st/assets/thumb/82e38bf94e63cf658788725e1d49b5b6-thumbnail.jpg",
+          "url": "https://ppv.st/live/nfl/2026-11-29/wsh-ari",
+          "referer": "https://ppv.st/live/nfl/2026-11-29/wsh-ari",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "04:25 Seattle Seahawks at San Francisco 49ers",
+          "image": "https://static.ppvservices.st/assets/thumb/3f4358d42d47b01aa5f053e2a98dbf61-thumbnail.jpg",
+          "url": "https://ppv.st/live/nfl/2026-11-29/sea-sf",
+          "referer": "https://ppv.st/live/nfl/2026-11-29/sea-sf",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "08:20 Las Vegas Raiders at Cleveland Browns",
+          "image": "https://static.ppvservices.st/assets/thumb/57ce551d32ccd51ce9ad8bcccd40cdbf-thumbnail.jpg",
+          "url": "https://ppv.st/live/nfl/2026-11-29/lv-cle",
+          "referer": "https://ppv.st/live/nfl/2026-11-29/lv-cle",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "08:15 Carolina Panthers at Tampa Bay Buccaneers",
+          "image": "https://static.ppvservices.st/assets/thumb/609df08b6db360db6a2a551e71c04c7d-thumbnail.jpg",
+          "url": "https://ppv.st/live/nfl/2026-11-30/car-tb",
+          "referer": "https://ppv.st/live/nfl/2026-11-30/car-tb",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "College Basketball",
+      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
+      "stations": [
         {
           "name": "07:00 SMU Mustangs at LSU Tigers",
           "image": "https://static.ppvservices.st/assets/thumb/b9f813bafca45288936359ff1fbedabf-thumbnail.jpg",
@@ -549,298 +485,6 @@
           "image": "https://static.ppvservices.st/assets/thumb/e4b703576104c3f8fbb7e6e80e69df28-thumbnail.jpg",
           "url": "https://ppv.st/live/nba/2026-11-27/gs-por",
           "referer": "https://ppv.st/live/nba/2026-11-27/gs-por",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
-      "name": "Europa League",
-      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
-      "stations": [
-        {
-          "name": "00:45 Besiktas -. Hapoel Be'er",
-          "image": "https://static.ppvservices.st/assets/thumb/a07e6f77cd7dbd20dacdf11e618634f5-thumbnail.jpg",
-          "url": "https://ppv.st/live/uel/2026-11-26/bes-hbe",
-          "referer": "https://ppv.st/live/uel/2026-11-26/bes-hbe",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "00:45 Celta Vigo -. AFC Bournemouth",
-          "image": "https://static.ppvservices.st/assets/thumb/139d266f7de2303b50d2fd96dbf17ab1-thumbnail.jpg",
-          "url": "https://ppv.st/live/uel/2026-11-26/cel-bou",
-          "referer": "https://ppv.st/live/uel/2026-11-26/cel-bou",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "00:45 Dinamo Zagreb -. Bayer Leverkusen",
-          "image": "https://static.ppvservices.st/assets/thumb/0a2130db2573c4aa2821b98a3c926b5b-thumbnail.jpg",
-          "url": "https://ppv.st/live/uel/2026-11-26/dzg-b04",
-          "referer": "https://ppv.st/live/uel/2026-11-26/dzg-b04",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "00:45 Marseille -. Levski Sofia",
-          "image": "https://static.ppvservices.st/assets/thumb/8c8980c25dbdc02b829fe4e36398f6e3-thumbnail.jpg",
-          "url": "https://ppv.st/live/uel/2026-11-26/olm-lev",
-          "referer": "https://ppv.st/live/uel/2026-11-26/olm-lev",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "00:45 Olympiacos -. AC Milan",
-          "image": "https://static.ppvservices.st/assets/thumb/042649e7d9ad97d1770c916de35e327b-thumbnail.jpg",
-          "url": "https://ppv.st/live/uel/2026-11-26/oly-mil",
-          "referer": "https://ppv.st/live/uel/2026-11-26/oly-mil",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "00:45 RB Salzburg -. Ararat-Armenia",
-          "image": "https://static.ppvservices.st/assets/thumb/ce2385559659a32f41787972c9b00d53-thumbnail.jpg",
-          "url": "https://ppv.st/live/uel/2026-11-26/slz-ara",
-          "referer": "https://ppv.st/live/uel/2026-11-26/slz-ara",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "00:45 Union St.-Gilloise -. Lech Poznan",
-          "image": "https://static.ppvservices.st/assets/thumb/21bb371d8aedf3a222f0180fca1ede53-thumbnail.jpg",
-          "url": "https://ppv.st/live/uel/2026-11-26/usg-lech",
-          "referer": "https://ppv.st/live/uel/2026-11-26/usg-lech",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "00:45 Viktoria Plzen -. Benfica",
-          "image": "https://static.ppvservices.st/assets/thumb/ff6389edfe640f336e98804e7fb4b648-thumbnail.jpg",
-          "url": "https://ppv.st/live/uel/2026-11-26/plz-slb",
-          "referer": "https://ppv.st/live/uel/2026-11-26/plz-slb",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "03:00 Crystal Palace -. Real Sociedad",
-          "image": "https://static.ppvservices.st/assets/thumb/a65190b7d0ea55b110d52c1aa154f853-thumbnail.jpg",
-          "url": "https://ppv.st/live/uel/2026-11-26/cry-rso",
-          "referer": "https://ppv.st/live/uel/2026-11-26/cry-rso",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "03:00 Ferencvaros -. NK Celje",
-          "image": "https://static.ppvservices.st/assets/thumb/782407dcd10055f0a8b2a0a19e7d409e-thumbnail.jpg",
-          "url": "https://ppv.st/live/uel/2026-11-26/fer-nkc",
-          "referer": "https://ppv.st/live/uel/2026-11-26/fer-nkc",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "03:00 Juventus -. Omonia Nicosia",
-          "image": "https://static.ppvservices.st/assets/thumb/03f6043445f42a077dc561ede8159e11-thumbnail.jpg",
-          "url": "https://ppv.st/live/uel/2026-11-26/juv-omon",
-          "referer": "https://ppv.st/live/uel/2026-11-26/juv-omon",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "03:00 Lyon -. Lillestrom",
-          "image": "https://static.ppvservices.st/assets/thumb/cb211eb768dc9171d1188cf6f5526325-thumbnail.jpg",
-          "url": "https://ppv.st/live/uel/2026-11-26/lyon-lsk",
-          "referer": "https://ppv.st/live/uel/2026-11-26/lyon-lsk",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "03:00 NEC Nijmegen -. Stade Rennais",
-          "image": "https://static.ppvservices.st/assets/thumb/14722cd59d2e12db07bf8433267f2102-thumbnail.jpg",
-          "url": "https://ppv.st/live/uel/2026-11-26/nec-ren",
-          "referer": "https://ppv.st/live/uel/2026-11-26/nec-ren",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "03:00 OFI Crete -. Anderlecht",
-          "image": "https://static.ppvservices.st/assets/thumb/4e43c7091a72fce4bfd2e215c9f788f9-thumbnail.jpg",
-          "url": "https://ppv.st/live/uel/2026-11-26/ofi-and",
-          "referer": "https://ppv.st/live/uel/2026-11-26/ofi-and",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "03:00 Sparta Prague -. AZ Alkmaar",
-          "image": "https://static.ppvservices.st/assets/thumb/23e8fe1612924c73b11350f1c8e0b79c-thumbnail.jpg",
-          "url": "https://ppv.st/live/uel/2026-11-26/spp-az",
-          "referer": "https://ppv.st/live/uel/2026-11-26/spp-az",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "03:00 Sunderland -. Jagiellonia Bialystok",
-          "image": "https://static.ppvservices.st/assets/thumb/913a4e1cc0f80dcd685da8c92b8c738f-thumbnail.jpg",
-          "url": "https://ppv.st/live/uel/2026-11-26/sun-jag",
-          "referer": "https://ppv.st/live/uel/2026-11-26/sun-jag",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "03:00 Torreense -. Celtic",
-          "image": "https://static.ppvservices.st/assets/thumb/994d5743cc9526aa0531997b0fcbaa22-thumbnail.jpg",
-          "url": "https://ppv.st/live/uel/2026-11-26/tor-cel",
-          "referer": "https://ppv.st/live/uel/2026-11-26/tor-cel",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "03:00 TSG Hoffenheim -. SK Sturm Graz",
-          "image": "https://static.ppvservices.st/assets/thumb/334323383e1edb6880f7d6939e12e63c-thumbnail.jpg",
-          "url": "https://ppv.st/live/uel/2026-11-26/tsg-stg",
-          "referer": "https://ppv.st/live/uel/2026-11-26/tsg-stg",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
-      "name": "Conference League",
-      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
-      "stations": [
-        {
-          "name": "00:45 Ajax Amsterdam -. FC Thun",
-          "image": "https://static.ppvservices.st/assets/thumb/1e462859d2a9d0c14d2ecaf22ea4e2a1-thumbnail.jpg",
-          "url": "https://ppv.st/live/uecl/2026-11-26/aja-thun",
-          "referer": "https://ppv.st/live/uecl/2026-11-26/aja-thun",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "00:45 Brighton & Hove Albion -. CSU Craiova",
-          "image": "https://static.ppvservices.st/assets/thumb/b4155822d29039bb1b287dcffcefc84b-thumbnail.jpg",
-          "url": "https://ppv.st/live/uecl/2026-11-26/bha-ucra",
-          "referer": "https://ppv.st/live/uecl/2026-11-26/bha-ucra",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "00:45 Egnatia -. Lincoln Red Imps",
-          "image": "https://static.ppvservices.st/assets/thumb/bc8f8611299323798b6e2f920b712f09-thumbnail.jpg",
-          "url": "https://ppv.st/live/uecl/2026-11-26/egn-lri",
-          "referer": "https://ppv.st/live/uecl/2026-11-26/egn-lri",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "00:45 Heart of Midlothian -. AS Monaco",
-          "image": "https://static.ppvservices.st/assets/thumb/f7734b3c742ff9a036c1c62358187d71-thumbnail.jpg",
-          "url": "https://ppv.st/live/uecl/2026-11-26/hom-mon",
-          "referer": "https://ppv.st/live/uecl/2026-11-26/hom-mon",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "00:45 Iberia 1999 -. Getafe",
-          "image": "https://static.ppvservices.st/assets/thumb/cb66d20a6df6cb1acac24719188d4665-thumbnail.jpg",
-          "url": "https://ppv.st/live/uecl/2026-11-26/ibe-get",
-          "referer": "https://ppv.st/live/uecl/2026-11-26/ibe-get",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "00:45 Jablonec -. FC Lugano",
-          "image": "https://static.ppvservices.st/assets/thumb/69b65069367252178a98f875bfe5b05a-thumbnail.jpg",
-          "url": "https://ppv.st/live/uecl/2026-11-26/jabl-lug",
-          "referer": "https://ppv.st/live/uecl/2026-11-26/jabl-lug",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "00:45 Kauno Zalgiris -. Riga FC",
-          "image": "https://static.ppvservices.st/assets/thumb/45254d5799afdf0a9389c949cdc172b2-thumbnail.jpg",
-          "url": "https://ppv.st/live/uecl/2026-11-26/zal-rig",
-          "referer": "https://ppv.st/live/uecl/2026-11-26/zal-rig",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "00:45 Pafos -. FC Midtjylland",
-          "image": "https://static.ppvservices.st/assets/thumb/2f5944e9e64c7f7254bd2efce8723335-thumbnail.jpg",
-          "url": "https://ppv.st/live/uecl/2026-11-26/paf-mid",
-          "referer": "https://ppv.st/live/uecl/2026-11-26/paf-mid",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "00:45 SK Brann -. AGF",
-          "image": "https://static.ppvservices.st/assets/thumb/27a23e2f3b8266058e13201812d652e3-thumbnail.jpg",
-          "url": "https://ppv.st/live/uecl/2026-11-26/skbr-agf",
-          "referer": "https://ppv.st/live/uecl/2026-11-26/skbr-agf",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "03:00 Borac Banja Luka -. Atalanta",
-          "image": "https://static.ppvservices.st/assets/thumb/c694213f4f7272831cae3dc18a99f8e8-thumbnail.jpg",
-          "url": "https://ppv.st/live/uecl/2026-11-26/bbl-ata",
-          "referer": "https://ppv.st/live/uecl/2026-11-26/bbl-ata",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "03:00 Braga -. KuPS Kuopio",
-          "image": "https://static.ppvservices.st/assets/thumb/c0cfae1f221adf3945106af2cc232f16-thumbnail.jpg",
-          "url": "https://ppv.st/live/uecl/2026-11-26/scb-kups",
-          "referer": "https://ppv.st/live/uecl/2026-11-26/scb-kups",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "03:00 CSKA Sofia -. Trabzonspor",
-          "image": "https://static.ppvservices.st/assets/thumb/d607f38ed8071ec40ebf446872d93121-thumbnail.jpg",
-          "url": "https://ppv.st/live/uecl/2026-11-26/cska-trab",
-          "referer": "https://ppv.st/live/uecl/2026-11-26/cska-trab",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "03:00 FC Nordsjælland -. Panathinaikos",
-          "image": "https://static.ppvservices.st/assets/thumb/90b6c982a031b5161d42bcc1d8801112-thumbnail.jpg",
-          "url": "https://ppv.st/live/uecl/2026-11-26/fcn-pao",
-          "referer": "https://ppv.st/live/uecl/2026-11-26/fcn-pao",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "03:00 Hajduk Split -. Sint-Truidense",
-          "image": "https://static.ppvservices.st/assets/thumb/ea84f59f3ccdca514ec4ab39c95943ab-thumbnail.jpg",
-          "url": "https://ppv.st/live/uecl/2026-11-26/haj-stvv",
-          "referer": "https://ppv.st/live/uecl/2026-11-26/haj-stvv",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "03:00 Inter D'Escaldes -. F.C. København",
-          "image": "https://static.ppvservices.st/assets/thumb/94e17583a62ec3bd770c33183b114f27-thumbnail.jpg",
-          "url": "https://ppv.st/live/uecl/2026-11-26/ide-kbh",
-          "referer": "https://ppv.st/live/uecl/2026-11-26/ide-kbh",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "03:00 KAA Gent -. Red Star Belgrade",
-          "image": "https://static.ppvservices.st/assets/thumb/1fc675f5cd4a849463793fb27b5483fc-thumbnail.jpg",
-          "url": "https://ppv.st/live/uecl/2026-11-26/gent-rsb",
-          "referer": "https://ppv.st/live/uecl/2026-11-26/gent-rsb",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "03:00 SC Freiburg -. FC Twente",
-          "image": "https://static.ppvservices.st/assets/thumb/3c63b07d41c77aa3b05ae155b435ddec-thumbnail.jpg",
-          "url": "https://ppv.st/live/uecl/2026-11-26/scf-twe",
-          "referer": "https://ppv.st/live/uecl/2026-11-26/scf-twe",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         }
